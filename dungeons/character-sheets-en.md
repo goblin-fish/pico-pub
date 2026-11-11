@@ -50,7 +50,7 @@ How they act (set 2026-11-08): in the daytime, Karin and Wren always take the pl
 - XP: 1,545 (Level 4 at 2,700 XP)
 - Background: Acolyte (raised in a temple) *decided by the DM, can be changed
 - Personality: Bold and energetic, the youngest at heart. Confident, loves teasing Punya. First to jump into a fight
-- Appearance: Height 163 cm, B87 / W55 / H87, black hair in a ponytail / Lingerie: **D70, black lace** (bought Oct 18 in Greywall) / Body: puffy nipples / Signature move: **Machine-Gun Cowgirl**
+- Appearance: Height 163 cm, B87 / W55 / H87, black hair in a ponytail
 - Ability Scores: STR 12 (+1) / DEX 16 (+3) / CON 14 (+2) / INT 9 (−1) / WIS 16 (+3) / CHA 10 (+0)
 - Hit Point Maximum: 24 / Hit Dice: 3d8 / Speed: 40
 - Armor Class: 16 (Unarmored Defense = 10 + DEX + WIS, no armor or shield)
@@ -69,7 +69,7 @@ How they act (set 2026-11-08): in the daytime, Karin and Wren always take the pl
 - XP: 1,545 (Level 4 at 2,700 XP)
 - Background: Folk Hero *decided by the DM, can be changed
 - Personality: Gentle and sweet, a little airheaded. Always worries about everyone's wounds
-- Appearance: Height 149 cm, B90 / W56 / H86, brown wavy hair / Lingerie: **G65, white** (bought Oct 18 in Greywall) / Body: hairless (no pubic hair) / Signature move: **Geyser Squirt**
+- Appearance: Height 149 cm, B90 / W56 / H86, brown wavy hair
 - Ability Scores: STR 9 (−1) / DEX 12 (+1) / CON 12 (+1) / INT 12 (+1) / WIS 16 (+3) / CHA 16 (+3)
 - Hit Point Maximum: 21 / Hit Dice: 3d8 / Speed: 30
 - Armor Class: 14 (Leather armor + Wooden shield)
@@ -107,7 +107,7 @@ How they act (set 2026-11-08): in the daytime, Karin and Wren always take the pl
 - XP: 1,545 (Level 4 at 2,700 XP)
 - Background: Sage *decided by the DM, can be changed
 - Personality: Smart, with glasses. Calm, but sharp-tongued when embarrassed. Always reading a book. But the calm face is an act — in truth, she is the most lecherous of the three. She plans quietly and plays innocent after
-- Appearance: Height 156 cm, B103 / W61 / H94, navy-blue bob (longer in front), glasses / Lingerie: **J70, deep red** (bought Oct 18 in Greywall) / Body: an enlarged clitoris / Signature move: **Tornado Blowjob**
+- Appearance: Height 156 cm, B103 / W61 / H94, navy-blue bob (longer in front), glasses
 - Ability Scores: STR 9 (−1) / DEX 12 (+1) / CON 12 (+1) / INT 16 (+3) / WIS 12 (+1) / CHA 16 (+3)
 - Hit Point Maximum: 17 / Hit Dice: 3d6 / Speed: 30
 - Armor Class: 11 (14 with Mage Armor)

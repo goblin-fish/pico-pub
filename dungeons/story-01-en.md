@@ -36,7 +36,7 @@ Last update: 2026-11-10
 - **The deal with the pixies** (Wren's try to scare them failed, and Tansy offered a trade): the pixies promised — tell no one about the party, guide them truly when they return, and never sing against them. The party promised — come back, steal Tansy's and Sorrel's fire-cups and Lira's empty cup, and set them free
 - **The return signal**: at night, at the flat patch south of the road, Punya calls out the password: "Chinpyoro-supōn!" The answer is a light blinking three times — a pause — three times. Only one pixie comes (two means a trap). They do not use honey for the signal, because other pixies might find it
 - In the evening, they freed the two pixies at the edge of the forest. Tansy's last words: "Chinpyoro... supōn. We will not forget." Far away, a light blinked: three times — a pause — three times
-- **Night (the promises kept)**: Noel's List said Wren, Noel, Karin. Punya kept his word to all three (Wren → Noel → Karin). Noel drew one clean line through the list. The four of them slept close together [Sex: Wren][Sex: Noel][Sex: Karin]
+- **Night (the promises kept)**: Noel's List said Wren, Noel, Karin. Punya kept his word to all three (Wren → Noel → Karin). Noel drew one clean line through the list. The four of them slept close together
 
 ## September 17 (Day 4) — To Ravenport
 
@@ -218,7 +218,6 @@ Last update: 2026-11-10
 - Halloran looks at Noel's still face, then at you. "...The tax rolls on because of your four." **The column rolls for Alden. Noel sleeps on the wagon, Karin's cloak under her head.**
 - **Party purse: 110 gp 6 sp. XP: 274 / 300 each.** The second half of the pay, 12 gp, comes in Ravenport. The session waits on Punya's move — October 2, night, on the road to Alden
 
-
 ## October 2 (Day 19), evening — Alden, The Golden Sheaf
 
 - You ride the third wagon with Noel in your arms, all the way to Alden. Wren puts two fingers on Noel's neck every little while. "Breathing. Resting. She is well, Punya." Karin walks by the wagon the whole way. Not at the front. Not laughing. By the wagon
@@ -258,12 +257,12 @@ Last update: 2026-11-10
 ## October 5 (Day 22) — a day of rest
 
 - A slow day of soup, sleep, and quiet rooms, for Wren's fever (room and dinner −2 gp, **purse: 119 gp 6 sp**)
-- Afternoon: Karin, on the big bed, ponytail loose — Punya's mouth between her legs until she cries out. "Best medicine in Ravenport." (Written in Karin's Record, not counted) [Cunnilingus: Karin]
+- Afternoon: Karin, on the big bed, ponytail loose — Punya's mouth between her legs until she cries out. "Best medicine in Ravenport." (Written in Karin's Record, not counted)
 - 🎲 **Wren's second save: 21 — her fever breaks too.** Long rest complete: everyone healthy, full HP, full slots
 
 ## October 6 (Day 23), morning — even
 
-- Wren is awake early, cool-skinned and well. "You came to me last. So keep me longest." She holds him close, legs around him, until her breath breaks. After: "Even. Now we are even." [Sex: Wren]
+- Wren is awake early, cool-skinned and well. "You came to me last. So keep me longest." She holds him close, legs around him, until her breath breaks. After: "Even. Now we are even."
 - From her book corner, Noel, dry as paper: "Wren has two now. Karin and I have one each. I keep the list, Punya." She turns a page. She is smiling
 - **State: Oct 6, daytime, Ravenport. Level 2, XP 336 / 900 each. Purse: 44 gp 6 sp (two silver daggers −75 gp). Tonight, the party waits in the customs warehouse cellar for the wererat**
 
@@ -286,7 +285,7 @@ Last update: 2026-11-10
 
 ## October 7 (Day 24), before dawn — the reward
 
-- Back at the Eel (room and a late supper −2 gp, **purse: 52 gp 6 sp**). You take Wren's face in your hands: "Good job, Wren. I love you. I'm going to fill your pussy with plenty of my semen." She holds on with all her small strength, and you keep your word, deep and full. She sleeps smiling, curled into your side [Sex: Wren]
+- Back at the Eel (room and a late supper −2 gp, **purse: 52 gp 6 sp**). You take Wren's face in your hands: "Good job, Wren. I love you. I'm going to fill your pussy with plenty of my semen." She holds on with all her small strength, and you keep your word, deep and full. She sleeps smiling, curled into your side
 - **Long rest: complete.** Late morning, Noel looks at the sleeping Wren, then at you: "Three for Wren. The list is growing teeth, Punya."
 - **State: Oct 7, late morning, Ravenport. Level 2, XP 448 / 900 each. Purse: 52 gp 6 sp**
 
@@ -316,7 +315,7 @@ Last update: 2026-11-10
 ## October 8 (Day 25), night — the reward, and the morning
 
 - The headwoman presses **4 gp** into Punya's hand — "For the lights. For our wood." (**Purse: 66 gp 6 sp**.) Free beds in the guest loft. Wren's hands close the lightning burn on Noel's skin
-- You find Noel awake, reading by candlelight. "A very good job, Noel. I have sex with you. This is your reward. I'm going to pump every last drop of my semen into your pussy until my testicles are empty." Her book closes. "…Then do it properly, Punya. I nearly died for those missiles." She takes her reward to the last drop [Sex: Noel]
+- You find Noel awake, reading by candlelight. "A very good job, Noel. I have sex with you. This is your reward. I'm going to pump every last drop of my semen into your pussy until my testicles are empty." Her book closes. "…Then do it properly, Punya. I nearly died for those missiles." She takes her reward to the last drop
 - **Long rest: complete.** Oct 9, morning — full HP, full slots. The count stands: Wren 3, Noel 2, Karin 1. From the doorway, Karin's voice: "Oi. *One?*"
 - **State: Oct 9, morning, Lydford. Level 2, XP 560 / 900 each. Purse: 66 gp 6 sp. The ruins' king — the owlbear — is still out there**
 
@@ -345,7 +344,7 @@ Last update: 2026-11-10
 ## October 9 (Day 26), night — Karin's turn
 
 - The village feasts on the hero of the ruins. Wren's Cure Wounds closed Karin's claw wounds by supper; by dark she is all grin and no bandage
-- "You brought us victory," you tell her. "Good job, Karin. Your turn tonight. I have sex with you. Your pussy will be filled by my penis." She stands, takes your hand, and pulls. "Took you long enough, old man." In the loft she is all muscle and heat and laughter — and then, under you, the laughter goes quiet and real. When you finish inside her, she locks her legs around you and doesn't let go for a long while [Sex: Karin]
+- "You brought us victory," you tell her. "Good job, Karin. Your turn tonight. I have sex with you. Your pussy will be filled by my penis." She stands, takes your hand, and pulls. "Took you long enough, old man." In the loft she is all muscle and heat and laughter — and then, under you, the laughter goes quiet and real. When you finish inside her, she locks her legs around you and doesn't let go for a long while
 - **The count stands even: Wren 3, Noel 2, Karin 2.** Noel's pen scratches, satisfied: "Better."
 - **Long rest: complete.** Oct 10, morning — full HP, full slots. Noel, dry as winter: "Party status, then. Hit Points: full. Spell Slots: full. Punya's testicles: empty. We are a rested, balanced, fully operational party."
 
@@ -417,14 +416,14 @@ Last update: 2026-11-10
 - **Deep night, Punya's plan:** he steals the boat's **oars**, cuts the window shutter's rope with Sleight of Hand (natural 20), and opens on the sleeping Rask — rapier + Sneak Attack, **critical, 26**. Rask survives at **1 HP** and wakes screaming. A hard 3-round fight: Rask stabs Punya for 11 (Punya 10/21); Karin kills the prone Pike; **Rask dies**; Fen surrenders at 9 HP
 - The bounty names Rask only — Punya spares Fen for his valuables and his knowledge: Rask's stash under the hearth board (14 gp 6 sp, mostly **new silver**), and a key on a cord — Rask's running bag in a ferrymen's boathouse locker. Fen talks: the new silver came **"from up the hill"** in a sealed purse, three nights before the escape, and the second warder "looked at the moon"
 - Punya cuts off Rask's left hand (the three-fingered proof), takes the key, and opens the locker: the running bag — spare clothes, a cloak, a second dagger, **9 gp 4 sp** — and an **empty purse stamped with a broken seal: a bell above an open gate, the tax office's mark**. Punya pockets it
-- **XP: Rask 200 + Pike 100 + Fen 25 = 325 → 81 each → 1,040 / 2,700.** Night at the Ferryman's Rest: Karin's reward for the Pike kill [Sex: Karin]
+- **XP: Rask 200 + Pike 100 + Fen 25 = 325 → 81 each → 1,040 / 2,700.** Night at the Ferryman's Rest: Karin's reward for the Pike kill
 
 ## October 14 (Day 31), morning — fair, he says
 
 - **Sunrise:** the hand is shown at the castle gate; the sergeant counts three fingers and pays the **25 gp bounty**. The Rask job is closed
-- Punya declares **"I am fair, Noel"** — and pays the list's arrears in the morning: Noel first [Sex: Noel], then Wren [Sex: Wren]. Noel's book: "Wren four. Karin three. Noel three. 'Fair,' he says"
+- Punya declares **"I am fair, Noel"** — and pays the list's arrears in the morning: Noel first, then Wren. Noel's book: "Wren four. Karin three. Noel three. 'Fair,' he says"
 - Breakfast at the Ferryman's Rest (−4 sp). **Purse: 121 gp 8 sp.** Still open in Greywall: the granary night guard (4 gp). In Punya's pocket: the bandit's note — and now a tax-sealed empty purse
-- Karin teases him — "We had sex last night, didn't we, my love?" — and Punya answers with his mouth instead: [Cunnilingus: Karin]. Wren and Noel get the same after. Noel rules it again: oral, in the Record, **not counted** — Karin's fourth is still owed tonight
+- Karin teases him — "We had sex last night, didn't we, my love?" — and Punya answers with his mouth instead:. Wren and Noel get the same after. Noel rules it again: oral, in the Record, **not counted** — Karin's fourth is still owed tonight
 
 ## October 14 (Day 31), late morning — the temple crypt
 
@@ -444,8 +443,8 @@ Last update: 2026-11-10
 
 ## October 14 (Day 31), night – October 15 (Day 32), dawn — a promise kept, and the list made even
 
-- The Ferryman's Rest: room and stew (−1 gp 3 sp). **Purse: 148 gp 5 sp.** Karin collects her promised fourth, wounds and all [Sex: Karin]
-- **Long rest: complete.** Oct 15 dawn: Punya wakes as always in Noel's boobs — she is *behind* again, and he pays on the spot: first his mouth [Cunnilingus: Noel], then **[Sex: Noel]**, filled full. Noel's book, in a hand not quite steady: **"Wren 4. Karin 4. Noel 4. Perfectly even."** Karin, from the doorway: "Five tonight, then"
+- The Ferryman's Rest: room and stew (−1 gp 3 sp). **Purse: 148 gp 5 sp.** Karin collects her promised fourth, wounds and all
+- **Long rest: complete.** Oct 15 dawn: Punya wakes as always in Noel's boobs — she is *behind* again, and he pays on the spot: first his mouth, then ****, filled full. Noel's book, in a hand not quite steady: **"Wren 4. Karin 4. Noel 4. Perfectly even."** Karin, from the doorway: "Five tonight, then"
 - **State: Oct 15, morning, Greywall. Level 3, XP 1,314 / 2,700 each. Purse: 148 gp 5 sp. Today's board: the deserters on the north road (30 gp + gear), and the lord's boar hunt rides out this morning (10 gp + the feast)**
 
 ## October 15 (Day 32) — the deserters on the north road
@@ -492,30 +491,17 @@ Last update: 2026-11-10
 
 - Morning: Punya wakes as always, in Noel's boobs, her hand on his head. Outside, a farmer's cart stops; **Petyr takes a normal toll and rings his little bell**. The stolen goods stay with Petyr for the guild's inspector
 - **South to Greywall** with one of the stable horses loaded with **all the deserters' gear**. At the north gate, the sergeant reads Petyr's note twice, turns Voss's marked sword in his hands — "Petyr's alive. That's worth more than the gold." **The guild pays 30 gp. Purse: 273 gp 3 sp**
-- The Ferryman's Rest (−1 gp 3 sp). **Purse: 272 gp.** That night, Punya takes all three of his mistresses, one after another, and finishes inside each [Sex: Wren] [Sex: Noel] [Sex: Karin]
+- The Ferryman's Rest (−1 gp 3 sp). **Purse: 272 gp.** That night, Punya takes all three of his mistresses, one after another, and finishes inside each
 
 ## October 18 (Day 35), morning — even again, at six
 
-- Morning, the Ferryman's Rest: he wakes in Noel's boobs, and the round is run again — Wren first, then Noel, then Karin, each filled [Sex: Wren] [Sex: Noel] [Sex: Karin]. Noel's book: **"Wren 6. Karin 6. Noel 6. Even, again."** Breakfast −4 sp. **Purse: 271 gp 6 sp**
+- Morning, the Ferryman's Rest: he wakes in Noel's boobs, and the round is run again — Wren first, then Noel, then Karin, each filled. Noel's book: **"Wren 6. Karin 6. Noel 6. Even, again."** Breakfast −4 sp. **Purse: 271 gp 6 sp**
 
 ## October 18 (Day 35), afternoon — selling, and the market
 
 - **The gear is sold:** the smith weighs the steel, looks at the army marks, says nothing, and Punya's smile lifts the price (Persuasion 18): **238 gp 5 sp** for the whole bundle, marks filed off. **The gray horse** goes to a horse trader for **65 gp** (Persuasion 23). **Purse: 575 gp 1 sp**
 - **Shopping:** crossbow bolts ×20 for Karin (**1 gp** — she has 22 now); a **Healer's Kit** for Wren (**5 gp**); **Studded Leather** for Punya (**45 gp** — **his AC is 15 now**; the old leather stays in the pack); a fresh bag of **ball bearings** (**1 gp**); **three Potions of Healing** (**150 gp** — one each for Punya, Karin, and Noel); and, from a silk shop off the market, **three sets of very fine lingerie** (**5 gp each, 15 gp** — black lace for Karin, white for Wren, deep red for Noel). Punya asks after **+1 armor**; the leather worker laughs — magic is found in deep places, not bought in markets
 - **Purse: 358 gp 1 sp. State: Oct 18, afternoon, Greywall. Level 3, XP 1,545 / 2,700 each. Still open: the granary night guard (4 gp), the charcoal burners' wolves (6 gp), the river mill wheel at night (10 gp), the Mistmarsh sheep (~15 gp)**
-
-## The three girls — a record, to be fair to all
-
-From before this story, all three are Punya's lovers, and all three have been close with him. From the start of the story:
-
-| Who | Times | Inside | Record |
-|---|---|---|---|
-| Wren | 6 | 6 | Sep 15: the promise was made (for Speak with Animals). Sep 16 night: kept (first). Oct 6 morning: kept again — "Even. Now we are even". Oct 7, before dawn: her reward for the wererat job — "Good job, Wren. I love you" [Sex: Wren]. Oct 14 morning: paid again, second in the fairness round — Wren 4, Karin 3, Noel 3 [Sex: Wren]; later that morning, his mouth [Cunnilingus: Wren] (not counted). Oct 17 night: first in the round at the Ferryman's Rest, after the deserters job [Sex: Wren]. Oct 18 morning: first again [Sex: Wren] |
-| Noel | 6 | 6 | Every morning (Sep 15, 16, 17) Punya woke in her boobs. Sep 15: she took charge of the List. Sep 16 night: kept (second). She closed the list with one clean line. Oct 4 evening: she tended Punya's fever (not counted). Oct 5: she noted, dry as paper, that Wren leads the count — and she keeps the list. Oct 8 night: her reward for the wisp — "I nearly died for those missiles" [Sex: Noel]. Oct 14 morning: her arrears paid first — "I am fair, Noel" [Sex: Noel]; later that morning, his mouth [Cunnilingus: Noel] (not counted). Oct 15 dawn: he woke in her boobs, found her behind again, and paid at once — first his mouth [Cunnilingus: Noel], then [Sex: Noel]. Her book: "Wren 4. Karin 4. Noel 4. Perfectly even". Oct 17 night: second in the round, her book closed for once [Sex: Noel]. Oct 18 morning: second again — her book: "Wren 6. Karin 6. Noel 6. Even, again" [Sex: Noel] |
-| Karin | 6 | 6 | Sep 15: she asked for her share too, and wrote "Tomorrow" on her hand. Sep 16 night: kept (third). Oct 5: the rest day at the Eel — oral only ("Best medicine in Ravenport"); written here but NOT counted. Oct 9 night: her reward for the owlbear — "Took you long enough, old man" [Sex: Karin]. Oct 13 night: her reward for killing Pike in Rask's shack [Sex: Karin]. Oct 14 morning: [Cunnilingus: Karin] — written here, NOT counted; her fourth stayed owed. Oct 14 night: the promised fourth, collected at the Ferryman's Rest [Sex: Karin]. Oct 17 night: last in the round — she laughed once, then she was not laughing [Sex: Karin]. Oct 18 morning: last again, wide awake and grinning [Sex: Karin] |
-
-*Tags in the day records: **[Sex: Name]** = intercourse, **[Fellatio: Name]** = her mouth on Punya, **[Cunnilingus: Name]** = Punya's mouth on her.
-*The count is only for the days in this record (from Sep 14). The time before the story is not counted, because no one kept a record of it. Counting rule (set Oct 6): **Times counts intercourse only** — licking, rubbing and the like are written in the Record but not counted. **Inside** counts the times Punya finished inside her. Every act of intercourse so far was inside*
 
 ## The purse (main moves)
 

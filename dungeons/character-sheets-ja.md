@@ -50,7 +50,7 @@ D&D 5e（2014 Basic Rules）/ DM: Pico
 - XP: 1,545（Level 4 は 2,700 XP）
 - Background: Acolyte（寺育ち）※DM決定、変更可
 - Personality: 大胆で元気な末っ子気質。自信家で、よく Punya をからかう。戦いでは真っ先に飛び込む
-- 外見: 身長 163 cm、B87 / W55 / H87、黒髪のポニーテール / ランジェリー: **D70、黒レース**（10/18 に Greywall で購入） / 体の特徴: パフィーニップル / 得意技: **マシンガン騎乗位**
+- 外見: 身長 163 cm、B87 / W55 / H87、黒髪のポニーテール
 - Ability Scores: STR 12 (+1) / DEX 16 (+3) / CON 14 (+2) / INT 9 (−1) / WIS 16 (+3) / CHA 10 (+0)
 - Hit Point Maximum: 24 / Hit Dice: 3d8 / Speed: 40
 - Armor Class: 16（Unarmored Defense = 10 + DEX + WIS、鎧・盾なし）
@@ -69,7 +69,7 @@ D&D 5e（2014 Basic Rules）/ DM: Pico
 - XP: 1,545（Level 4 は 2,700 XP）
 - Background: Folk Hero ※DM決定、変更可
 - Personality: 優しくて少し天然。みんなの傷をいつも心配している
-- 外見: 身長 149 cm、B90 / W56 / H86、茶色のウェーブ髪 / ランジェリー: **G65、白**（10/18 に Greywall で購入） / 体の特徴: パイパン / 得意技: **ゲイザー潮吹き**
+- 外見: 身長 149 cm、B90 / W56 / H86、茶色のウェーブ髪
 - Ability Scores: STR 9 (−1) / DEX 12 (+1) / CON 12 (+1) / INT 12 (+1) / WIS 16 (+3) / CHA 16 (+3)
 - Hit Point Maximum: 21 / Hit Dice: 3d8 / Speed: 30
 - Armor Class: 14（Leather armor + Wooden shield）
@@ -107,7 +107,7 @@ D&D 5e（2014 Basic Rules）/ DM: Pico
 - XP: 1,545（Level 4 は 2,700 XP）
 - Background: Sage ※DM決定、変更可
 - Personality: 賢くて眼鏡。落ち着いているが、照れると毒舌。いつも本を読んでいる。ただし冷静なのは見せかけで、実は3人の中でいちばんスケベ。静かに計画を立てて、しらばっくれる
-- 外見: 身長 156 cm、B103 / W61 / H94、紺色の前下がりボブ、眼鏡 / ランジェリー: **J70、深紅**（10/18 に Greywall で購入） / 体の特徴: 陰核肥大 / 得意技: **トルネードフェラチオ**
+- 外見: 身長 156 cm、B103 / W61 / H94、紺色の前下がりボブ、眼鏡
 - Ability Scores: STR 9 (−1) / DEX 12 (+1) / CON 12 (+1) / INT 16 (+3) / WIS 12 (+1) / CHA 16 (+3)
 - Hit Point Maximum: 17 / Hit Dice: 3d6 / Speed: 30
 - Armor Class: 11（Mage Armor で 14）
