@@ -36,7 +36,7 @@
 - **ピクシーとの取引成立**（Wren の脅迫は失敗したが、Tansy から取引の提案）: 彼らは「パーティのことは誰にも言わない／戻ったとき真実の案内をする／パーティに歌わない」と約束。パーティは「必ず戻り、2匹の火のカップと Lira の空のカップを盗んで解放する」と約束した
 - **帰還の合図**を決めた: 夜、街道南の平らな草地で Punya が合言葉「ちんぴょろすぽーん！」と声を出す。応答は光の点滅3回・間・3回。来るのは1匹だけ（2匹なら罠)。ハチミツは他のピクシーに取られる恐れがあるため合図には使わない
 - 夕方、森の端で2匹を解放。Tansy:「ちんぴょろ……すぽーん。忘れない」。遠くの光が3回・間・3回と点滅した
-- **夜（約束の履行）**: Noel のリストは Wren、Noel、Karin の順。Punya は宣言通り全員の約束を果たした（Wren → Noel → Karin の順）。Noel はリストに取り消し線を一本引いた。4人で寄り添って眠った
+- **夜（約束の履行）**: Noel のリストは Wren、Noel、Karin の順。Punya は宣言通り全員の約束を果たした（Wren → Noel → Karin の順）。Noel はリストに取り消し線を一本引いた。4人で寄り添って眠った 【セックス：Wren】【セックス：Noel】【セックス：Karin】
 
 ## 9月17日（4日目）— Ravenport へ
 
@@ -216,6 +216,7 @@
 - Halloran は Noel の静かな顔を見て、それから Punya を見る。「税が進むのは君たち4人のおかげだ」**荷車は Alden へ向かう。Noel は荷車の上で眠り、Karin のマントを枕にしている**
 - **パーティの財布: 110 gp 6 sp。XP: 各 274 / 300。**残りの半金 12 gp は Ravenport で。セッションは Punya の一手待ち——Oct 2 の夜、Alden へ
 
+
 ## 10月2日（19日目）夕方 — Alden、The Golden Sheaf
 
 - Punya は3台目の荷車に乗り、Noel を抱えたまま Alden へ。Wren はときどき Noel の首に指を当てて呼吸を確かめる。「呼吸している。休んでいる。大丈夫、Punya」。Karin は荷車のそばをずっと歩く。先頭でもなく、笑いもせず。荷車のそばを
@@ -255,12 +256,12 @@
 ## 10月5日（22日目）—— 休息の一日
 
 - Wren の熱のため、スープと睡眠と静かな部屋の一日（部屋と夕食 −2 gp、**財布 119 gp 6 sp**）
-- 午後: 大きなベッドで、ポニーテールをほどいた Karin。Punya の口が彼女の脚のあいだに——彼女が声を上げるまで。「Best medicine in Ravenport」（記録には残すが回数には入れない）
+- 午後: 大きなベッドで、ポニーテールをほどいた Karin。Punya の口が彼女の脚のあいだに——彼女が声を上げるまで。「Best medicine in Ravenport」（記録には残すが回数には入れない） 【クンニ：Karin】
 - 🎲 **Wren の2回目のセーヴ: 21 —— 彼女の熱も引く。** Long Rest 完了: 全員健康、全 HP、全スロット
 
 ## 10月6日（23日目）朝 —— even
 
-- Wren は早く目覚め、肌は冷たく、もう元気。「You came to me last. So keep me longest.」。彼を抱きしめ、脚を絡め、息が乱れるまで離さない。後でひと言:「Even. Now we are even」
+- Wren は早く目覚め、肌は冷たく、もう元気。「You came to me last. So keep me longest.」。彼を抱きしめ、脚を絡め、息が乱れるまで離さない。後でひと言:「Even. Now we are even」 【セックス：Wren】
 - 本の隅から Noel が紙のように乾いた声で:「Wren has two now. Karin and I have one each. I keep the list, Punya.」ページをめくる。笑っている
 - **現状: 10月6日 昼、Ravenport。レベル2、XP 各 336 / 900。財布 44 gp 6 sp（銀ダガー2本 −75 gp）。今夜、税関倉庫の地下でワーラットを待ち伏せする**
 
@@ -283,7 +284,7 @@
 
 ## 10月7日（24日目）未明 —— 報酬
 
-- イール亭に帰る（部屋と夜食 −2 gp、**財布 52 gp 6 sp**）。Punya が Wren の顔を両手で包む:「Good job, Wren. I love you. I'm going to fill your pussy with plenty of my semen.」彼女は小さな体の全力でしがみつき、彼は約束を果たす——深く、たっぷりと。彼女は笑顔のまま、彼の脇に丸まって眠る
+- イール亭に帰る（部屋と夜食 −2 gp、**財布 52 gp 6 sp**）。Punya が Wren の顔を両手で包む:「Good job, Wren. I love you. I'm going to fill your pussy with plenty of my semen.」彼女は小さな体の全力でしがみつき、彼は約束を果たす——深く、たっぷりと。彼女は笑顔のまま、彼の脇に丸まって眠る 【セックス：Wren】
 - **Long Rest 完了**。昼近くなって、Noel が眠る Wren を見て、それから Punya を見る:「Three for Wren. The list is growing teeth, Punya.」
 - **現状: 10月7日 昼前、Ravenport。レベル2、XP 各 448 / 900。財布 52 gp 6 sp**
 
@@ -313,7 +314,7 @@
 ## 10月8日（25日目）夜 —— 報酬と、朝
 
 - 村長が **4 gp** を Punya の手に握らせる。「For the lights. For our wood.」（**財布 66 gp 6 sp**）。客用ロフトに無料の寝床。Noel の雷の火傷は Wren の手が閉じる
-- Noel は目覚めて、蝋燭の明かりで本を読んでいる。「A very good job, Noel. I have sex with you. This is your reward. I'm going to pump every last drop of my semen into your pussy until my testicles are empty.」彼女の本が閉じる。「…Then do it properly, Punya. I nearly died for those missiles.」彼女は報酬を最後の一滴まで受け取る
+- Noel は目覚めて、蝋燭の明かりで本を読んでいる。「A very good job, Noel. I have sex with you. This is your reward. I'm going to pump every last drop of my semen into your pussy until my testicles are empty.」彼女の本が閉じる。「…Then do it properly, Punya. I nearly died for those missiles.」彼女は報酬を最後の一滴まで受け取る 【セックス：Noel】
 - **Long Rest 完了**。10月9日 朝——全 HP、全スロット。回数は Wren 3、Noel 2、Karin 1。戸口から Karin の声:「Oi. *One?*」
 - **現状: 10月9日 朝、Lydford。レベル2、XP 各 560 / 900。財布 66 gp 6 sp。遺跡の王——オウルベア——はまだあちらにいる**
 
@@ -342,7 +343,7 @@
 ## 10月9日（26日目）夜 —— Karin の番
 
 - 村が遺跡の英雄のために宴を開く。Wren の Cure Wounds が Karin の爪傷を夕食までに閉じる
-- Punya:「You brought us victory. Good job, Karin. Your turn tonight.」彼女は Punya の手を取って引く。「Took you long enough, old man.」ロフトで——彼女は筋肉と熱と笑い、そして最後は静かで本物になる。膣内で果てる
+- Punya:「You brought us victory. Good job, Karin. Your turn tonight.」彼女は Punya の手を取って引く。「Took you long enough, old man.」ロフトで——彼女は筋肉と熱と笑い、そして最後は静かで本物になる。膣内で果てる 【セックス：Karin】
 - **回数は Wren 3、Noel 2、Karin 2**。Noel のペンが満足げに走る:「Better.」
 - **Long Rest 完了**。10月10日 朝——全 HP、全スロット。Noel の乾いたまとめ:「Hit Points: full. Spell Slots: full. Punya's testicles: empty.」
 
@@ -414,14 +415,14 @@
 - **深夜、Punya の作戦:** 船の **オール** を盗み、窓の鎧戸の縄を手先で切断（自然な20）、眠る Rask に奇襲——レイピア＋Sneak Attack、**クリティカル 26**。Rask は **残り1 HP** で生き残り、悲鳴で目覚める。苦しい3ラウンドの戦い: Rask の一突きで Punya は11ダメージ（10/21）。Karin が倒れた Pike を仕留め、**Rask は死亡**。Fen は残り9 HPで降伏
 - 懸賞の対象は Rask のみ——Punya は Fen の命と引き換えに持ち物と情報を取る: 炉辺の床板の下の隠し金（14 gp 6 sp、大半が **新しい銀貨**）、そして紐に下げた鍵——船頭小屋のロッカーにある Rask の逃亡用バッグ。Fen の自白: 新しい銀貨は脱獄の3日前、封をした財布に入って **「丘の上から」** 来た。もう1人の看守は「月を見ていた」
 - Punya は Rask の左手（指3本の証拠）を切り落として持ち帰り、鍵でロッカーを開ける: 逃亡用バッグ——着替え、マント、2本目の短剣、**9 gp 4 sp**——そして底に **空の財布。割れた封蝋の印は「門の上の鐘」、税務署のマーク**。Punya は懐に入れる
-- **XP: Rask 200 + Pike 100 + Fen 25 = 325 → 各81 → 1,040 / 2,700。** Ferryman's Rest で一夜。Pike を倒した報酬として Karin と
+- **XP: Rask 200 + Pike 100 + Fen 25 = 325 → 各81 → 1,040 / 2,700。** Ferryman's Rest で一夜。Pike を倒した報酬として Karin と【セックス：Karin】
 
 ## 10月14日（31日目）朝 —— 公平、だそうだ
 
 - **夜明け:** 城門で左手を提示。当直の軍曹が指3本を数え、**懸賞金25 gp** を支払う。Rask の仕事は完了
-- Punya は宣言する。**「I am fair, Noel」**——朝のうちにリストの滞納分を清算: 先に Noel と、続いて Wren と。Noel のノート: 「Wren 4回、Karin 3回、Noel 3回。『公平』だそうだ」
+- Punya は宣言する。**「I am fair, Noel」**——朝のうちにリストの滞納分を清算: 先に Noel と【セックス：Noel】、続いて Wren と【セックス：Wren】。Noel のノート: 「Wren 4回、Karin 3回、Noel 3回。『公平』だそうだ」
 - Ferryman's Rest で朝食（−4 sp）。**財布 121 gp 8 sp。** Greywall の残りの仕事: 穀物倉庫の夜警（4 gp）。Punya の懐には盗賊のメモと、税の封が押された空の財布
-- Karin がからかう——「昨夜したじゃない、my love？」——Punya の答えは口で:。続いて Wren と Noel にも同じことを。Noel の判定は変わらない: オーラルは記録のみ、**回数には入れない**——Karin の4回目は今夜まだ借りのまま
+- Karin がからかう——「昨夜したじゃない、my love？」——Punya の答えは口で: 【クンニ：Karin】。続いて Wren と Noel にも同じことを。Noel の判定は変わらない: オーラルは記録のみ、**回数には入れない**——Karin の4回目は今夜まだ借りのまま
 
 ## 10月14日（31日目）昼前 —— 大聖堂の地下墓地
 
@@ -441,8 +442,8 @@
 
 ## 10月14日（31日目）夜〜10月15日（32日目）夜明け —— 約束の履行と、リストの均衡
 
-- Ferryman's Rest: 部屋とシチュー（−1 gp 3 sp）。**財布 148 gp 5 sp。** Karin は傷を押して、約束の4回目を受け取る
-- **Long Rest 完了。** 10月15日 夜明け: Punya はいつものように Noel の胸の中で目覚める——彼女はまた *後れ* を取っていて、彼はその場で支払う: まず口で、続いて、中いっぱいに。Noel のノートは、少し震える手で: **「Wren 4回。Karin 4回。Noel 4回。完全に均衡」**。戸口から Karin: 「じゃあ今夜は5回目ね」
+- Ferryman's Rest: 部屋とシチュー（−1 gp 3 sp）。**財布 148 gp 5 sp。** Karin は傷を押して、約束の4回目を受け取る【セックス：Karin】
+- **Long Rest 完了。** 10月15日 夜明け: Punya はいつものように Noel の胸の中で目覚める——彼女はまた *後れ* を取っていて、彼はその場で支払う: まず口で【クンニ：Noel】、続いて【セックス：Noel】、中いっぱいに。Noel のノートは、少し震える手で: **「Wren 4回。Karin 4回。Noel 4回。完全に均衡」**。戸口から Karin: 「じゃあ今夜は5回目ね」
 - **現状: 10月15日 朝、Greywall。レベル3、XP 各 1,314 / 2,700。財布 148 gp 5 sp。今日の掲示板: 北の街道の脱走兵（30 gp + 装備）、そして今朝出発する領主の猪狩り（10 gp + 宴）**
 
 ## 10月15日（32日目）—— 北の街道の脱走兵
@@ -489,17 +490,30 @@
 
 - 朝: Punya はいつものように Noel の胸の中で目覚める。彼女の手が彼の頭にある。外では農夫の荷車が止まり、**Petyr が通常の通行料を取り、小さな鈴を鳴らす**。盗品は Petyr がギルドの査察員に渡す
 - **Greywall へ南下**、馬小屋の馬1頭に **脱走兵の装備全部** を積んで。北門で軍曹が Petyr の手紙を2度読み、Voss の刻印入りの剣を手に取り——「Petyr が生きている。それは金より値打ちがある」。**ギルドが 30 gp を支払う。財布 273 gp 3 sp**
-- Ferryman's Rest（−1 gp 3 sp）。**財布 272 gp。** その夜、Punya は3人の愛人を1人ずつ抱き、全員に中出しした
+- Ferryman's Rest（−1 gp 3 sp）。**財布 272 gp。** その夜、Punya は3人の愛人を1人ずつ抱き、全員に中出しした【セックス：Wren】【セックス：Noel】【セックス：Karin】
 
 ## 10月18日（35日目）朝 —— 6回目、全員そろって
 
-- 朝、Ferryman's Rest: 彼は Noel の胸の中で目覚め、もう一度全員と—— Wren、Noel、Karin の順に、全員を満たした。Noel のノート: **「Wren 6回。Karin 6回。Noel 6回。また全員そろった」**。朝食 −4 sp。**財布 271 gp 6 sp**
+- 朝、Ferryman's Rest: 彼は Noel の胸の中で目覚め、もう一度全員と—— Wren、Noel、Karin の順に、全員を満たした【セックス：Wren】【セックス：Noel】【セックス：Karin】。Noel のノート: **「Wren 6回。Karin 6回。Noel 6回。また全員そろった」**。朝食 −4 sp。**財布 271 gp 6 sp**
 
 ## 10月18日（35日目）午後 —— 売却と市場
 
 - **装備の売却:** 鍛冶屋は鋼を量り、軍の刻印を見て、何も言わない。Punya の笑みで値が上がる（Persuasion 18）: 一式で **238 gp 5 sp**、刻印は削って引き取る。**灰色馬** は馬商人に **65 gp**（Persuasion 23）。**財布 575 gp 1 sp**
 - **買い物:** Karin 用のボルト×20（**1 gp** —— 彼女は22本所持に）。Wren に **Healer's Kit**（**5 gp**）。Punya に **Studded Leather**（**45 gp** —— **AC は 15 に**。古い革鎧は袋の中に）。ボールベアリングの新しい袋（**1 gp**）。**Potion of Healing 3本**（**150 gp** —— Punya、Karin、Noel に1本ずつ）。そして市場の外れの絹の店で、**とても際どい下着3組**（**各5 gp、計15 gp** —— Karin は黒レース、Wren は白、Noel は深紅）。Punya は **+1 の鎧** を尋ねるが革屋は笑う——魔法は深い場所で見つけるもので、市場で買うものではない
 - **財布 358 gp 1 sp。現状: 10月18日 午後、Greywall。レベル3、XP 各 1,545 / 2,700。残りの仕事: 穀倉の夜警（4 gp）、炭焼きの狼（6 gp）、夜の川の水車（10 gp）、Mistmarsh の羊（約15 gp）**
+
+## 3人との関係履歴（平等のための記録）
+
+物語開始以前から、3人とも Punya と恋愛関係にあり、親密な関係もあった。開始以降の記録:
+
+| 相手 | 回数 | 膣内 | 記録 |
+|---|---|---|---|
+| Wren | 6 | 6 | 9/15 約束が発生（Speak with Animals の報酬）。9/16 夜、約束を履行（1番目）。10/6 朝、再び——「Even. Now we are even」。10/7 未明、ワーラットの仕事への報酬——「Good job, Wren. I love you」【セックス：Wren】。10/14 朝、「公平」の清算で2番目に支払われた——Wren 4回、Karin 3回、Noel 3回【セックス：Wren】。同日昼前、口で【クンニ：Wren】（数えない）。10/17 夜、脱走兵の仕事の後、Ferryman's Rest で最初に【セックス：Wren】。10/18 朝、再び最初に【セックス：Wren】 |
+| Noel | 6 | 6 | 毎朝（9/15、9/16、9/17）Punya は彼女の胸で目覚めている。9/15「リスト」の管理を宣言。9/16 夜、約束を履行（2番目）。リストは彼女が取り消し線を引いて閉じた。10/4 夜、熱のある Punya の看病をした（回数には入れない）。10/5、Wren が先行していることを乾いた声で指摘——「I keep the list」。10/8 夜、ウィスプへの報酬——「I nearly died for those missiles」【セックス：Noel】。10/14 朝、「I am fair, Noel」——滞納分が真っ先に支払われた【セックス：Noel】。同日昼前、口で【クンニ：Noel】（数えない）。10/15 夜明け、胸の中で目覚めて後れに気づき、その場で支払い——まず口で【クンニ：Noel】、続いて【セックス：Noel】。彼女のノート: 「Wren 4回、Karin 4回、Noel 4回。完全に均衡」。10/17 夜、2番目に——その夜は本を閉じた【セックス：Noel】。10/18 朝、再び2番目に——彼女のノート: 「Wren 6回。Karin 6回。Noel 6回。また全員そろった」【セックス：Noel】 |
+| Karin | 6 | 6 | 9/15、Wren への約束に抗議して自分の分を要求し、手に「Tomorrow」と書いた。9/16 夜、約束を履行（3番目）。10/5、イール亭の休息日——オーラルのみ（「Best medicine in Ravenport」）。記録には残すが回数には入れない。10/9 夜、オウルベアへの報酬——「Took you long enough, old man」【セックス：Karin】。10/13 夜、Rask の小屋で Pike を倒した報酬【セックス：Karin】。10/14 朝、口で【クンニ：Karin】——記録のみ、数えない。4回目は借りのまま。10/14 夜、Ferryman's Rest で約束の4回目を回収【セックス：Karin】。10/17 夜、最後に——一度笑って、それきり笑わなかった【セックス：Karin】。10/18 朝、再び最後に、すっかり目覚めてニヤリ【セックス：Karin】 |
+
+※ 本文中のタグ: **【セックス：名前】**=挿入あり、**【フェラ：名前】**=彼女の口、**【クンニ：名前】**=Punya の口。
+※ 回数は物語開始（9/14）以降に記録された分のみ。開始以前の関係は回数が定かでないため数えない。数え方のルール（10/6 決定）: **回数は挿入ありのセックスのみ**。舐める・揉むなどは記録欄に書くが数えない。**膣内** は膣内射精の回数。これまでの挿入は全部膣内射精だった
 
 ## 財布の動き（要点）
 
