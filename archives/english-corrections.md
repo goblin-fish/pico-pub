@@ -1,6 +1,6 @@
 # 英文添削まとめ（D&Dセッション）
 
-D&Dセッション（英語）のチャットで、Yamamoto の英文に対して Pico が行った添削を集めたもの。（最終更新: 2026-11-10）
+D&Dセッション（英語）のチャットで、Yamamoto の英文に対して Pico が行った添削を集めたもの。（最終更新: 2026-11-11）
 ※タイプミス・綴りのミスのみの添削は収録しない（Yamamoto の指定）。
 
 ## 2026-11-08
@@ -463,3 +463,201 @@ D&Dセッション（英語）のチャットで、Yamamoto の英文に対し�
 | 修正前 | retreat as possible as we can |
 | **修正後** | **"Retreat as far as we can."** |
 - ポイント: 距離・程度の「できるだけ〜」は **as far as**（as possible as は×）。
+
+### 41. when it appears
+| 区分 | 英文 |
+| --- | --- |
+| 修正前 | when it appear, all we shoot the enemy |
+| **修正後** | **"When it appears, we all shoot it."** |
+- ポイント: appear に三人称の **-s**。主語が it（三人称単数）のとき動詞に -s を付ける（when it appear**s**）。
+
+### 42. take a short rest
+| 区分 | 英文 |
+| --- | --- |
+| 修正前 | first, we rest short |
+| **修正後** | **"First, we take a short rest."** |
+- ポイント: 「短い休憩を取る」は **take a short rest** が決まり文句。rest は名詞で "a short rest"、動詞で言うなら "we rest for a short time"。
+
+### 43. alive
+| 区分 | 英文 |
+| --- | --- |
+| 修正前 | Karin, my love, you live. good |
+| **修正後** | **"Karin, my love, you're alive. Good."** |
+- ポイント: 「生きている」は **alive** が自然。you live は「住んでいる」寄りの意味になる。
+
+## 2026-11-11
+
+### 1. Stone Hands'
+| 区分 | 英文 |
+| --- | --- |
+| 修正前 | what is stone hands stats? |
+| **修正後** | **"What are the Stone Hands' stats?"** |
+- ポイント: 複数形の持ち主は **Hands'**（s の後にアポストロフィ）。
+
+### 2. levels
+| 区分 | 英文 |
+| --- | --- |
+| 修正前 | no. we need one or two more level |
+| **修正後** | **"No. We need one or two more levels."** |
+- ポイント: level は数えられる名詞だから **levels**（one or two more level**s**）。
+
+### 3. Are those three all of them?
+| 区分 | 英文 |
+| --- | --- |
+| 修正前 | Noel, the three are all? |
+| **修正後** | **"Noel, are those three all of them?"** |
+- ポイント: 「あの3人だけ？」は **Are those three all of them?** と言う。
+
+### 4. tag question — is there?
+| 区分 | 英文 |
+| --- | --- |
+| 修正前 | no one is sgack's back, isn't it? |
+| **修正後** | **"No one is at the shack's back, is there?"** |
+- ポイント: 付属疑問は **is there?**（no one が主語のとき）。
+
+### 5. I've got a plan
+| 区分 | 英文 |
+| --- | --- |
+| 修正前 | i hit a strategy. |
+| **修正後** | **"I've got a plan."** |
+- ポイント: 「思いついた」は **I've got a plan** が自然（hit a strategy は×）。
+
+### 6. key for / everything
+| 区分 | 英文 |
+| --- | --- |
+| 修正前 | what is this key? tell me all, or you die |
+| **修正後** | **"What is this key for? Tell me everything, or you die."** |
+- ポイント: key には **for**（何の鍵か）。all より **everything** が自然。
+
+### 7. say to Karin
+| 区分 | 英文 |
+| --- | --- |
+| 修正前 | i say Karin "we had sex last night, did't we? my love" |
+| **修正後** | **"I say to Karin, "We had sex last night, didn't we, my love?""** |
+- ポイント: 「人に言う」は **say to Karin**（相手には to がいる）。
+
+### 8. Is that...?
+| 区分 | 英文 |
+| --- | --- |
+| 修正前 | what is holy water? it that DnD official item? |
+| **修正後** | **"What is holy water? Is that a D&D official item?"** |
+- ポイント: 疑問文は **Is that...?** と **Is** を先に置く（"it that" は×）。
+
+### 9. healing spells
+| 区分 | 英文 |
+| --- | --- |
+| 修正前 | do Wren and Noel have cure or heal magic? |
+| **修正後** | **"Do Wren and Noel have any healing spells?"** |
+- ポイント: 「heal magic」より **healing spells** と言うのが自然。
+
+### 10. undead / Darkvision
+| 区分 | 英文 |
+| --- | --- |
+| 修正前 | do undeads have nightvision? |
+| **修正後** | **"Do undead have Darkvision?"** |
+- ポイント: **undead** はそのまま複数形（undeads とは言わない）。ルール用語は nightvision じゃなく **Darkvision**。
+
+### 11. How far — between
+| 区分 | 英文 |
+| --- | --- |
+| 修正前 | how log between skeletons and walking tall shape? |
+| **修正後** | **"How far is it between the skeletons and the tall walking shape?"** |
+- ポイント: 距離は **How far**（How long は時間・長さ用）。
+
+### 12. approaches / hit-and-run
+| 区分 | 英文 |
+| --- | --- |
+| 修正前 | if the tall walking shape approach, we retreat efen if the skeletons are alive. hit and away strategy. |
+| **修正後** | **"If the tall walking shape approaches, we retreat, even if the skeletons are alive. A hit-and-run strategy."** |
+- ポイント: **approaches**（三人称単数の -s）。決まった言い方は **hit-and-run**（hit and away は×）。
+
+### 13. far enough
+| 区分 | 英文 |
+| --- | --- |
+| 修正前 | 70ft is enough long distance. one more volley |
+| **修正後** | **"70 ft is far enough. One more volley."** |
+- ポイント: 距離の「十分遠い」は **far enough**（long は物の長さ・時間用だよ）。
+
+### 14. injured
+| 区分 | 英文 |
+| --- | --- |
+| 修正前 | does anyone in party injure? |
+| **修正後** | **"Is anyone in the party injured?"** |
+- ポイント: injure は動詞。状態は **injured**（形容詞）。「Is anyone ... injured?」と聞く。
+
+### 15. take a short rest
+| 区分 | 英文 |
+| --- | --- |
+| 修正前 | return to temple. then rest short. then attack again |
+| **修正後** | **"Return to the temple. Then take a short rest. Then attack again."** |
+- ポイント: 「短い休憩を取る」は **take a short rest**。
+
+### 16. mistresses
+| 区分 | 英文 |
+| --- | --- |
+| 修正前 | three mistress attack the undead. |
+| **修正後** | **"The three mistresses attack the undead."** |
+- ポイント: mistress の複数は **mistresses**（-es が付く）。
+
+### 17. How much do we have?
+| 区分 | 英文 |
+| --- | --- |
+| 修正前 | how much we have |
+| **修正後** | **"How much do we have?"** |
+- ポイント: 疑問文は **do we** の順にする。
+
+### 18. Find jobs
+| 区分 | 英文 |
+| --- | --- |
+| 修正前 | find job |
+| **修正後** | **"Find jobs."** |
+- ポイント: 仕事全般を探すときは複数形 **jobs** が普通。
+
+### 19. enemies appear / from behind
+| 区分 | 英文 |
+| --- | --- |
+| 修正前 | if enemy appear, Punya can sneak attack from their back |
+| **修正後** | **"If enemies appear, Punya can sneak attack them from behind."** |
+- ポイント: 複数なら **enemies appear**、単数なら **an enemy appears**。後ろからは **from behind** が自然。
+
+### 20. with my bow
+| 区分 | 英文 |
+| --- | --- |
+| 修正前 | attack the big leader with bow |
+| **修正後** | **"Attack the big leader with my bow."** |
+- ポイント: **with my bow**（my を足す）。
+
+### 21. on the south side
+| 区分 | 英文 |
+| --- | --- |
+| 修正前 | are we the south side of the bridge? |
+| **修正後** | **"Are we on the south side of the bridge?"** |
+- ポイント: 場所は **on** the south side（on が要るよ）。
+
+### 22. Let's take a long rest
+| 区分 | 英文 |
+| --- | --- |
+| 修正前 | i see. we take a long rest here. |
+| **修正後** | **"I see. Let's take a long rest here."** |
+- ポイント: 文は合っている。決めたことを言うときは **"Let's take a long rest here."** のほうが自然。we take ~ は予定表みたいに硬い言い方。
+
+### 23. horse loaded with all the gear
+| 区分 | 英文 |
+| --- | --- |
+| 修正前 | go to greywall with a horse with all items |
+| **修正後** | **"Let's go to Greywall with a horse loaded with all the gear."** |
+- ポイント: with が2回続くと変。荷物は馬に「積む」から **loaded with all the gear** が自然。
+
+### 24. all my mistresses / I'm completely spent
+| 区分 | 英文 |
+| --- | --- |
+| 修正前 | first, i have sex with my all mistresses. My testicles became empty. |
+| **修正後** | **"First, I have sex with all my mistresses. I'm completely spent."** |
+- ポイント: my all mistresses → **all my mistresses**（all は my の前に置く）。"My testicles became empty" は意味は通じるけど堅い。自然なのは **"I'm completely spent."**（testicles は医学っぽい言葉で、日常では balls を使う）。
+
+### 25. My penis becomes soft, like a sponge
+| 区分 | 英文 |
+| --- | --- |
+| 修正前 | my penis become soft sponge. |
+| **修正後** | **"My penis becomes soft, like a sponge."** |
+- ポイント: become は三人称単数で **becomes**、sponge の前に **like a** が要るよ。

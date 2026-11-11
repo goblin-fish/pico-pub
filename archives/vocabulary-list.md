@@ -3,7 +3,7 @@
 Muse の Vocabulary List スペースの内容の Markdown スナップショット。
 スナップショット取得日: 2026-11-11
 
-登録数: 79語
+登録数: 83語
 
 | 単語 | 品詞 | 発音 | 意味 | メモ | 登録日 | おぼえた |
 |---|---|---|---|---|---|---|
@@ -86,3 +86,7 @@ Muse の Vocabulary List スペースの内容の Markdown スナップショッ
 | shack | noun | ʃæk | 掘っ立て小屋・あばら家（粗末な材料で急ごしらえした小さな家） | river slums の shacks（川沿いの貧民街の小屋群）の文脈で登場 | 2026-11-11 |  |
 | scar | noun | skɑːr | 傷あと（傷が治ったあとに皮膚に残る跡） | Rask の目印「a scar through the left eyebrow = 左の眉を横切る傷あと」の文脈で登場 | 2026-11-11 |  |
 | quiet | adjective | ˈkwaɪət | 静かな・穏やかな；（行動が）目立たない・こっそりした | 「ask quiet questions = 目立たないように聞き込みをする」の文脈で登場 | 2026-11-11 |  |
+| seal | verb | siːl | 印を押す、封をする | 動詞。「Father Corin seals the contract」= 契約書に寺の印を蝋に押して正式にする。名詞では「印・封印」（the grey seal、tax-office seal） | 2026-11-11 |  |
+| burial | noun | ˈberiəl | 埋葬 | 死者を地面や墓に葬ること。「burial goods」= 副葬品（死者と一緒に葬る指輪・剣・硬貨・杯など） | 2026-11-11 |  |
+| aisle | noun | aɪl | 通路、側廊 | 教会では列の間の通路や側壁沿いの道。s は読まない。「the south aisle」= 地下聖堂の南側の通路 | 2026-11-11 |  |
+| acolyte | noun | ˈækəlaɪt | 侍者、見習いの聖職者 | まだ司祭ではない、寺の若い手伝い。ろうそくに火をともし、本を運び、鐘を鳴らす。Karin の Background も Acolyte | 2026-11-11 |  |
