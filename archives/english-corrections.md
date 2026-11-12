@@ -796,3 +796,10 @@ D&Dセッション（英語）のチャットで、Yamamoto の英文に対し�
 | 修正前 | wait. but ready to battle |
 | **修正後** | **"We wait, but stay ready for a fight."** |
 - ポイント: 文にするならこの形。**battle** は戦争級の大げさな語で、口語では **fight** が普通。
+
+### 20. sell the pelts and the daggers
+| 区分 | 英文 |
+| --- | --- |
+| 修正前 | sell pelts and daggers |
+| **修正後** | **"Sell the pelts and the daggers."** |
+- ポイント: 目の前の決まった物（この毛皮と短剣）には **the** が要る。the なしだと「毛皮と短剣一般を売る」感じになる。
