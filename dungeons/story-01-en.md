@@ -504,6 +504,56 @@ Last update: 2026-11-10
 - **Shopping:** crossbow bolts ×20 for Karin (**1 gp** — she has 22 now); a **Healer's Kit** for Wren (**5 gp**); **Studded Leather** for Punya (**45 gp** — **his AC is 15 now**; the old leather stays in the pack); a fresh bag of **ball bearings** (**1 gp**); **three Potions of Healing** (**150 gp** — one each for Punya, Karin, and Noel); and, from a silk shop off the market, **three sets of very fine lingerie** (**5 gp each, 15 gp** — black lace for Karin, white for Wren, deep red for Noel). Punya asks after **+1 armor**; the leather worker laughs — magic is found in deep places, not bought in markets
 - **Purse: 358 gp 1 sp. State: Oct 18, afternoon, Greywall. Level 3, XP 1,545 / 2,700 each. Still open: the granary night guard (4 gp), the charcoal burners' wolves (6 gp), the river mill wheel at night (10 gp), the Mistmarsh sheep (~15 gp)**
 
+## October 18 (Day 35), night — the granary night guard
+
+- **The job:** sunset to sunrise, guard the castle granary — **4 gp**. The keeper, **Edric**: six sacks of wheat gone in three nights, but the doors stay barred from inside, and there are no footprints in the dust. High on the wall is a small loading door, barred from inside too.
+- **The watch:** all four inside. Sleep order: Punya first, then Karin, then Noel, then Wren. While Punya sleeps, the hoist beam creaks high above, the small door opens with no sound, and the rope moves (the thieves' Stealth: 24. Wren's Perception: 18 — she heard the beam).
+- They wake Punya and climb the sacks (Stealth: Punya 24, Karin 18, Wren 14. Noel rolls a natural 1 and kicks a tin cup). The volley at the man at the door: Punya's arrow misses, Karin's crossbow bolt hits for **5**, Noel's Fire Bolt hits for **2**. Wren's flame hits for **6** — the man dies (11 HP).
+- The man in the lane: Punya and Karin slip out the front doors and go around the corner. Karin runs **40 feet in one turn** to him, and Punya's unseen arrow (Sneak Attack, **17**) kills him (11 HP).
+- **The search:** the man at the door — a dagger, a shuttered lantern, a thin hooked wire (the tool that lifted the bar), and **7 sp, 3 cp**. The man in the lane — a dagger, a waterskin, and **1 gp, 2 sp**. The cart — one stolen sack of wheat, two empty sacks, half a loaf of bread, a spare cloak. **+1 gp 9 sp 3 cp → purse 360 gp 0 sp 3 cp**
+- The wheat sack goes back inside; the bodies and the cart stay in the lane for Edric. The watch goes on until sunrise. At dawn, Edric counts the sacks — **all here**. He pays the **4 gp**. **XP: 2 bandits = 50 → +12 each → 1,557 / 2,700. Purse: 364 gp 0 sp 3 cp**
+
+## October 19 (Day 36), morning — a short rest, and the board
+
+- Hot breakfast and one quiet hour at the Ferryman's Rest (a short rest). Nobody is hurt, and no spell slots are spent — so the rest only lifts the tiredness. Breakfast −4 sp → **purse 363 gp 6 sp 3 cp**
+- The board: the granary job is done. Three jobs are left — the charcoal burners' wolves (6 gp), the river mill wheel (10 gp), the Mistmarsh sheep (~15 gp). Noel: "Wolves today, sleep tonight, and we are stronger." **They take the wolves job.**
+
+## October 19 (Day 36), dusk — the charcoal burners' wolves
+
+- Half a day east of Greywall, at the charcoal burners' camp. The head burner, **Odo**: six goats taken in seven nights. Nine goats a week ago, three left in the pen. Wren's Survival (15): five wolves, led by one big male.
+- The ambush at the pen: Wren's **Entangle** holds the big male and one wolf at the gate. Karin's bolt kills the trapped wolf (**11**). Punya's arrow hits the leader for **6** (31/37). Noel's Fire Bolt is a natural 20 for **4** (7/11).
+- Punya's rapier hits the leader for **17**, Noel's Fire Bolt for **7**, Wren's flame for **8** — the leader dies. Karin's fist hits a wolf for **4** (3/11). At the back fence, one wolf kills a goat.
+- Punya kills the 1 HP wolf (a natural 20, **32**). The last wolf bites Punya (**6 damage**, Punya 15/21, knocked prone). Karin's fist **4**, Wren's flame **6**, Noel's Fire Bolt **4** — the last two wolves die. Wren's **Healing Word +7** brings Punya back to full, **21/21**.
+- **All five wolves are dead. One goat died; two live. Odo pays the 6 gp on the spot. XP: 200 + 4 × 50 = 400 → +100 each → 1,657 / 2,700. Purse: 369 gp 6 sp 3 cp**
+
+## October 19 (Day 36), night — the pelts, and a long rest
+
+- Wren skins the wolves by lantern light (Survival: 24): the big male's pelt is about **3 gp**, the four wolf pelts about **1 gp each**. The pelts stay unsold, carried back to Greywall. The two daggers are unsold too.
+- Goat stew with Odo's family at the fire, then sleep at the camp. **No sex tonight. The count stays Wren 6 / Karin 6 / Noel 6.** **Long rest complete. October 20 morning: HP full, all spell slots back, Hit Dice full**
+
+## October 20 (Day 37), midday — the board, and the mill job
+
+- Half a day's walk back to Greywall, there at midday. The board: the river mill wheel (**10 gp**, tonight), the Mistmarsh sheep (~15 gp), and guarding a merchant's cart to Ravenport (8 gp, the cart leaves at dawn tomorrow). **They take the mill job.**
+- The mill stands on the river, just outside the south wall. The miller, **Berric**: after midnight, **about five nights in seven**, the wheel turns — but the race gate is **shut**, and the pond is **still**. Now the millstones turn too, sometimes empty, and the stones wear down. A month ago, only the wheel. Some mornings there is flour dust, and the stones are warm. Last week, two farmers took their grain to the Alden mill. His uncle **Corin** kept this mill before him and **drowned in the race ten years ago**; his body was never found. Berric has not slept a full night in a month. **The 10 gp stands until the job is done.** Today was a hard day's grinding, so tonight it will very likely turn.
+
+## October 20 (Day 37), night — October 21 (Day 38), dawn — Corin's specter
+
+- They watch from outside, by the wheel. After midnight, the water in the pit stirs — no gate opened, no stream flows — and the great wheel begins to **turn**. Mist takes the shape of a man under the wheel: wet hair, a miller's apron, his hands pushing each spoke. Inside the mill, the stones begin to turn too.
+- Punya greets him (Persuasion: 10) — he does not stop. At the word "**wheat**", the wheel slows for one long breath, then walks on. Up close, Punya sees the face: a **scar through the left eyebrow**. In the black water of the pit, turning with the gear — **white bones**. An arm bone. A skull against the pit wall.
+- Noel greets him (11 vs DC 13) — he turns to look, then walks on. Wren greets him and takes off her panties (10) — the wheel stops, then walks on again. Karin takes off all her clothes (7) — one glance, and he walks on.
+- Noel tries again — all her clothes off, opening herself with her fingers (**Charisma: 21 vs DC 13**). The dead man's hands fall from the spoke. The wheel **stops**. When Noel takes one slow step back, he **follows** her.
+- Punya climbs down into the pit and takes out **all the bones** (Sleight of Hand: 19) — skull, ribs, arms, even the small hand bones — and brings them to Berric's house. Berric sees the face in the lamplight: "Uncle Corin." The dead man turns toward his nephew's voice.
+- They wait, weapons ready. The dead man points at the sack of bones, then opens his hand, palm down, toward the earth. **He asks to be buried.**
+- Behind the house, in the family plot by his mother **Marta's** stone, they bury him. Wren speaks a few quiet words; Berric finishes: "Sleep now, Uncle. The mill is mine. I'll keep her well." The dead man looks at Noel for one moment — almost a smile — then at his nephew, and is gone, thin as mist. **No fight.**
+- They sleep in the mill loft. **Long rest complete. October 21, dawn: Berric pays the 10 gp. XP: the specter, overcome — 200 → +50 each → 1,707 / 2,700. Purse: 379 gp 6 sp 3 cp**
+
+## October 21 (Day 38), midday — back in Greywall
+
+- Back in Greywall by midday. Lunch and a short rest at the Ferryman's Rest (the long rest at the mill left them whole, so the rest gives only lunch and quiet). Lunch −4 sp → **purse 379 gp 2 sp 3 cp**
+- Unsold: the five wolf pelts (about 7 gp) and the two daggers. Punya's arrows: **12**. Karin's bolts: **20**.
+- Only the **Mistmarsh sheep (~15 gp)** are left on the board. The Ravenport cart left at dawn — that job is gone.
+- **State: October 21, early afternoon, Greywall. Level 3, XP 1,707 / 2,700 each (993 to Level 4). Purse: 379 gp 2 sp 3 cp**
+
 ## The three girls — a record, to be fair to all
 
 From before this story, all three are Punya's lovers, and all three have been close with him. From the start of the story:
@@ -524,3 +574,4 @@ From before this story, all three are Punya's lovers, and all three have been cl
 - Now: **74 gp 9 sp** (Sep 17: Anchor wine −2 sp, Eel room and dinner −2 gp / Sep 18: escort advance +2 gp, delivery +2 gp, Sheaf −2 gp / Sep 19: advance +2 gp, delivery +2 gp, pelts +2 gp, Salty Dog supper −8 sp, Karin's prize +3 sp, Eel room −8 sp / Sep 20: ring reward +5 gp / Sep 20 night: Eel room and dinner −2 gp / Sep 21: bandits' purses +9 gp, fee +12 gp, stolen cloth +10 gp, Sheaf −2 gp / Sep 22 night: Eel −2 gp / Sep 23 night: Sheaf −2 gp)
 - After: **70 gp** (Sep 24: grave-robbers' purse +3 gp 6 sp, belt pouch +1 gp 4 sp / Sep 26: Greywall reward +10 gp, Eel −2 gp / Sep 27: escort +4 gp, Sheaf −2 gp / Sep 28: road inn −1 gp 4 sp / Sep 29: Crown & Bell wine −3 sp, Ferryman's Rest −1 gp 3 sp / Sep 30: Ferryman's Rest −1 gp 3 sp / Oct 1: tax advance +12 gp / Oct 2: ambushers' purses +13 gp, Sheaf −2 gp / Oct 3: tax pay +12 gp, Eel −2 gp / Oct 4: rats +5 gp, Eel −2 gp / Oct 5: Eel −2 gp / Oct 6: two silver daggers −75 gp, wererat fee +10 gp / Oct 7: Eel room and supper −2 gp / Oct 8: Sheaf −2 gp, the pedlar's pack +12 gp, the village fee +4 gp / Oct 10: road inn −1 gp 4 sp / Oct 11: Ferryman's Rest −1 gp 3 sp / Oct 12: Find Familiar materials −10 gp, brass brazier −1 gp, midden coins +8 gp 6 sp, watch fee +10 gp, Ferryman's Rest −1 gp 5 sp / Oct 13: drinks −2 sp, Rask loot +18 gp (Fen 1 gp 3 sp, Pike 2 gp 1 sp, the stash 14 gp 6 sp) / Oct 14: the running bag +9 gp 4 sp, the bounty +25 gp, breakfast −4 sp, the temple fee +20 gp, the strongbox fee +8 gp, Ferryman's Rest room and stew −1 gp 3 sp) — **after: 148 gp 5 sp**
 - After: **358 gp 1 sp** (Oct 16: Wat deposit −40 gp, deserters' pockets +20 gp 5 sp, the floor-cache loose coin +74 gp 3 sp, deposit returned +40 gp / Oct 17: the guild fee +30 gp, Ferryman's Rest −1 gp 3 sp / Oct 18: breakfast −4 sp, the gear sold +238 gp 5 sp, the gray horse sold +65 gp, bolts −1 gp, Healer's Kit −5 gp, Studded Leather −45 gp, ball bearings −1 gp, Potions of Healing ×3 −150 gp, lingerie ×3 −15 gp) — **after: 358 gp 1 sp**
+- After: **379 gp 2 sp 3 cp** (Oct 18 night: the thieves' coin +1 gp 9 sp 3 cp, the granary fee +4 gp / Oct 19: breakfast −4 sp / Oct 19 dusk: the wolves' fee +6 gp / Oct 21 dawn: the mill fee +10 gp, lunch −4 sp) — **after: 379 gp 2 sp 3 cp**

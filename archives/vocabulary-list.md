@@ -1,9 +1,9 @@
 # 単語集（Vocabulary List）
 
 Muse の Vocabulary List スペースの内容の Markdown スナップショット。
-スナップショット取得日: 2026-11-11
+スナップショット取得日: 2026-11-12
 
-登録数: 83語
+登録数: 86語
 
 | 単語 | 品詞 | 発音 | 意味 | メモ | 登録日 | おぼえた |
 |---|---|---|---|---|---|---|
@@ -86,7 +86,10 @@ Muse の Vocabulary List スペースの内容の Markdown スナップショッ
 | shack | noun | ʃæk | 掘っ立て小屋・あばら家（粗末な材料で急ごしらえした小さな家） | river slums の shacks（川沿いの貧民街の小屋群）の文脈で登場 | 2026-11-11 |  |
 | scar | noun | skɑːr | 傷あと（傷が治ったあとに皮膚に残る跡） | Rask の目印「a scar through the left eyebrow = 左の眉を横切る傷あと」の文脈で登場 | 2026-11-11 |  |
 | quiet | adjective | ˈkwaɪət | 静かな・穏やかな；（行動が）目立たない・こっそりした | 「ask quiet questions = 目立たないように聞き込みをする」の文脈で登場 | 2026-11-11 |  |
-| seal | verb | siːl | 印を押す、封をする | 動詞。「Father Corin seals the contract」= 契約書に寺の印を蝋に押して正式にする。名詞では「印・封印」（the grey seal、tax-office seal） | 2026-11-11 |  |
-| burial | noun | ˈberiəl | 埋葬 | 死者を地面や墓に葬ること。「burial goods」= 副葬品（死者と一緒に葬る指輪・剣・硬貨・杯など） | 2026-11-11 |  |
-| aisle | noun | aɪl | 通路、側廊 | 教会では列の間の通路や側壁沿いの道。s は読まない。「the south aisle」= 地下聖堂の南側の通路 | 2026-11-11 |  |
-| acolyte | noun | ˈækəlaɪt | 侍者、見習いの聖職者 | まだ司祭ではない、寺の若い手伝い。ろうそくに火をともし、本を運び、鐘を鳴らす。Karin の Background も Acolyte | 2026-11-11 |  |
+| seal | verb | siːl | 封をする；印を押して正式にする；密閉する（名詞では印章・封印） | 「seals the contract with wax = 蝋に印を押して契約を正式なものにする」の文脈。名詞 seal は「印・封」。動物のアザラシも seal だが無関係 | 2026-11-11 |  |
+| burial | noun | ˈberiəl | 埋葬（死者を墓・地下墓所に葬ること） | burial goods = 副葬品（死者と一緒に葬られた品々）。契約の「No taking burial goods」は「副葬品を持ち出すな」の文脈 | 2026-11-11 |  |
+| aisle | noun | aɪl | 通路；教会・墓所などの側廊（列と列・壁と列の間の長い通路） | s は発音しない（isle と同じ音）。south aisle = 南の側廊。スーパーの商品棚の間の通路も aisle | 2026-11-11 |  |
+| acolyte | noun | ˈækəlaɪt | 侍者・見習いの聖職者（神殿で神父を助ける若い奉仕者） | 神殿の acolyte がワイトを見た、の文脈。Karin の背景（Background: Acolyte）と同じ単語 | 2026-11-11 |  |
+| board office | idiom | ボード・オフィス | 掲示板の横の仕事受付事務所 | 冒険用の表現。一般的な言い方ではなく、市場の掲示板（job board）の横にある小さな事務所という設定 | 2026-11-12 |  |
+| three floors of | idiom | スリー・フロアーズ・オブ | 〜でいっぱいの3階分 | floor は「階」。three floors of wheat sacks = 小麦袋で埋まった3階建て。three floors of books（本で埋まった3階分）のようにも使う | 2026-11-12 |  |
+| bar | verb | バー | （戸に）横木をかけて閉ざす | bars は三人称単数。Edric bars the doors = エドリックが扉に横木をかける。名詞では「棒・横木」、a bar of chocolate = 板チョコ1枚 | 2026-11-12 |  |

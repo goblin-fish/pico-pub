@@ -1,6 +1,6 @@
 # 英文添削まとめ（D&Dセッション）
 
-D&Dセッション（英語）のチャットで、Yamamoto の英文に対して Pico が行った添削を集めたもの。（最終更新: 2026-11-11）
+D&Dセッション（英語）のチャットで、Yamamoto の英文に対して Pico が行った添削を集めたもの。（最終更新: 2026-11-12）
 ※タイプミス・綴りのミスのみの添削は収録しない（Yamamoto の指定）。
 
 ## 2026-11-08
@@ -661,3 +661,138 @@ D&Dセッション（英語）のチャットで、Yamamoto の英文に対し�
 | 修正前 | my penis become soft sponge. |
 | **修正後** | **"My penis becomes soft, like a sponge."** |
 - ポイント: become は三人称単数で **becomes**、sponge の前に **like a** が要るよ。
+
+## 2026-11-12
+
+### 1. We are all inside / Karin sleeps
+| 区分 | 英文 |
+| --- | --- |
+| 修正前 | all we are inside. first, i sleep. next, Karin sleep. next, Noel sleep. last, Wren sleep. |
+| **修正後** | **"We are all inside. First, I sleep. Next, Karin sleeps. Next, Noel sleeps. Last, Wren sleeps."** |
+- ポイント: all は be 動詞の後ろに置く（**We are all inside**）。三人称単数は **sleeps**（s が要る）。
+
+### 2. the enemy doesn't / Wake Punya up
+| 区分 | 英文 |
+| --- | --- |
+| 修正前 | wake punya. the enemy don't notice us. we can sneak attack. |
+| **修正後** | **"Wake Punya up. The enemy doesn't notice us. We can sneak attack."** |
+- ポイント: enemy は単数扱いなので **doesn't**。「人を起こす」は **wake + 人 + up**。
+
+### 3. get down from the sacks / go out the entrance / their DEX is high
+| 区分 | 英文 |
+| --- | --- |
+| 修正前 | Punya and Karin go down sack, and go entrance out. because their dex are high. Wren and Noel continue attacking enemy. |
+| **修正後** | **"Punya and Karin get down from the sacks and go out the entrance, because their DEX is high. Wren and Noel keep attacking the enemy."** |
+- ポイント: 袋から降りるは **get down from the sacks**。**go out + 場所**。DEX は能力値として単数扱い（**is**）。**the enemy**（the が要る）。
+
+### 4. Karin runs / shoots his bow at the man
+| 区分 | 英文 |
+| --- | --- |
+| 修正前 | Karin run to the man. She needs only 1 turn. Punya shoot bow to the man. |
+| **修正後** | **"Karin runs to the man. She needs only one turn. Punya shoots his bow at the man."** |
+- ポイント: 三人称単数は **runs / shoots**（s）。shoot は **at** + 相手（to は使わない）。
+
+### 5. the dead
+| 区分 | 英文 |
+| --- | --- |
+| 修正前 | search the deads and the cart |
+| **修正後** | **"Search the dead and the cart."** |
+- ポイント: dead は形容詞で、**the dead** で「死んだ人たち」。deads とは言わない。
+
+### 6. the woods are / ambush them at the pen
+| 区分 | 英文 |
+| --- | --- |
+| 修正前 | the woods is their home. we ambush in the pen |
+| **修正後** | **"The woods are their home. We ambush them at the pen."** |
+- ポイント: woods は複数扱い（**are**）。ambush は他動詞で目的語 **them** が要る（〜を待ち伏せる）。
+
+### 7. How far are the wolves from me?
+| 区分 | 英文 |
+| --- | --- |
+| 修正前 | how far between me and the wolves? |
+| **修正後** | **"How far are the wolves from me?"** |
+- ポイント: 距離は **How far is 〜 from 〜?** の形。between を使うなら "What is the distance between me and the wolves?"
+
+### 8. go to bed / go to sleep
+| 区分 | 英文 |
+| --- | --- |
+| 修正前 | skin the wolves, and go to bed. no sex tonight. |
+| **修正後** | **"Skin the wolves, and go to bed. No sex tonight."** |
+- ポイント: 文は合っている。**go to bed** は「床につく」、**go to sleep** は「眠りに落ちる」の方だよ。
+
+### 9. the mill wheel moves / I don't think it's a problem
+| 区分 | 英文 |
+| --- | --- |
+| 修正前 | is there any problem? the mill wheel move, but no problem, i think |
+| **修正後** | **"Is there any problem? The mill wheel moves, but I don't think it's a problem."** |
+- ポイント: 三人称単数は **moves**（s）。「問題ないと思う」は **I don't think it's a problem** が自然（no problem だけだと返事の言い方）。
+
+### 10. every night / Does the mill wheel move every night?
+| 区分 | 英文 |
+| --- | --- |
+| 修正前 | the mill wheel moves everynight? |
+| **修正後** | **"Does the mill wheel move every night?"** |
+- ポイント: **every night** は2語に分ける（everyday と1語にすると「日常の」という形容詞になる）。疑問文は **Does + 主語 + 動詞の原形**。
+
+### 11. doesn't move some nights
+| 区分 | 英文 |
+| --- | --- |
+| 修正前 | the mill wheel do not move sometimes. |
+| **修正後** | **"The mill wheel doesn't move some nights."** |
+- ポイント: 主語が三人称単数なので **does not**（don't は I / you / 複数用）。「動かない夜もある」は **some nights** が自然。
+
+### 12. How do we know it is Corin?
+| 区分 | 英文 |
+| --- | --- |
+| 修正前 | why did we identify Corin? |
+| **修正後** | **"How do we know it is Corin?"** |
+- ポイント: 「どうして〜だと分かる？」は **How do we know...?** が自然。identify を使うなら "Why did we identify **him as** Corin?"（him が要る）。
+
+### 13. The millstones are turning empty / Enjoy your work!
+| 区分 | 英文 |
+| --- | --- |
+| 修正前 | hello, how are you, corin? the millstone in the mill is empty now. can i help you? i can put wheat in the millstone. happy work! |
+| **修正後** | **"Hello, how are you, Corin? The millstones are turning empty. Can I help you? I can put wheat in the mill for you. Enjoy your work!"** |
+- ポイント: 石臼に empty は不自然で、「空回りしている」は **turning empty**。小麦は millstone の中ではなく **mill** に入れる。happy work! という決まり文句は英語になく、近いのは **Enjoy your work!**
+
+### 14. Noel greets / She says / all men love boobs
+| 区分 | 英文 |
+| --- | --- |
+| 修正前 | Noel greet him. She say hello. he might stop wheel and might follow Noel. because Noel's boobs are so big. all man love boobs. |
+| **修正後** | **"Noel greets him. She says hello. He might stop the wheel and might follow Noel, because Noel's boobs are so big. All men love boobs."** |
+- ポイント: 三人称単数は **greets / says**（says は「セズ」と読む）。**stop the wheel**（the が要る）。man の複数は **men**。
+
+### 15. take off her panties / look at her pussy
+| 区分 | 英文 |
+| --- | --- |
+| 修正前 | try words. Wren greet him. She put off her panty. he might watch her pussy with no pubic hair. all man love pussy. |
+| **修正後** | **"Try words. Wren greets him. She takes off her panties. He might look at her pussy with no pubic hair. All men love pussy."** |
+- ポイント: 脱ぐは **take off**（put off は「延期する」）。panty は普段 **panties** と複数形。チラッと見るなら **look at**（watch は見続ける感じ）。**all men**。
+
+### 16. takes off all her clothes
+| 区分 | 英文 |
+| --- | --- |
+| 修正前 | try words again. Karin greet him. see take off all clothes. he might look at her and follow her. all man must love naked girls! |
+| **修正後** | **"Try words again. Karin greets him. She takes off all her clothes. He might look at her and follow her. All men must love naked girls!"** |
+- ポイント: **greets / takes off**（三人称の s と her）。**all men**。
+
+### 17. gaping
+| 区分 | 英文 |
+| --- | --- |
+| 修正前 | Noel try again. she did not take off earlier. now, Noel take off all clothes! and open up her pussy with her fingers. all man love gapping pussy!! he MUST follow her!!!! |
+| **修正後** | **"Noel tries again. She did not take off earlier. Now, Noel takes off all her clothes and opens up her pussy with her fingers. All men love a gaping pussy! He MUST follow her!"** |
+- ポイント: **did の後は動詞の原形**で正解（did not take off）。gapping → **gaping**（ぽっかり開くは gape）。**all men**、単数の前には **a**。
+
+### 18. bring them
+| 区分 | 英文 |
+| --- | --- |
+| 修正前 | take bones and bring it to Berric's house |
+| **修正後** | **"Take the bones and bring them to Berric's house."** |
+- ポイント: bones は複数なので **them**（it は単数用）。
+
+### 19. We wait, but stay ready for a fight
+| 区分 | 英文 |
+| --- | --- |
+| 修正前 | wait. but ready to battle |
+| **修正後** | **"We wait, but stay ready for a fight."** |
+- ポイント: 文にするならこの形。**battle** は戦争級の大げさな語で、口語では **fight** が普通。
