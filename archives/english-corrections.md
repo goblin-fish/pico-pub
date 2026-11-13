@@ -917,3 +917,59 @@ D&Dセッション（英語）のチャットで、Yamamoto の英文に対し�
 | 修正前 | take this job. can goblins speak common? if they can, i and they can conversation |
 | **修正後** | **"Take this job. Can goblins speak Common? If they can, we can talk to them."** |
 - ポイント: **conversation** は名詞だから動詞が別に要る（**talk to them** / **have a conversation with them**）。主語も "I and they" より **we** が自然。
+
+### 17. a greeting gift
+| 区分 | 英文 |
+| --- | --- |
+| 修正前 | this sheep for you. it's greeting. you don't kill us, i think. because if you kill us and you never get another sheep. |
+| **修正後** | **"This sheep is for you. It's a greeting gift. You don't kill us, I think. Because if you kill us, you never get another sheep."** |
+- ポイント: **is** が要る（This sheep **is** for you）。**a greeting gift**（a が要る。gift まで言うと完璧）。if の中では **and** は不要（切ったほうが鋭い）。
+
+### 18. Yark's band / How many are
+| 区分 | 英文 |
+| --- | --- |
+| 修正前 | how many were yark's family? |
+| **修正後** | **"How many are in Yark's band?"** |
+- ポイント: 一味・集団なので **family** ではなく **band**。Yark はまだ生きているので現在形 **are**（were は過去）。
+
+### 19. return to the South Hills / don't you?
+| 区分 | 英文 |
+| --- | --- |
+| 修正前 | you must want to return the south hills, must not you? |
+| **修正後** | **"You must want to return to the South Hills, don't you?"** |
+- ポイント: **return** の後には **to** が要る（return to 〜）。must の確認タグは普通 **don't you** になる（mustn't you? は英式でかなり固い）。
+
+### 20. How far are the hills from here?
+| 区分 | 英文 |
+| --- | --- |
+| 修正前 | how far the hill from here? |
+| **修正後** | **"How far are the hills from here?"** |
+- ポイント: **How far** の型は **are/is** が必須。複数形の hills には are。
+
+### 21. go there / attack Yark while he sleeps
+| 区分 | 英文 |
+| --- | --- |
+| 修正前 | we can help you. Yark's wolves love meat. Yark's wolves don't love Yark. tonight, we go to the south hills and give meat to the wolves. next night, we go to there and give again. then we can tame them. Yark's wolves will become Mok's wolves. the third night, Mok and your band and we and wolves attack sleeping Yark. We must win. the south hills must become yours. |
+| **修正後** | **"We can help you. Yark's wolves love meat. Yark's wolves don't love Yark. Tonight, we go to the South Hills and give meat to the wolves. Next night, we go there and give again. Then we can tame them. Yark's wolves will become Mok's wolves. The third night, Mok, your band, we, and the wolves attack Yark while he sleeps. We must win. The South Hills must become yours."** |
+- ポイント: **we go to there** → **we go there**（there は副詞なので to は不要）。並列はコンマで並べ、**and** は最後だけ。**attack sleeping Yark** より **attack Yark while he sleeps** が自然。
+
+### 22. Yark dies / surrender
+| 区分 | 英文 |
+| --- | --- |
+| 修正前 | assault on Yark's house. if Yark die, all enemy must resign |
+| **修正後** | **"Assault on Yark's house. If Yark dies, all the enemies will surrender."** |
+- ポイント: **if Yark die** → **if Yark dies**（三人称単数の s）。**resign** は「辞職する」の意味で、戦いでの降参は **surrender**。
+
+### 23. buy studded leather for Wren
+| 区分 | 英文 |
+| --- | --- |
+| 修正前 | buy studded leather of wren |
+| **修正後** | **"Buy studded leather for Wren."** |
+- ポイント: 「〜のために買う」は **buy ~ for 人**。**of** だと「Wren の（所有する）」という意味になってしまう。
+
+### 24. Wren and I / It is a promise
+| 区分 | 英文 |
+| --- | --- |
+| 修正前 | take the 3rd job. now, it is afternoon. i and wren return to the inn and have sex. it is promise. after wren's pussy is filled with semen, we go to graves. we have silver wepons. easy job |
+| **修正後** | **"Take the 3rd job. It is afternoon now. Wren and I return to the inn and have sex — it is a promise. After that, we go to the graves. We have silver weapons. An easy job."** |
+- ポイント: **i and wren** → **Wren and I**（相手を先に置くのが丁寧な並べ方）。**it is promise** → **It is a promise**（**a** が要る）。
