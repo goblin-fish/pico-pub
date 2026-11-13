@@ -803,3 +803,89 @@ D&Dセッション（英語）のチャットで、Yamamoto の英文に対し�
 | 修正前 | sell pelts and daggers |
 | **修正後** | **"Sell the pelts and the daggers."** |
 - ポイント: 目の前の決まった物（この毛皮と短剣）には **the** が要る。the なしだと「毛皮と短剣一般を売る」感じになる。
+
+## 2026-11-13
+
+### 1. on the ground
+| 区分 | 英文 |
+| --- | --- |
+| 修正前 | we put meat on ground |
+| **修正後** | **"We put meat on the ground."** |
+- ポイント: 地面は決まった場所なので **the ground**（the が要る）。
+
+### 2. How far are the harpies from us?
+| 区分 | 英文 |
+| --- | --- |
+| 修正前 | how far the harpies from us |
+| **修正後** | **"How far are the harpies from us?"** |
+- ポイント: 距離は **How far are 〜 from 〜?** の形（**are** が要る）。
+
+### 3. attack with his bow
+| 区分 | 英文 |
+| --- | --- |
+| 修正前 | Punya cannot reach, but can attack with bow. |
+| **修正後** | **"Punya cannot reach, but can attack with his bow."** |
+- ポイント: 自分の弓には **his** が要る（with bow だけだと「弓という道具一般」の感じ）。
+
+### 4. an early dinner
+| 区分 | 英文 |
+| --- | --- |
+| 修正前 | we have early dinner and go to bed as soon as possible. no sex. |
+| **修正後** | **"We have an early dinner and go to bed as soon as possible. No sex."** |
+- ポイント: 数えられる食事には **an** が要る（an early dinner）。
+
+### 5. go to the board office
+| 区分 | 英文 |
+| --- | --- |
+| 修正前 | go the board office and find jobs. |
+| **修正後** | **"Go to the board office and find jobs."** |
+- ポイント: go の後には **to** が要る（go to + 場所）。
+
+### 6. Does the ogre have
+| 区分 | 英文 |
+| --- | --- |
+| 修正前 | do the ogre have darkvision? |
+| **修正後** | **"Does the ogre have darkvision?"** |
+- ポイント: 主語が単数（he / she / it と同じ）の疑問文は **Does** + 動詞の原形。Does が「三人称の s」の役目を引き受けるので、have は原形のまま（Has にはならない）。
+
+### 7. during the day
+| 区分 | 英文 |
+| --- | --- |
+| 修正前 | i see. take the 1st job, and go west, and sneak attack it in the day |
+| **修正後** | **"I see. Take the 1st job, go west, and sneak-attack it during the day."** |
+- ポイント: 「昼間に」は **during the day** か **in the daytime** が自然（in the day はあまり言わない）。
+
+### 8. steal / goes / gets / retreats
+| 区分 | 英文 |
+| --- | --- |
+| 修正前 | only punya go into the cave and steel the tax sack. if the ogre get up, punya retreat as fast as possible. |
+| **修正後** | **"Only Punya goes into the cave and steals the tax sack. If the ogre wakes up, Punya retreats as fast as possible."** |
+- ポイント: 主語が Punya（= he）のとき、動詞に **s** が付く（goes / gets / retreats）。**steel** は「鋼鉄」、**steal** が「盗む」。
+
+### 9. the entrance of the cave
+| 区分 | 英文 |
+| --- | --- |
+| 修正前 | is the entrance of cave open ? can we hide near the cave? |
+| **修正後** | **"Is the entrance of the cave open? Can we hide near the cave?"** |
+- ポイント: **the entrance of the cave**（of の前後、両方に the が付くことが多い）。
+
+### 10. gold / coins / attack him from behind
+| 区分 | 英文 |
+| --- | --- |
+| 修正前 | spread golds near the entrance of the cave. then we hide and wait. if the ogre go out and take golds, we sneak attack his back. |
+| **修正後** | **"Spread gold near the entrance of the cave. Then we hide and wait. If the ogre goes out and takes the gold, we attack him from behind."** |
+- ポイント: 金は数えられない名詞で **gold**（s は付かない。「金貨」なら **coins**）。三人称単数は **goes / takes**。「背後から攻撃する」は **attack him from behind** が自然。
+
+### 11. with bows
+| 区分 | 英文 |
+| --- | --- |
+| 修正前 | we attack from the entrance of the cave. shots in the dark. punya and karin with bow, wren and noel with magic |
+| **修正後** | **"We attack from the entrance of the cave. Shots in the dark. Punya and Karin with bows, Wren and Noel with magic."** |
+- ポイント: bow は数えられる名詞なので **with bows** / **with their bows**（冠詞か複数形が要る）。
+
+### 12. go to the office
+| 区分 | 英文 |
+| --- | --- |
+| 修正前 | go to office and find jobs |
+| **修正後** | **"Go to the office and find jobs."** |
+- ポイント: あの掲示板事務所、特定の場所には **the** が要る。the なしの "go to office" は「会社に行く・出勤する」という一般的な意味に寄ってしまう。

@@ -562,6 +562,68 @@ Last update: 2026-11-10
 - Noel: "Inside **three hundred feet**, the singing starts. In the old stories, sailors put **wax in their ears**. No song, no pull — but then we cannot hear each other either." "Or we go at night. Even harpies sleep." Three nests on the roof. The plan is not yet decided.
 - **State: October 21, evening, before the old south watchtower. Level 3, XP 1,707 / 2,700 each (993 to Level 4). Purse: 388 gp 2 sp 3 cp. Punya's arrows: 12**
 
+## October 22 (Day 39), before dawn — the harpy ambush
+
+- **The plan:** evening hunt first — Wren and Karin take a young deer at dusk (Survival: 23). Before dawn, the deer lies open in the clearing, and the party hides at the tree line (Stealth: 24 / 10 / 15 / 13 — all hidden). Harpies have **no darkvision** — their only special sense is passive Perception 10. And no automatic critical on a surprise attack: auto-crit is only on an **unconscious** enemy within 5 feet; a surprised harpy gives **advantage**, and Punya's Sneak Attack works on advantage.
+- The smell of fresh meat pulls all three harpies down to the deer, 40 feet from the hiding line. Wren's **Entangle** bursts (STR saves: 5, 6, 10 — **all fail**) — all three restrained at the meat. The volley at the first harpy: Punya's arrow **11** (with Sneak Attack), Karin's bolt **4**, Noel's Fire Bolt **3**. Harpy A: **20 / 38**.
+- Next round: Punya's arrow **16**, Noel's Fire Bolt — **natural 20, 8 damage** — burns A dead in the vines. Wren steps out to 30 feet and flames B: **7**. Karin runs in: sword **6**, fist **7**. B: **18 / 38**. Then C tears herself free (STR 21) and flies up 40 feet, and B **sings**. WIS saves vs DC 11: Punya 18, Karin 23 — hold. **Wren 10, Noel 4 — fail, charmed.** Wren's concentration breaks — **the Entangle falls**.
+- Punya **dashes** in (Cunning Action) and his rapier takes B under the wing: **10 damage** (with Sneak Attack). B: 8 HP. Karin's sword **6**, her fist **7** — **B falls dead, and the song cuts off**. Wren and Noel blink awake; the charm ends before they take a step.
+- C screams and **dives** at Karin. Claws hit for **4** (Karin: **20 / 24**). Her club swings wild — natural 1, a miss. Now C is **on the ground**, wings spread, between Punya's rapier and Karin's fists.
+- Everyone hits her at once: Punya's rapier **20** (Sneak Attack 11), Karin's sword **7**, her fist **7**, Wren's flame **3**, Noel's Fire Bolt **10**. **All three harpies are dead.**
+- In the nests: mixed coins — **4 gp 7 sp** — and a **silver ring** (about 2 gp), among the bones. **XP: 3 × 100 = 300 → +75 each → 1,782 / 2,700. Punya's arrows: 10; Karin's bolts: 19.**
+
+## October 22 (Day 39), midday — Greywall: the claim, and an early dinner
+
+- Back in Greywall by midday. At the board office the clerk counts out the **8 gp** — claimed and paid. **Purse: 400 gp 9 sp 3 cp**, plus the silver ring, still unsold. Two watchmen ride out to man the tower again, and to carry the long bones home for burying.
+- Early dinner at The Ferryman's Rest, then bed as soon as possible. **No sex.** Stew, bread, and the small room upstairs — **−1 gp 3 sp → purse 399 gp 6 sp 3 cp**. Karin falls asleep in the middle of a sentence; Wren next; Noel's book stays in her pack. **Long rest complete. October 23, morning: HP, slots, and Hit Dice all full, Karin healed whole. No counts change: still 6 / 6 / 6.**
+
+## October 23 (Day 40), morning — the board: the ogre, the sheep, the lost boy
+
+- Fresh paper on the board. **918 XP** more for Level 4.
+- **An ogre on the west road — 20 gp.** NEW. Two days west, toward Ravenport. It stops carts and takes a "shiny tax." One carter is hurt, none dead — yet. An ogre has **darkvision, 60 feet** — the night trick that blinded the harpies will not blind it — but its **passive Perception is only 8**. It hunts by **night** and sleeps in the **day**, in a **cave in the rocks**, about a mile off the west road, from morning to late afternoon. A sleeping enemy takes **automatic critical hits within 5 feet** — but an ogre has **59 HP**, and even Punya's best critical sneak attack will not kill it in one hit.
+- **The Mistmarsh sheep — about 15 gp.** Still open. Three days away, past Alden. Whole flocks gone, no tracks, fog and deep water.
+- **A lost shepherd boy — 5 gp.** NEW, and it cannot wait. The boy did not come home last night from the north river pastures.
+- **They take the ogre job** (20 gp), and go west, to sneak-attack it during the day.
+
+## October 25 (Day 42), midday — the ogre's den: the tax sack
+
+- Two days west. Carters on the road wave them down to warn them. Night one, camp off the road. Night two, the rocky hills, watching from the scrub. At dawn, the ogre comes home: nine feet of it, a sack over one shoulder, a dead sheep in one hand like a chicken. It eats half the sheep raw outside its cave, goes in, and does not come out.
+- Midday. From the cave mouth: bones in the dirt, a smashed cart wheel, a smell like a beast pen in summer. Twenty feet inside, in a slant of daylight, the ogre lies **asleep** on a pile of stolen cloaks — snoring like a saw, its greatclub by its hand, its tax sack in the corner.
+- **The plan changes: only Punya goes in, and steals the tax sack.** Alone, Punya goes in (Stealth: **14** vs its sleeping ears) and lifts the whole sack by the knot, slow, an inch at a time (Sleight of Hand: **24**). Not one coin clinks. The ogre snores on.
+- In the scrub they open it: **11 gp 18 sp 7 cp**, a **silver kettle** (~3 gp), **brass candlesticks** (~2 gp), a **merchant's signet ring** (~5 gp), and two bolts of good wool cloth (~4 gp). The ogre's whole tax office, in one sack. **But the job is not done** — at dusk it will wake, find the corner empty, and come out angry.
+
+## October 25 (Day 42), dusk — the ambush at the cave mouth
+
+- The cave mouth is wide open — no door, no gate, about 8 feet tall and 6 feet wide. Around it: **boulders on both sides**, thick scrub, a dry gully — good hides 15 to 20 feet from the entrance. An ogre has **no Keen Smell**; only its dull ears and eyes (passive Perception **8**) guard it.
+- **The plan:** spread the ogre's own coins near the entrance, hide, and wait. If it comes out and takes the gold, attack it from behind. Before dusk, Wren casts **Pass without Trace** (her 2nd-level slot) — Stealth: Punya 29, Karin 14, Wren 23, Noel 15.
+- Inside: a snort, a crash, a **roar** — the corner is empty. The ogre storms out, club in hand — and stops. Its own coins, shining in the last light. It drops to its knees and starts scooping them up in both hands, back turned. **The volley:** Punya's arrow **16** (Sneak Attack), Karin's bolt **7**, Noel's Fire Bolt — **natural 20, 10** — Wren's flame **3**. **36 damage.** The ogre comes up roaring — **23 / 59 HP** — and it cannot act this round (surprised).
+- Round two: Karin runs in, sword **9**, fist — natural 1. Ogre: 14. Punya's bow: **natural 1**. Wren's flame: **natural 1**. Noel's Fire Bolt **5**. Ogre: **9**. The ogre swings at Karin — **12, a miss by four**; the club hits the boulder beside her head instead. That swing carried 20 damage.
+- At 9 HP, the ogre turns and **runs for its cave** — Karin's sword catches its back as it goes: **6** more. **It is at 3 HP** — and now it is inside its own dark, where an ogre sees perfectly and the party sees nothing, with javelins by the door.
+- **Shots in the dark, from the cave mouth:** all shots at **disadvantage** (no Sneak Attack for Punya: no advantage, no friend beside it). Punya's arrow: 8 — stone rings. Karin's bolt: 9 — a spark in the black. **Wren's flame: 11 — a hit, 4 damage.** Deep in the cave, something huge shapes itself in the flash — and crashes down, and does not get up. **The ogre is dead. The west road is open.**
+- **XP: ogre 450 → +112 each → 1,894 / 2,700 (806 to Level 4). Nobody in the party was hurt today.** They pick the coins out of the dirt, close the cave with stones as best they can, and camp under the stars with a dead giant's treasure sack for a pillow. Two days home, then the claim.
+
+## October 27 (Day 44), midday — Greywall: the claim
+
+- Two days home along a road that suddenly waves at them. A carter found the stone-closed cave and the blood, and the watch patrol that rode out has already confirmed the body. At the office, the clerk counts out the **20 gp** without argument. **Purse: 432 gp 5 sp** — the ogre fee, plus its tax coins, are in.
+- Still unsold in the sack (~14 gp): the silver kettle, brass candlesticks, wool cloth, and the signet ring. Word is, a merchant named **Tilbury** lost that ring in September and is asking at the market after it.
+- The lost-boy notice is gone from the board. A watch shepherd found him on the second day, in a gully with a broken ankle — **alive**, hungry, and furious at his own sheep. Some jobs get done without the party.
+- **State: October 27, midday, Greywall. Level 3, XP 1,894 / 2,700 each (806 to Level 4). Purse: 432 gp 5 sp. Punya's arrows: 7; Karin's bolts: 17.**
+
+## October 27 (Day 44), afternoon — the market
+
+- **The fletcher's stall:** arrows **1 gp for 20**, bolts **1 gp for 20**. **Punya buys 20 arrows for 1 gp. Arrows: 7 → 27. Purse: 432 gp 5 sp → 431 gp 5 sp.** Karin's bolts still stand at 17 (20 for 1 gp, if wanted).
+- **Tilbury's cloth stall:** the merchant himself is there, a round man with ink on his fingers. If shown the ring, he will buy it back for its full **5 gp**, and likely the kettle, candlesticks, and cloth (his own stock, robbed off his cart) at fair prices too — the whole pile is appraised at about **14 gp**.
+- The party's potions stand at three (one each on Punya, Karin, Noel), holy water at two flasks.
+
+## October 27 (Day 44), afternoon — the board again
+
+- Fresh paper is up. **806 XP** to Level 4.
+- **The Mistmarsh sheep — about 15 gp.** Still open, still strange. Three days away, past Alden. Whole flocks gone without a track, in fog and deep water.
+- **Goblins in the old quarry — 12 gp.** NEW. The quarry south-east was worked out ten years ago. A goblin band has moved into the old tunnels and robs the farms at night. The owner wants them gone before winter so the quarry can reopen. Many small enemies, their holes and traps, and something bigger that leads them.
+- **The biting crate — 8 gp.** NEW, and close. In Tilbury's cellar, a crate that came up from Ravenport **bit his porter** yesterday. It has not moved since. It also has not been opened since. Tilbury will pay 8 gp to anyone who makes his cellar a cellar again.
+- Noel, reading over Punya's shoulder: "One is far and wet. One is near and many. One is downstairs and has teeth."
+- **State: October 27, afternoon, Greywall, the board office. Level 3, XP 1,894 / 2,700 each (806 to Level 4). Purse: 431 gp 5 sp. Punya's arrows: 27; Karin's bolts: 17. Unsold: the silver ring (~2 gp from the harpy nest, in the loot pile), the ogre's kettle, candlesticks, wool cloth, and signet ring (~14 gp together).**
+
 ## The three girls — a record, to be fair to all
 
 From before this story, all three are Punya's lovers, and all three have been close with him. From the start of the story:
@@ -584,3 +646,6 @@ From before this story, all three are Punya's lovers, and all three have been cl
 - After: **358 gp 1 sp** (Oct 16: Wat deposit −40 gp, deserters' pockets +20 gp 5 sp, the floor-cache loose coin +74 gp 3 sp, deposit returned +40 gp / Oct 17: the guild fee +30 gp, Ferryman's Rest −1 gp 3 sp / Oct 18: breakfast −4 sp, the gear sold +238 gp 5 sp, the gray horse sold +65 gp, bolts −1 gp, Healer's Kit −5 gp, Studded Leather −45 gp, ball bearings −1 gp, Potions of Healing ×3 −150 gp, lingerie ×3 −15 gp) — **after: 358 gp 1 sp**
 - After: **379 gp 2 sp 3 cp** (Oct 18 night: the thieves' coin +1 gp 9 sp 3 cp, the granary fee +4 gp / Oct 19: breakfast −4 sp / Oct 19 dusk: the wolves' fee +6 gp / Oct 21 dawn: the mill fee +10 gp, lunch −4 sp) — **after: 379 gp 2 sp 3 cp**
 - After: **388 gp 2 sp 3 cp** (Oct 21 afternoon: the pelts sold +7 gp, the two daggers sold +2 gp) — **after: 388 gp 2 sp 3 cp**
+- After: **399 gp 6 sp 3 cp** (Oct 22: the harpy nest coins +4 gp 7 sp, the harpy fee +8 gp, the early dinner and room −1 gp 3 sp) — **after: 399 gp 6 sp 3 cp**
+- After: **432 gp 5 sp** (Oct 25: the ogre tax sack coins +11 gp 18 sp 7 cp / Oct 27: the ogre fee +20 gp) — **after: 432 gp 5 sp**
+- After: **431 gp 5 sp** (Oct 27 afternoon: 20 arrows −1 gp) — **after: 431 gp 5 sp**
