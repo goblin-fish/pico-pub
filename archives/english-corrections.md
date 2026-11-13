@@ -889,3 +889,31 @@ D&Dセッション（英語）のチャットで、Yamamoto の英文に対し�
 | 修正前 | go to office and find jobs |
 | **修正後** | **"Go to the office and find jobs."** |
 - ポイント: あの掲示板事務所、特定の場所には **the** が要る。the なしの "go to office" は「会社に行く・出勤する」という一般的な意味に寄ってしまう。
+
+### 13. has been closed for ten years
+| 区分 | 英文 |
+| --- | --- |
+| 修正前 | for the 2nd job, the quarry is not available from ten years ago. the owner cannot reopen even if goblins gone, i think |
+| **修正後** | **"For the 2nd job, the quarry has been closed for ten years. The owner cannot reopen it even if the goblins are gone, I think."** |
+- ポイント: 「10年前から使えない」は **has been closed for ten years**（available は「空いている・使える」の意味で、ここには合わない）。even if **the goblins are gone**（**are** と **the** が要る）。
+
+### 14. moved in there / know about it
+| 区分 | 英文 |
+| --- | --- |
+| 修正前 | why have the goblins moved into there? where did they live before? does the owner know it? |
+| **修正後** | **"Why have the goblins moved in there? Where did they live before? Does the owner know about it?"** |
+- ポイント: **there** は副詞だから **into** は重ねない（**moved in there**）。事情を知っているか、のときは **know about it** の方が自然。
+
+### 15. the population went down / If the goblins return
+| 区分 | 英文 |
+| --- | --- |
+| 修正前 | the band split and fought, and the losers had to go somewhere. then the population of the goblins reduced. their food is enough for them in the south hills, i think. the goblins return to the south hills, then all become happy, i think |
+| **修正後** | **"The band split and fought, and the losers had to go somewhere. Then the population of the goblins went down. They have enough food in the South Hills, I think. If the goblins return to the South Hills, everyone will be happy, I think."** |
+- ポイント: **reduce** は「〜を減らす」他動詞が基本。自分で減った、なら **went down** / **decreased**。「食べ物が足りている」は **They have enough food** / **There is enough food for them** が自然。推測を **If** でつなぐと「もし〜なら、〜だろう」と自然になる。
+
+### 16. we can talk to them
+| 区分 | 英文 |
+| --- | --- |
+| 修正前 | take this job. can goblins speak common? if they can, i and they can conversation |
+| **修正後** | **"Take this job. Can goblins speak Common? If they can, we can talk to them."** |
+- ポイント: **conversation** は名詞だから動詞が別に要る（**talk to them** / **have a conversation with them**）。主語も "I and they" より **we** が自然。
