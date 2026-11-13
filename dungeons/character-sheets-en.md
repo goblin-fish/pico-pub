@@ -1,7 +1,7 @@
 # Character Sheets (the whole party of four)
 
 D&D 5e (2014 Basic Rules) / DM: Pico
-Last update: 2026-11-11
+Last update: 2026-11-13
 
 ## Party overview
 
@@ -9,10 +9,10 @@ Last update: 2026-11-11
 |---|---|---|---|---|---|
 | Punya | Rogue 3, Thief (Yamamoto's character, the leader) | 55 | 21 | 15 | Stealth, traps, Sneak Attack |
 | Karin | Monk 3, Way of the Open Hand | 18 | 24 | 16 | Fast front line, fists and shortsword |
-| Wren | Druid 3, Circle of the Land (Forest) | 19 | 21 | 14 | Nature magic, healing, support |
+| Wren | Druid 3, Circle of the Land (Forest) | 19 | 21 | 15 | Nature magic, healing, support |
 | Noel | Wizard 3, School of Evocation | 18 | 17 | 11 (14 with Mage Armor) | Attack and utility magic |
 
-All Human, Level 3, Proficiency Bonus +2. XP: 1,545 each (Level 4 at 2,700 XP).
+All Human, Level 3, Proficiency Bonus +2. XP: 2,369 each (Level 4 at 2,700 XP).
 
 The mood of the party: all three of them love Punya (55) and want him for themselves. But there are three of them, so they keep each other in check and fight over his attention.
 How they act (set 2026-11-08): in the daytime, Karin and Wren always take the places on both sides of Punya — at the table, and walking in town too. Noel only reads her book and looks calm, like she does not care that she cannot sit next to him. At night, Karin and Wren sleep close to Punya, one on each side. But in the morning, Punya always wakes up with his face in Noel's big breasts — she comes to him in the night. Some mornings she wakes up early and wakes him with her mouth. Under her calm daytime face, Noel is the most lewd of the three.
@@ -21,7 +21,7 @@ How they act (set 2026-11-08): in the daytime, Karin and Wren always take the pl
 
 ## Punya — Human Rogue (Thief), Level 3
 
-- Player: Yamamoto / Alignment: Chaotic Neutral / XP: 1,545 (Level 4 at 2,700 XP)
+- Player: Yamamoto / Alignment: Chaotic Neutral / XP: 2,369 (Level 4 at 2,700 XP)
 - Age: 55. A cool, very popular older man. The three companions (all adults) adore him
 - Background: Criminal (Specialty: Smuggler)
 - Ability Scores: STR 10 (+0) / DEX 16 (+3) / CON 12 (+1) / INT 9 (−1) / WIS 16 (+3) / CHA 14 (+2)
@@ -32,7 +32,7 @@ How they act (set 2026-11-08): in the daytime, Karin and Wren always take the pl
 - Class Features: Expertise, Sneak Attack **2d6**, Thieves' Cant, Cunning Action, **Roguish Archetype: Thief** — Fast Hands (Sleight of Hand and Use an Object as a Bonus Action with Cunning Action), Second-Story Work (climbing costs no extra movement; running jump distance +3 ft)
 - Tool Proficiencies: Thieves' tools, Playing card set, Disguise kit
 - Languages: Common, Undercommon, Thieves' Cant
-- Weapons: Rapier (+5, 1d8+3), Shortbow (+5, 1d6+3, 15 arrows), Light crossbow (+5, 1d8+3; taken from the fled bandit — Karin carries it, with 22 bolts), Dagger ×2 (+5, 1d4+3), **Silver dagger, antique** (+5, 1d4+3, counts as silver; bought Oct 6 for 30 gp)
+- Weapons: Rapier (+5, 1d8+3), Shortbow (+5, 1d6+3, 27 arrows), Light crossbow (+5, 1d8+3; taken from the fled bandit — Karin carries it, with 17 bolts), Dagger ×2 (+5, 1d4+3), **Silver dagger, antique** (+5, 1d4+3, counts as silver; bought Oct 6 for 30 gp)
 - Equipment: **Studded Leather armor** (AC 15 total; bought Oct 18 for 45 gp), old leather armor (kept in the pack as a spare), Burglar's pack (ball bearings, string, bell, candles, crowbar, hammer, 10 pitons, hooded lantern, 2 flasks of oil, 5 days of rations, tinderbox, waterskin, 50 feet of hempen rope), crowbar (2 in total), dark hooded clothes, **a flask of holy water** (from the temple, Oct 14), **Potion of Healing ×1** (bought Oct 18)
 - Personality:
   - Trait: Always calm, never raises his voice
@@ -47,7 +47,7 @@ How they act (set 2026-11-08): in the daytime, Karin and Wren always take the pl
 
 ## Karin — Human Monk (Way of the Open Hand), Level 3 (age 18)
 
-- XP: 1,545 (Level 4 at 2,700 XP)
+- XP: 2,369 (Level 4 at 2,700 XP)
 - Background: Acolyte (raised in a temple) *decided by the DM, can be changed
 - Personality: Bold and energetic, the youngest at heart. Confident, loves teasing Punya. First to jump into a fight
 - Appearance: Height 163 cm, B87 / W55 / H87, black hair in a ponytail / Lingerie: **D70, black lace** (bought Oct 18 in Greywall) / Body: puffy nipples / Signature move: **Machine-Gun Cowgirl**
@@ -58,7 +58,7 @@ How they act (set 2026-11-08): in the daytime, Karin and Wren always take the pl
 - Skills: Acrobatics +5, Athletics +3, Insight +5, Religion +1
 - Passive Perception: 13
 - Class Features: Unarmored Defense, Martial Arts (unarmed strike 1d4+3, shortsword), **Ki (3 points)**: Flurry of Blows, Patient Defense, Step of the Wind; Unarmored Movement (Speed 40); **Deflect Missiles** (Reaction: reduce a missile's damage by 1d10+6; if reduced to 0, catch it and throw it back); **Monastic Tradition: Way of the Open Hand — Open Hand Technique** (Flurry of Blows hits can knock prone (Strength save), push 15 ft, or stop the target's Reactions)
-- Weapons: Shortsword (+5, 1d6+3), Unarmed strike (+5, 1d4+3), Dart ×9, **Silver dagger, new** (+5, 1d4+3, counts as silver; bought Oct 6 for 45 gp), Punya's **light crossbow** (+5, 1d8+3, 22 bolts; carried since Oct 12), **Potion of Healing ×1** (bought Oct 18)
+- Weapons: **Silvered shortsword** (+5, 1d6+3, counts as silver; the party's pick from Yark's hoard, Oct 31 — her main weapon since Nov 1), Shortsword (+5, 1d6+3; kept as a spare), Unarmed strike (+5, 1d4+3), Dart ×9, **Silver dagger, new** (+5, 1d4+3, counts as silver; bought Oct 6 for 45 gp), Punya's **light crossbow** (+5, 1d8+3, 17 bolts; carried since Oct 12), **Potion of Healing ×1** (bought Oct 18)
 - Tool/Instrument: Flute
 - Languages: Common, plus 3 more not yet chosen (1 extra Human language + 2 from Acolyte)
 
@@ -66,13 +66,13 @@ How they act (set 2026-11-08): in the daytime, Karin and Wren always take the pl
 
 ## Wren — Human Druid (Circle of the Land: Forest), Level 3 (age 19)
 
-- XP: 1,545 (Level 4 at 2,700 XP)
+- XP: 2,369 (Level 4 at 2,700 XP)
 - Background: Folk Hero *decided by the DM, can be changed
 - Personality: Gentle and sweet, a little airheaded. Always worries about everyone's wounds
 - Appearance: Height 149 cm, B90 / W56 / H86, brown wavy hair / Lingerie: **G65, white** (bought Oct 18 in Greywall) / Body: hairless (no pubic hair) / Signature move: **Geyser Squirt**
 - Ability Scores: STR 9 (−1) / DEX 12 (+1) / CON 12 (+1) / INT 12 (+1) / WIS 16 (+3) / CHA 16 (+3)
 - Hit Point Maximum: 21 / Hit Dice: 3d8 / Speed: 30
-- Armor Class: 14 (Leather armor + Wooden shield)
+- Armor Class: 15 (Studded leather armor + Wooden shield; studded leather bought Nov 1 for 45 gp — the old leather armor is kept as a spare)
 - Saving Throws: Intelligence +3, Wisdom +5
 - Skills: Perception +5, Medicine +5, Animal Handling +5, Survival +5
 - Passive Perception: 15
@@ -104,7 +104,7 @@ How they act (set 2026-11-08): in the daytime, Karin and Wren always take the pl
 
 ## Noel — Human Wizard (School of Evocation), Level 3 (age 18)
 
-- XP: 1,545 (Level 4 at 2,700 XP)
+- XP: 2,369 (Level 4 at 2,700 XP)
 - Background: Sage *decided by the DM, can be changed
 - Personality: Smart, with glasses. Calm, but sharp-tongued when embarrassed. Always reading a book. But the calm face is an act — in truth, she is the most lecherous of the three. She plans quietly and plays innocent after
 - Appearance: Height 156 cm, B103 / W61 / H94, navy-blue bob (longer in front), glasses / Lingerie: **J70, deep red** (bought Oct 18 in Greywall) / Body: an enlarged clitoris / Signature move: **Tornado Blowjob**

@@ -1,7 +1,7 @@
 # キャラクターシート（パーティ4人分）
 
 D&D 5e（2014 Basic Rules）/ DM: Pico
-最終更新: 2026-11-11
+最終更新: 2026-11-13
 
 ## パーティ一覧
 
@@ -9,10 +9,10 @@ D&D 5e（2014 Basic Rules）/ DM: Pico
 |---|---|---|---|---|---|
 | Punya | Rogue 3, Thief（Yamamotoのキャラ、リーダー） | 55 | 21 | 15 | 隠密、罠、Sneak Attack |
 | Karin | Monk 3, Way of the Open Hand | 18 | 24 | 16 | 高速前衛、素手と Shortsword |
-| Wren | Druid 3, Circle of the Land (Forest) | 19 | 21 | 14 | 自然魔法、回復、サポート |
+| Wren | Druid 3, Circle of the Land (Forest) | 19 | 21 | 15 | 自然魔法、回復、サポート |
 | Noel | Wizard 3, School of Evocation | 18 | 17 | 11（Mage Armor で14） | 攻撃・便利系の魔法 |
 
-全員 Human、Level 3、Proficiency Bonus +2。XP: 各 1,545（Level 4 は 2,700 XP）。
+全員 Human、Level 3、Proficiency Bonus +2。XP: 各 2,369（Level 4 は 2,700 XP）。
 
 パーティの空気: 3人とも Punya（55歳）が好きで、自分のものにしたがっている。ただ3人いるので互いに牽制し合って、Punya の気を引こうと取り合っている真っ最中。
 振る舞いの型（2026-11-08 設定）: 昼間は Karin と Wren がいつも Punya の両隣を占める（テーブルでも、町を歩くときも）。Noel はいつも本を読むだけで平然としていて、隣になれなくても気にしていないように見える。夜は Karin と Wren が Punya を挟んでくっついて寝るのに、なぜか朝になると Punya は Noel の大きな胸に顔をうずめた状態で目覚める。早起きして口で起こしてくれる朝もある。平然とした昼の顔の下で、実は Noel がいちばんエロい。
@@ -21,7 +21,7 @@ D&D 5e（2014 Basic Rules）/ DM: Pico
 
 ## Punya — Human Rogue (Thief), Level 3
 
-- Player: Yamamoto / Alignment: Chaotic Neutral / XP: 1,545（Level 4 は 2,700 XP）
+- Player: Yamamoto / Alignment: Chaotic Neutral / XP: 2,369（Level 4 は 2,700 XP）
 - 年齢: 55歳。渋くてモテモテのおじさん。3人の仲間（全員成人）から慕われている
 - Background: Criminal（Specialty: Smuggler）
 - Ability Scores: STR 10 (+0) / DEX 16 (+3) / CON 12 (+1) / INT 9 (−1) / WIS 16 (+3) / CHA 14 (+2)
@@ -32,7 +32,7 @@ D&D 5e（2014 Basic Rules）/ DM: Pico
 - Class Features: Expertise、Sneak Attack **2d6**、Thieves' Cant、Cunning Action、**Roguish Archetype: Thief** — Fast Hands（Cunning Action の Bonus Action で Sleight of Hand や Use an Object ができる）、Second-Story Work（登攀で追加の移動コストなし、立ち幅跳びの距離 +3 ft）
 - Tool Proficiencies: Thieves' tools、Playing card set、Disguise kit
 - Languages: Common、Undercommon、Thieves' Cant
-- Weapons: Rapier（+5、1d8+3）、Shortbow（+5、1d6+3、矢15本）、Light crossbow（+5、1d8+3；逃げた盗賊から奪った——Karin が所持、ボルト22本）、Dagger ×2（+5、1d4+3）、**Silver dagger（アンティーク）**（+5、1d4+3、銀として扱う；10/6 に 30 gp で購入）
+- Weapons: Rapier（+5、1d8+3）、Shortbow（+5、1d6+3、矢27本）、Light crossbow（+5、1d8+3；逃げた盗賊から奪った——Karin が所持、ボルト17本）、Dagger ×2（+5、1d4+3）、**Silver dagger（アンティーク）**（+5、1d4+3、銀として扱う；10/6 に 30 gp で購入）
 - Equipment: **Studded Leather armor**（AC 合計15；10/18 に 45 gp で購入）、古い Leather armor（予備として袋の中）、Burglar's pack（ball bearings、string、bell、candles、crowbar、hammer、piton ×10、hooded lantern、oil ×2、rations 5日分、tinderbox、waterskin、hempen rope 50 ft）、crowbar（合計2本）、黒いフード付きの服、**聖水の小瓶**（10/14 に聖堂から）、**Potion of Healing ×1**（10/18 に購入）
 - Personality:
   - Trait: 常に冷静で、声を荒らげない
@@ -47,7 +47,7 @@ D&D 5e（2014 Basic Rules）/ DM: Pico
 
 ## Karin — Human Monk (Way of the Open Hand), Level 3（18歳）
 
-- XP: 1,545（Level 4 は 2,700 XP）
+- XP: 2,369（Level 4 は 2,700 XP）
 - Background: Acolyte（寺育ち）※DM決定、変更可
 - Personality: 大胆で元気な末っ子気質。自信家で、よく Punya をからかう。戦いでは真っ先に飛び込む
 - 外見: 身長 163 cm、B87 / W55 / H87、黒髪のポニーテール / ランジェリー: **D70、黒レース**（10/18 に Greywall で購入） / 体の特徴: パフィーニップル / 得意技: **マシンガン騎乗位**
@@ -58,7 +58,7 @@ D&D 5e（2014 Basic Rules）/ DM: Pico
 - Skills: Acrobatics +5、Athletics +3、Insight +5、Religion +1
 - Passive Perception: 13
 - Class Features: Unarmored Defense、Martial Arts（素手 1d4+3、Shortsword）、**Ki（3点）**: Flurry of Blows、Patient Defense、Step of the Wind；Unarmored Movement（Speed 40）；**Deflect Missiles**（Reaction: 飛び道具のダメージを 1d10+6 軽減、0 にしたら掴んで投げ返せる）；**Monastic Tradition: Way of the Open Hand — Open Hand Technique**（Flurry の命中ごとに、転倒（Strength セーブ）／15 ft 押し出し／リアクション封じのいずれか）
-- Weapons: Shortsword（+5、1d6+3）、Unarmed strike（+5、1d4+3）、Dart ×9、**Silver dagger（新品）**（+5、1d4+3、銀として扱う；10/6 に 45 gp で購入）、Punya の **Light crossbow**（+5、1d8+3、ボルト22本；10/12 から所持）、**Potion of Healing ×1**（10/18 に購入）
+- Weapons: **銀メッキの Shortsword**（+5、1d6+3、銀として扱う；10/31 に Yark の財宝から選んだ取り分、11/1 から主武器）、Shortsword（+5、1d6+3；予備として所持）、Unarmed strike（+5、1d4+3）、Dart ×9、**Silver dagger（新品）**（+5、1d4+3、銀として扱う；10/6 に 45 gp で購入）、Punya の **Light crossbow**（+5、1d8+3、ボルト17本；10/12 から所持）、**Potion of Healing ×1**（10/18 に購入）
 - Tool/Instrument: Flute
 - Languages: Common のほか3つ未選択（Human の追加1つ + Acolyte の2つ）
 
@@ -66,13 +66,13 @@ D&D 5e（2014 Basic Rules）/ DM: Pico
 
 ## Wren — Human Druid (Circle of the Land: Forest), Level 3（19歳）
 
-- XP: 1,545（Level 4 は 2,700 XP）
+- XP: 2,369（Level 4 は 2,700 XP）
 - Background: Folk Hero ※DM決定、変更可
 - Personality: 優しくて少し天然。みんなの傷をいつも心配している
 - 外見: 身長 149 cm、B90 / W56 / H86、茶色のウェーブ髪 / ランジェリー: **G65、白**（10/18 に Greywall で購入） / 体の特徴: パイパン / 得意技: **ゲイザー潮吹き**
 - Ability Scores: STR 9 (−1) / DEX 12 (+1) / CON 12 (+1) / INT 12 (+1) / WIS 16 (+3) / CHA 16 (+3)
 - Hit Point Maximum: 21 / Hit Dice: 3d8 / Speed: 30
-- Armor Class: 14（Leather armor + Wooden shield）
+- Armor Class: 15（Studded leather armor + Wooden shield；11/1 に 45 gp で購入——古い Leather armor は予備）
 - Saving Throws: Intelligence +3、Wisdom +5
 - Skills: Perception +5、Medicine +5、Animal Handling +5、Survival +5
 - Passive Perception: 15
@@ -104,7 +104,7 @@ D&D 5e（2014 Basic Rules）/ DM: Pico
 
 ## Noel — Human Wizard (School of Evocation), Level 3（18歳）
 
-- XP: 1,545（Level 4 は 2,700 XP）
+- XP: 2,369（Level 4 は 2,700 XP）
 - Background: Sage ※DM決定、変更可
 - Personality: 賢くて眼鏡。落ち着いているが、照れると毒舌。いつも本を読んでいる。ただし冷静なのは見せかけで、実は3人の中でいちばんスケベ。静かに計画を立てて、しらばっくれる
 - 外見: 身長 156 cm、B103 / W61 / H94、紺色の前下がりボブ、眼鏡 / ランジェリー: **J70、深紅**（10/18 に Greywall で購入） / 体の特徴: 陰核肥大 / 得意技: **トルネードフェラチオ**
