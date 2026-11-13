@@ -1,7 +1,7 @@
 # World Settings — Alden and the Neighboring Towns
 
 For the D&D 5e (2014 Basic Rules) campaign
-Last update: 2026-11-11
+Last update: 2026-11-13
 
 ## Map (towns and roads)
 
@@ -11,6 +11,8 @@ flowchart LR
     WH ---|10 mi west| ALD["ALDEN<br/>farming village / start"]
     GW ---|1 day north| TB["the north toll bridge<br/>the bridge is open again"]
     ALD ---|45 mi north, 2 days| GW["Greywall<br/>the lord's great city"]
+    GW ---|half a day south-east| QU["the old quarry<br/>Hugh Colley's pit"]
+    QU ---|20 mi south| SH["the South Hills<br/>goblin warrens<br/>Mok's seat"]
     ALD ---|1 hour east| SB["the stone bridge"]
     SB --- AMB["the dark place between the hills<br/>ambush site and flat patch"]
     AMB -.->|about 20 min north| ST["standing stones and the door under the hill<br/>the Lady's house"]
@@ -131,6 +133,19 @@ flowchart LR
   - **Petyr** (the true toll-keeper, old): chained by the ankle in the stable loft for three weeks while Voss ran his bridge. Freed by the party on Oct 16; back at his post, ringing his bell for honest tolls, and holding the recovered named goods for the guild's inspector
   - **Wat** (a cloth merchant of the north road) and **Jory** (his young spearman): lent the party their cart and mare for the bait run at a **40 gp deposit**, hiding with their cloth in the north woods; the cart and mare came back (the mare with a scar), and the deposit was returned in full
   - **The toll house cat** (fat, unnamed): rules the counter, answers to no one
+
+### South-east of Greywall: the old quarry and the South Hills
+
+- **The old quarry** (half a day south-east of Greywall): Hugh Colley's pit. The stone here is still good — the pit closed ten years ago because the old owner died and the lord's building works had ended, not because it was worked out. His son **Hugh Colley** is reopening it now that the castle is buying stone for its walls again
+- Late Aug – Oct 31: a goblin band under the bugbear **Mok** (about 16 goblins) held the dry upper tunnels and raided the south farms by night. Hugh posted **12 gp** (Oct 27) to have them gone
+- Oct 28–31, the party settled it without a quarry fight: a sheep as a greeting gift, two nights of feeding Yark's wolves, and a third-night strike at Yark's warren (below). Mok's band left the pit at dawn on **Oct 31** and marched home to the South Hills. The pit stands empty; Hugh's 12 gp is still to be reported and claimed
+- **The South Hills** (20 mi south of the quarry; about 32 mi south of Greywall, some 13 mi north of Alden): grass hills with goblin warrens (cave dens), long held by the united band of the chief **Greth** — about 50 goblins in the spring
+- Greth died in the spring (a stone fall in the deep warren). The band split and fought: **Yark**, a goblin boss with more spears (about 26, plus five wolves), held the warrens; the loser **Mok** took his followers north to the quarry
+- **Oct 31, before dawn**: Yark was killed in his own deep chamber (the party's knives; Mok's band and the turned wolves in the dens). Mok took Greth's **silver torc** and the seat, uniting both bands (about 30 goblins, plus the five wolves) under an oath sworn to the party: **no more raids on Greywall's farms**, and the quarry left empty
+- People:
+  - **Hugh Colley** (quarry owner): posted the 12 gp. "I sell stone. I do not dig goblins."
+  - **Mok** (bugbear; chief of both bands from Oct 31): proud and oath-bound — his word is stone
+  - **Yark** (goblin boss, dead Oct 31) and **Greth** (the old chief, dead in the spring)
 
 ### West: The West Hills and the Mistmarsh
 
