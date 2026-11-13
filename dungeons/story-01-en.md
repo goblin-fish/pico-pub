@@ -635,6 +635,21 @@ Last update: 2026-11-10
 - Half a day south-east, and over the last hill at evening: below, the pit — rings of cut rock going down like giant steps, the old tunnels black at the bottom on the far side. A thin line of cooking smoke rises from a crack in the pit floor. The smell of goat, stolen and roasting. On the rim rocks above the tunnels, **two goblin sentries** sit with spears across their knees. They have not seen the party. The band is home, and it is not yet night.
 - **State: October 27, evening, at the rim of the old quarry. Level 3, XP 1,894 / 2,700 each (806 to Level 4). Purse: 431 gp 5 sp. Punya's arrows: 27; Karin's bolts: 17.** How to open the talk — a shout from the rim, Punya walking down alone with empty hands, or something cleverer.
 
+## October 27 (day 44), night — the farm
+
+- Rewind: the party came straight to the pit — but Punya's plan was to bring meat first, and let their guard down before talking. Nothing has happened yet. The sentries have not seen them. Quietly down the hill, a little way back along the road they came.
+- The nearest farm — the very farm the goblins stole goats from, as it happens — sells them a fat live ewe for **2 gp** (the rulebook price for one sheep). **Purse: 431 gp 5 sp → 429 gp 5 sp.**
+- The farmer's word (a witness worth trusting): only the **small ones** come on the night raids. The big one — the chief — has never once been seen at a farm; he sits in his hole, it seems. They come every few nights, after dark, taking a little goat and grain at a time.
+- Tonight the party sleeps free on the hay in the farmer's barn. The chief stays in his hole; only his men come out — so to talk, the party must call him out at the mouth of his hole.
+
+## October 28 (day 45), morning — the old quarry
+
+- All four walk openly down the rim road to the pit. No hiding. Hands where they can be seen. The sheep in the middle. **Wren** holds the rope (Animal Handling +5).
+- A sentry's shriek, and the holes boil over. Goblins with spears pour out — a dozen spears or more, all pointed this way — but they do not thrust. The sheep, the empty hands, four people who neither run nor hide: the spears do not lower, but they stop.
+- Then the deepest hole goes quiet. A **seven-foot shadow** steps into the daylight. Patchwork armor, a morningstar, old scars. A bugbear — the chief. He looks at the sheep first. Then at Punya.
+- The talking strength: **Wren CHA 16 / Noel CHA 16** (the best in the party), **Punya CHA 14, Persuasion +4** — he does the talking, **Karin CHA 10** — she says nothing, but standing behind them is a warning all by itself.
+- **State: October 28, morning, at the old quarry. Level 3, XP 1,894 / 2,700 each (806 to Level 4). Purse: 429 gp 5 sp. Punya's arrows: 27; Karin's bolts: 17.** The talk begins — Punya's words to give.
+
 ## The three girls — a record, to be fair to all
 
 From before this story, all three are Punya's lovers, and all three have been close with him. From the start of the story:
@@ -660,3 +675,4 @@ From before this story, all three are Punya's lovers, and all three have been cl
 - After: **399 gp 6 sp 3 cp** (Oct 22: the harpy nest coins +4 gp 7 sp, the harpy fee +8 gp, the early dinner and room −1 gp 3 sp) — **after: 399 gp 6 sp 3 cp**
 - After: **432 gp 5 sp** (Oct 25: the ogre tax sack coins +11 gp 18 sp 7 cp / Oct 27: the ogre fee +20 gp) — **after: 432 gp 5 sp**
 - After: **431 gp 5 sp** (Oct 27 afternoon: 20 arrows −1 gp) — **after: 431 gp 5 sp**
+- After: **429 gp 5 sp** (Oct 27 night: a live ewe −2 gp) — **after: 429 gp 5 sp**

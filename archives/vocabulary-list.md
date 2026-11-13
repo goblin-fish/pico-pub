@@ -1,7 +1,7 @@
 # 単語集（Vocabulary List）
 
 Muse の Vocabulary List スペースの内容の Markdown スナップショット。
-スナップショット取得日: 2026-11-12
+スナップショット取得日: 2026-11-13
 
 登録数: 86語
 
@@ -90,6 +90,6 @@ Muse の Vocabulary List スペースの内容の Markdown スナップショッ
 | burial | noun | ˈberiəl | 埋葬（死者を墓・地下墓所に葬ること） | burial goods = 副葬品（死者と一緒に葬られた品々）。契約の「No taking burial goods」は「副葬品を持ち出すな」の文脈 | 2026-11-11 |  |
 | aisle | noun | aɪl | 通路；教会・墓所などの側廊（列と列・壁と列の間の長い通路） | s は発音しない（isle と同じ音）。south aisle = 南の側廊。スーパーの商品棚の間の通路も aisle | 2026-11-11 |  |
 | acolyte | noun | ˈækəlaɪt | 侍者・見習いの聖職者（神殿で神父を助ける若い奉仕者） | 神殿の acolyte がワイトを見た、の文脈。Karin の背景（Background: Acolyte）と同じ単語 | 2026-11-11 |  |
-| board office | idiom | ボード・オフィス | 掲示板の横の仕事受付事務所 | 冒険用の表現。一般的な言い方ではなく、市場の掲示板（job board）の横にある小さな事務所という設定 | 2026-11-12 |  |
-| three floors of | idiom | スリー・フロアーズ・オブ | 〜でいっぱいの3階分 | floor は「階」。three floors of wheat sacks = 小麦袋で埋まった3階建て。three floors of books（本で埋まった3階分）のようにも使う | 2026-11-12 |  |
-| bar | verb | バー | （戸に）横木をかけて閉ざす | bars は三人称単数。Edric bars the doors = エドリックが扉に横木をかける。名詞では「棒・横木」、a bar of chocolate = 板チョコ1枚 | 2026-11-12 |  |
+| board office | idiom | ボード オフィス | （Greywallの）市場の掲示板の横にある、仕事の受付と支払いをする事務所。※一般的な英語表現ではなく、この冒険用にPicoが作った言い方 |  | 2026-11-12 |  |
+| three floors of | idiom | スリー フロアズ オブ | 「〜でいっぱいの3階分」。floor はここでは床ではなく「階」。Three floors of wheat sacks = 小麦袋で埋まった3階分の（建物・空間） |  | 2026-11-12 |  |
+| bar | verb | バー | （戸に）横木・かんぬきをかけて閉ざす。名詞では「棒・横木」そのもの、酒場のバーも同じ語 |  | 2026-11-12 |  |
