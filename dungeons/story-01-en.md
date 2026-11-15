@@ -868,14 +868,15 @@ Last update: 2026-11-10
 - The cart went north for the last day. In the afternoon, Greywall's walls came into view.
 - At the gate, Tobin checked every barrel — all six whole and cold. He paid **16 gp** on the spot (→ **80 gp 7 sp**).
 - The night at The Ferryman's Rest (−1 gp 3 sp → **79 gp 4 sp**).
-- Evening: looking for work at the board office by the market. The clerk put out three jobs: (1) the missing coachman (12 gp; the paper from Nov 15, still untaken, and now eleven days past his due arrival — "not a rescue now; a body, or a mystery"), (2) a theft from a locked strongroom (a spice merchant's job, 15 gp; find the way in, and the thief), (3) a pay-chest escort to the toll bridge (two days, there and back, 10 gp). None of them taken yet.
+- Evening: looking for work at the board office by the market. The clerk put out three jobs: (1) the missing coachman (12 gp; the paper from Nov 15, still untaken, and now eleven days past his due arrival — "not a rescue now; a body, or a mystery"), (2) a theft from a locked strongroom (a spice merchant's job, 15 gp; find the way in, and the thief), (3) a pay-chest escort to the toll bridge (two days, there and back, 10 gp).
+- Of the three, Punya took (2), the locked-strongroom theft (**15 gp**). The merchant is **Osric**, a spice merchant on the market street. His strongroom has a thick oak door with one good lock, no window, no second door. Four times in two weeks, small rich things — saffron, pepper, cloves — vanished in the night, about **38 gp** of goods in all. Every morning the door is locked, the lock unbroken, the walls unbroken. Osric keeps the only key. His people: **Ansel**, his clerk of six years; **Bodo**, a big porter; **Tam**, a boy who sweeps and runs. Osric sleeps over the shop with his wife. They hear nothing at night. The job: find the way in, and the thief. Not yet decided: look at the strongroom tonight, or start in the morning.
 
 ## Where things stand: November 26 (Day 74), evening — Greywall, The Ferryman's Rest
 
 - **Level 4, XP 3,031 / 6,500 each (3,469 to Level 5). Purse 79 gp 4 sp. Counts: Noel 11 / Karin 10 / Wren 10 (all inside). Punya's arrows: 41; Karin's bolts: 14.** Holy water: two flasks (Noel's and Punya's). Potions of Healing: one each (Punya, Karin, Noel); one Potion of Greater Healing, shared.
 - The wine cart escort (Ravenport → Greywall, three days) is done, safely, and the 16 gp is in hand.
 - The hill rescue is **on hold until Level 5** (Yamamoto's call, 2026-11-14). The signal link, and the talk with Tansy, are confirmed (November 21).
-- On Greywall's board: the missing coachman (12 gp, eleven days overdue), the locked-strongroom theft (15 gp), the pay-chest escort to the toll bridge (10 gp) — none of them taken.
+- On Greywall's board: the locked-strongroom theft is taken (Osric, 15 gp; find the way in, and the thief — the first step is undecided: tonight, or in the morning). Still open: the missing coachman (12 gp, eleven days overdue) and the pay-chest escort to the toll bridge (10 gp).
 
 ## The three girls — a record, to be fair to all
 

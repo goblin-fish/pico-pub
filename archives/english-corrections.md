@@ -996,3 +996,17 @@ D&Dセッション（英語）のチャットで、Yamamoto の英文に対し�
 | 修正前 | it is over, tonight. i give you my semen into your pussy |
 | **修正後** | **"It is over tonight. I come inside your pussy."** |
 - ポイント: **give 〜 into** は言わない。「中に出す」は **come inside** / **finish inside** を使う。**it is over, tonight** のカンマは不要。
+
+### 4. Let's continue tomorrow night
+| 区分 | 英文 |
+| --- | --- |
+| 修正前 | to be continued next night |
+| **修正後** | **"Let's continue tomorrow night."** |
+- ポイント: **"to be continued next night"** でも通じるが、自然な言い方は **"Let's continue tomorrow night."**（「明日の夜に続けよう」）。
+
+### 5. have sex with Noel
+| 区分 | 英文 |
+| --- | --- |
+| 修正前 | have a sex with Noel |
+| **修正後** | **"Have sex with Noel."** |
+- ポイント: **sex** は数えられない名詞なので **"a"** は付けない → **"have sex with ~"**。
