@@ -84,20 +84,22 @@ How they act (set 2026-11-08): in the daytime, Karin and Wren always take the pl
 - Prepared Spells (8): Cure Wounds, Healing Word, Entangle, Speak with Animals, Darkvision, Pass without Trace (the other two change day by day)
 - Spell Slots: 1st level ×4, 2nd level ×3 / Spell Save DC: 14 / Spell Attack: +6
 - Spell list (short explanations):
-  - *Key: **Cantrip = no slot needed** (cast any number of times) / **1st level = uses one Spell Slot** / **Ritual = no slot if cast as a ritual** (but takes +10 minutes)*
-  - **Guidance** (Cantrip / no slot): Touch one creature. It can add 1d4 to one ability check, one time in 1 minute. Concentration
-  - **Produce Flame** (Cantrip / no slot): Make a flame in your hand. It gives light (bright light 10 ft, dim light 10 ft more). You can throw it: range 30 ft, 1d8 fire damage
-  - **Thorn Whip** (Cantrip / no slot): A vine-like whip of thorns, range 30 ft. A spell attack: on a hit, 1d6 piercing damage, and a Large or smaller creature is pulled up to 10 ft closer to you
-  - **Druidcraft** (Cantrip / no slot): Small nature effects. A sign of the weather up to 24 hours ahead, making a seed sprout or a flower bloom, making leaves or petals fall, small sensory effects, and more
-  - **Cure Wounds** (1st level / uses a slot): Touch a creature and heal 1d8 + 4 Hit Points
-  - **Healing Word** (1st level / uses a slot): Range 60 ft. You can cast it as a Bonus Action. Heal 1d4 + 4 Hit Points. Good for waking up a friend on the ground, from far away
-  - **Entangle** (1st level / uses a slot): Roots and vines fill a 20 ft square. The ground is Difficult Terrain. Creatures in it must make a Strength saving throw or be Restrained. Concentration, up to 1 minute
-  - **Speak with Animals** (1st level, Ritual / uses a slot, or no slot as a ritual): Talk with beasts for 10 minutes
-  - **Lesser Restoration** (2nd level / uses a slot): Touch a creature and end one disease, or one condition on it (blinded, deafened, paralyzed, or poisoned)
-  - **Pass without Trace** (2nd level / uses a slot): For 1 hour (Concentration), the party leaves no tracks, and each member gains +10 to Stealth checks
-  - **Darkvision** (2nd level / uses a slot): Touch a creature. For 8 hours it sees in darkness out to 60 ft (the whole party is Human — nobody has darkvision of their own)
-  - **Barkskin** (2nd level / uses a slot, Circle Spell): Touch a creature. Its Armor Class cannot be below 16 while it lasts (up to 1 hour, Concentration)
-  - **Spider Climb** (2nd level / uses a slot, Circle Spell): Touch a creature. For 1 hour it can climb walls and ceilings, hands free (Concentration)
+  - *Key: **Cantrip = no slot needed** (cast any number of times) / **1st level / 2nd level = uses one Spell Slot** / **Ritual = no slot if cast as a ritual** (but takes +10 minutes)*
+| Spell | Level | Description |
+|---|---|---|
+| Guidance | Cantrip | Touch one creature. It can add 1d4 to one ability check, one time in 1 minute. Concentration |
+| Produce Flame | Cantrip | Make a flame in your hand. It gives light (bright light 10 ft, dim light 10 ft more). You can throw it: range 30 ft, 1d8 fire damage |
+| Thorn Whip | Cantrip | A vine-like whip of thorns, range 30 ft. A spell attack: on a hit, 1d6 piercing damage, and a Large or smaller creature is pulled up to 10 ft closer to you |
+| Druidcraft | Cantrip | Small nature effects. A sign of the weather up to 24 hours ahead, making a seed sprout or a flower bloom, making leaves or petals fall, small sensory effects, and more |
+| Cure Wounds | 1st level | Touch a creature and heal 1d8 + 4 Hit Points |
+| Healing Word | 1st level | Range 60 ft. You can cast it as a Bonus Action. Heal 1d4 + 4 Hit Points. Good for waking up a friend on the ground, from far away |
+| Entangle | 1st level | Roots and vines fill a 20 ft square. The ground is Difficult Terrain. Creatures in it must make a Strength saving throw or be Restrained. Concentration, up to 1 minute |
+| Speak with Animals | 1st level (Ritual) | Talk with beasts for 10 minutes |
+| Lesser Restoration | 2nd level | Touch a creature and end one disease, or one condition on it (blinded, deafened, paralyzed, or poisoned) |
+| Pass without Trace | 2nd level | For 1 hour (Concentration), the party leaves no tracks, and each member gains +10 to Stealth checks |
+| Darkvision | 2nd level | Touch a creature. For 8 hours it sees in darkness out to 60 ft (the whole party is Human — nobody has darkvision of their own) |
+| Barkskin | 2nd level (Circle Spell) | Touch a creature. Its Armor Class cannot be below 16 while it lasts (up to 1 hour, Concentration) |
+| Spider Climb | 2nd level (Circle Spell) | Touch a creature. For 1 hour it can climb walls and ceilings, hands free (Concentration) |
 - Weapons: Quarterstaff (it doubles as her druidic focus), Wooden shield
 - Equipment: **Healer's Kit** (bought Oct 18)
 - Languages: Common, Sylvan (learned a little as a child from the elders of Lydford; the key tongue for talking with pixies and lizardfolk), Druidic
@@ -122,24 +124,26 @@ How they act (set 2026-11-08): in the daytime, Karin and Wren always take the pl
 - Prepared Spells (8): Magic Missile, Mage Armor, Shield, Fog Cloud, Invisibility, Web (the other two change day by day)
 - Spell Slots: 1st level ×4, 2nd level ×3 / Spell Save DC: 14 / Spell Attack: +6
 - Spell list (short explanations):
-  - *Key: **Cantrip = no slot needed** (cast any number of times) / **1st level = uses one Spell Slot** / **Ritual = no slot if cast as a ritual** (but takes +10 minutes)*
-  - **Fire Bolt** (Cantrip / no slot): A spell attack, range 120 ft. On a hit, 1d10 fire damage
-  - **Mage Hand** (Cantrip / no slot): Make a magic hand, range 30 ft, for 1 minute. It can move things and open doors. It cannot attack or use magic items
-  - **Prestidigitation** (Cantrip / no slot): Small magic tricks. Light or put out a small fire, clean or dirty a thing, add a taste or a smell, make a small mark, and more
-  - **Minor Illusion** (Cantrip / no slot): Range 30 ft. Make a sound or an image inside a 5 ft cube, for up to 1 minute. An Investigation check can see through it
-  - **Magic Missile** (1st level / uses a slot): Three darts of light. They always hit. Each dart does 1d4 + 1 force damage. You can split them between enemies. Range 120 ft
-  - **Mage Armor** (1st level / uses a slot): Touch a creature with no armor. Its Armor Class becomes 13 + its Dexterity modifier. It lasts 8 hours
-  - **Sleep** (1st level / uses a slot): Range 90 ft, a 20 ft circle. Creatures fall asleep, weakest first, up to 5d8 Hit Points in total. It lasts 1 minute
-  - **Shield** (1st level / uses a slot): Cast it as a Reaction when you are hit. Your Armor Class goes up by 5 until the start of your next turn — the attack that hit you can miss. It also stops Magic Missile
-  - **Fog Cloud** (1st level / uses a slot): A 20 ft ball of thick fog, range 120 ft. No one can see in or out of it. It lasts 1 hour (Concentration). Best for hiding, escaping, or breaking a fight
-  - **Find Familiar** (1st level, Ritual / uses a slot, or no slot as a ritual): Call a spirit animal (bat, cat, frog, hawk, lizard, octopus, owl, snake, fish, rat, raven, sea horse, spider, weasel...). It acts on its own but obeys you. You can see through its eyes and hear with its ears. Costs 10 gp of charcoal, incense and herbs
-  - **Invisibility** (2nd level / uses a slot): Touch a creature. It becomes invisible for up to 1 hour (Concentration), or until it attacks or casts a spell
-  - **Web** (2nd level / uses a slot): A 20 ft cube of sticky webs fills the space (Concentration, 1 hour). Creatures in it must make a Dexterity saving throw or be Restrained; the webs burn (2d4 fire to a creature that starts its turn in burning webs)
-  - **Misty Step** (2nd level / uses a slot): As a Bonus Action, teleport to an empty space you can see within 30 ft. You take no opportunity attacks
-  - **Knock** (2nd level / uses a slot): Open one lock, bar, or magic lock. But it makes a loud sound that can be heard up to **300 ft** away
-  - **Levitate** (2nd level / uses a slot): Float one creature or one loose object (up to 500 lb, about 227 kg) straight up. Concentration, up to 10 minutes. Sideways movement is only by pulling or pushing on fixed things
-  - **Detect Magic** (1st level, Ritual / uses a slot, or no slot as a ritual): You can feel magic within 30 ft. If you can see a magic aura, you learn its school of magic too. 10 minutes, Concentration
-  - **Comprehend Languages** (1st level, Ritual / uses a slot, or no slot as a ritual): For 1 hour, you understand every language you hear, and you can read writing when you touch the page
+  - *Key: **Cantrip = no slot needed** (cast any number of times) / **1st level / 2nd level = uses one Spell Slot** / **Ritual = no slot if cast as a ritual** (but takes +10 minutes)*
+| Spell | Level | Description |
+|---|---|---|
+| Fire Bolt | Cantrip | A spell attack, range 120 ft. On a hit, 1d10 fire damage |
+| Mage Hand | Cantrip | Make a magic hand, range 30 ft, for 1 minute. It can move things and open doors. It cannot attack or use magic items |
+| Prestidigitation | Cantrip | Small magic tricks. Light or put out a small fire, clean or dirty a thing, add a taste or a smell, make a small mark, and more |
+| Minor Illusion | Cantrip | Range 30 ft. Make a sound or an image inside a 5 ft cube, for up to 1 minute. An Investigation check can see through it |
+| Magic Missile | 1st level | Three darts of light. They always hit. Each dart does 1d4 + 1 force damage. You can split them between enemies. Range 120 ft |
+| Mage Armor | 1st level | Touch a creature with no armor. Its Armor Class becomes 13 + its Dexterity modifier. It lasts 8 hours |
+| Sleep | 1st level | Range 90 ft, a 20 ft circle. Creatures fall asleep, weakest first, up to 5d8 Hit Points in total. It lasts 1 minute |
+| Shield | 1st level | Cast it as a Reaction when you are hit. Your Armor Class goes up by 5 until the start of your next turn — the attack that hit you can miss. It also stops Magic Missile |
+| Fog Cloud | 1st level | A 20 ft ball of thick fog, range 120 ft. No one can see in or out of it. It lasts 1 hour (Concentration). Best for hiding, escaping, or breaking a fight |
+| Find Familiar | 1st level (Ritual) | Call a spirit animal (bat, cat, frog, hawk, lizard, octopus, owl, snake, fish, rat, raven, sea horse, spider, weasel...). It acts on its own but obeys you. You can see through its eyes and hear with its ears. Costs 10 gp of charcoal, incense and herbs |
+| Invisibility | 2nd level | Touch a creature. It becomes invisible for up to 1 hour (Concentration), or until it attacks or casts a spell |
+| Web | 2nd level | A 20 ft cube of sticky webs fills the space (Concentration, 1 hour). Creatures in it must make a Dexterity saving throw or be Restrained; the webs burn (2d4 fire to a creature that starts its turn in burning webs) |
+| Misty Step | 2nd level | As a Bonus Action, teleport to an empty space you can see within 30 ft. You take no opportunity attacks |
+| Knock | 2nd level | Open one lock, bar, or magic lock. But it makes a loud sound that can be heard up to **300 ft** away |
+| Levitate | 2nd level | Float one creature or one loose object (up to 500 lb, about 227 kg) straight up. Concentration, up to 10 minutes. Sideways movement is only by pulling or pushing on fixed things |
+| Detect Magic | 1st level (Ritual) | You can feel magic within 30 ft. If you can see a magic aura, you learn its school of magic too. 10 minutes, Concentration |
+| Comprehend Languages | 1st level (Ritual) | For 1 hour, you understand every language you hear, and you can read writing when you touch the page |
 - Weapons: Quarterstaff
 - Equipment: **a flask of holy water** (from the temple, Oct 14), **Potion of Healing ×1** (bought Oct 18)
 - Languages: Common, Draconic (her Sage language; learned from books. It is the lizardfolk tongue too), plus 2 more not yet chosen (1 extra Human language + 1 from Sage)

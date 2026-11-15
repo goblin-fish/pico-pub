@@ -84,20 +84,23 @@ D&D 5e（2014 Basic Rules）/ DM: Pico
 - Prepared Spells（8）: Cure Wounds、Healing Word、Entangle、Speak with Animals、Darkvision、Pass without Trace（ほか2つは日替わり）
 - Spell Slots: 1st level ×4、2nd level ×3 / Spell Save DC: 14 / Spell Attack: +6
 - 呪文リスト（簡単な説明）:
-  - ※ 表記ルール: **Cantrip = スロット不要**（何度でも唱えられる）/ **1st level = Spell Slot を1つ使う** / **Ritual = 儀式として唱えればスロット不要**（その代わり+10分かかる）
-  - **Guidance**（Cantrip／スロット不要）: 触れた creature 1体は、1分以内に1回だけ ability check に 1d4 を足せる。Concentration
-  - **Produce Flame**（Cantrip／スロット不要）: 手の中に炎を作る。明かりになる（ Bright Light 10 ft、Dim Light さらに10 ft）。投げると射程 30 ft で 1d8 Fire damage
-  - **Thorn Whip**（Cantrip / スロット不要）: 棘のある蔓の鞭、射程 30 ft。呪文攻撃： ヒットで 1d6 piercing ダメージ、Large 以下のクリーチャーを最大 10 ft まで自分の方へ引き寄せる
-  - **Druidcraft**（Cantrip / スロット不要）: 小さな自然の効果。24時間先までの天気の兆し、種を芽吹かせる・花を咲かせる、葉や花びらを落とす、小さな感覚効果など
-  - **Cure Wounds**（1st level／スロット使用）: 触れた creature の Hit Points を 1d8 + 4 回復する
-  - **Healing Word**（1st level／スロット使用）: 射程 60 ft。Bonus Action で唱えられて、Hit Points を 1d4 + 4 回復する。倒れた仲間を遠くから起こせる
-  - **Entangle**（1st level／スロット使用）: 20 ft 四方に根とツルを出す。Difficult Terrain になり、中の creature は Strength saving throw に失敗すると Restrained になる。Concentration、最大1分
-  - **Speak with Animals**（1st level／スロット使用。Ritual なら不要）: 10分間、獣（beasts）と会話できる
-  - **Lesser Restoration**（2nd level／スロット使用）: 触れた creature の、病気か状態異常（盲目・耳が聞こえない・麻痺・毒）を1つ終わらせる
-  - **Pass without Trace**（2nd level／スロット使用）: 1時間（Concentration）、パーティは足跡を残さず、全員が Stealth チェックに +10 を得る
-  - **Darkvision**（2nd level／スロット使用）: 触れた creature は8時間、60 ft 先まで暗闇で見える（このパーティは全員 Human で、素の暗視は誰も持っていない）
-  - **Barkskin**（2nd level／スロット使用、Circle Spell）: 触れた creature の Armor Class は持続中（最大1時間、Concentration）16 未満にならない
-  - **Spider Climb**（2nd level／スロット使用、Circle Spell）: 触れた creature は1時間（Concentration）、両手フリーで壁や天井を登れる
+  - ※ 表記ルール: **Cantrip = スロット不要**（何度でも唱えられる）/ **1st level・2nd level = Spell Slot を1つ使う** / **Ritual 可 = 儀式として唱えればスロット不要**（その代わり+10分かかる）
+
+| 呪文 | レベル | 説明 |
+|---|---|---|
+| Guidance | Cantrip | 触れた creature 1体は、1分以内に1回だけ ability check に 1d4 を足せる。Concentration |
+| Produce Flame | Cantrip | 手の中に炎を作る。明かりになる（Bright Light 10 ft、Dim Light さらに10 ft）。投げると射程 30 ft で 1d8 Fire damage |
+| Thorn Whip | Cantrip | 棘のある蔓の鞭、射程 30 ft。呪文攻撃: ヒットで 1d6 piercing ダメージ、Large 以下のクリーチャーを最大 10 ft まで自分の方へ引き寄せる |
+| Druidcraft | Cantrip | 小さな自然の効果。24時間先までの天気の兆し、種を芽吹かせる・花を咲かせる、葉や花びらを落とす、小さな感覚効果など |
+| Cure Wounds | 1st level | 触れた creature の Hit Points を 1d8 + 4 回復する |
+| Healing Word | 1st level | 射程 60 ft。Bonus Action で唱えられて、Hit Points を 1d4 + 4 回復する。倒れた仲間を遠くから起こせる |
+| Entangle | 1st level | 20 ft 四方に根とツルを出す。Difficult Terrain になり、中の creature は Strength saving throw に失敗すると Restrained になる。Concentration、最大1分 |
+| Speak with Animals | 1st level（Ritual 可） | 10分間、獣（beasts）と会話できる |
+| Lesser Restoration | 2nd level | 触れた creature の、病気か状態異常（盲目・耳が聞こえない・麻痺・毒）を1つ終わらせる |
+| Pass without Trace | 2nd level | 1時間（Concentration）、パーティは足跡を残さず、全員が Stealth チェックに +10 を得る |
+| Darkvision | 2nd level | 触れた creature は8時間、60 ft 先まで暗闇で見える（このパーティは全員 Human で、素の暗視は誰も持っていない） |
+| Barkskin | 2nd level（Circle Spell） | 触れた creature の Armor Class は持続中（最大1時間、Concentration）16 未満にならない |
+| Spider Climb | 2nd level（Circle Spell） | 触れた creature は1時間（Concentration）、両手フリーで壁や天井を登れる |
 - Weapons: Quarterstaff（ドルイドの焦点具を兼ねる）、Wooden shield
 - Equipment: **Healer's Kit**（10/18 に購入）
 - Languages: Common、Sylvan（子供のころ Lydford の古老に少し習った。ピクシーやリザードフォークとの交渉で要になる）、Druidic
@@ -122,24 +125,27 @@ D&D 5e（2014 Basic Rules）/ DM: Pico
 - Prepared Spells（8）: Magic Missile、Mage Armor、Shield、Fog Cloud、Invisibility、Web（ほか2つは日替わり）
 - Spell Slots: 1st level ×4、2nd level ×3 / Spell Save DC: 14 / Spell Attack: +6
 - 呪文リスト（簡単な説明）:
-  - ※ 表記ルール: **Cantrip = スロット不要**（何度でも唱えられる）/ **1st level = Spell Slot を1つ使う** / **Ritual = 儀式として唱えればスロット不要**（その代わり+10分かかる）
-  - **Fire Bolt**（Cantrip／スロット不要）: 射程 120 ft の spell attack。命中すると 1d10 Fire damage
-  - **Mage Hand**（Cantrip／スロット不要）: 射程 30 ft に魔法の手を作る（1分間）。物を動かしたり扉を開けたりできる。攻撃と magic item の起動はできない
-  - **Prestidigitation**（Cantrip／スロット不要）: 小さな魔法の tricks。火をつける・消す、汚れを落とす／つける、味や匂いをつける、印を出すなど
-  - **Minor Illusion**（Cantrip／スロット不要）: 射程 30 ft、5 ft 立方以内の音か像を作る（最大1分）。Investigation チェックで見破れる
-  - **Magic Missile**（1st level／スロット使用）: 光る矢が3本、自動で命中する。各 1d4 + 1 Force damage。複数の相手に分けてもいい。射程 120 ft
-  - **Mage Armor**（1st level／スロット使用）: 防具を着ていない creature に触れると、Armor Class が 13 + Dexterity modifier になる。8時間続く
-  - **Sleep**（1st level／スロット使用）: 射程 90 ft、半径 20 ft の範囲内。合計 5d8 Hit Points 分まで、Hit Points の低い順に creature を眠らせる。1分間
-  - **Shield**（1st level／スロット使用）: Reaction で唱える。自分の次の turn の開始まで Armor Class +5（受けた攻撃にも効く）。Magic Missile も防ぐ
-  - **Fog Cloud**（1st level / スロット使用）: 射程 120 ft、20 ft の濃い霧の球。中も外も一切見えない。持続1時間（Concentration）。隠れる・逃げる・戦闘を断ち切るのに最適
-  - **Find Familiar**（1st level、Ritual / スロット使用、儀式なら不要）: 精霊の小動物を呼ぶ（コウモリ、猫、カエル、タカ、トカゲ、タコ、フクロウ、ヘビ、魚、ネズミ、ワタリガラス、タツノオトシゴ、クモ、イタチなど）。自律して動くが命令に従う。その目で見て、耳で聞ける。木炭・香・薬草 10 gp 分が必要
-  - **Invisibility**（2nd level／スロット使用）: 触れた creature は最大1時間（Concentration）透明になる。攻撃するか呪文を唱えると解ける
-  - **Web**（2nd level／スロット使用）: 20 ft の立方体に粘つく糸が満ちる（Concentration、1時間）。中の creature は Dexterity セーブに失敗すると Restrained。糸は燃えて、燃えた糸の中でターンを始めた creature に 2d4 Fire damage
-  - **Misty Step**（2nd level／スロット使用）: Bonus Action で、目に見える 30 ft 以内の空きマスへ瞬間移動する。機会攻撃を受けない
-  - **Knock**（2nd level／スロット使用）: 錠・閂・魔法の錠を1つ開ける。ただし **300 ft 先まで聞こえる大きな音** がする
-  - **Levitate**（2nd level／スロット使用）: creature か固定されていない物体1つ（500 lb = 約227 kg まで）を垂直に浮かせる。Concentration、最大10分。横移動は固定物に手をかけて引く・押すだけ
-  - **Detect Magic**（1st level／スロット使用。Ritual なら不要）: 30 ft 以内の魔法の存在がわかる。見えている魔法の aura からは、その魔法の school もわかる。10分間、Concentration
-  - **Comprehend Languages**（1st level／スロット使用。Ritual なら不要）: 1時間、聞いた言語をすべて理解でき、触れた文字を読める
+  - ※ 表記ルール: **Cantrip = スロット不要**（何度でも唱えられる）/ **1st level・2nd level = Spell Slot を1つ使う** / **Ritual 可 = 儀式として唱えればスロット不要**（その代わり+10分かかる）
+
+| 呪文 | レベル | 説明 |
+|---|---|---|
+| Fire Bolt | Cantrip | 射程 120 ft の spell attack。命中すると 1d10 Fire damage |
+| Mage Hand | Cantrip | 射程 30 ft に魔法の手を作る（1分間）。物を動かしたり扉を開けたりできる。攻撃と magic item の起動はできない |
+| Prestidigitation | Cantrip | 小さな魔法の tricks。火をつける・消す、汚れを落とす／つける、味や匂いをつける、印を出すなど |
+| Minor Illusion | Cantrip | 射程 30 ft、5 ft 立方以内の音か像を作る（最大1分）。Investigation チェックで見破れる |
+| Magic Missile | 1st level | 光る矢が3本、自動で命中する。各 1d4 + 1 Force damage。複数の相手に分けてもいい。射程 120 ft |
+| Mage Armor | 1st level | 防具を着ていない creature に触れると、Armor Class が 13 + Dexterity modifier になる。8時間続く |
+| Sleep | 1st level | 射程 90 ft、半径 20 ft の範囲内。合計 5d8 Hit Points 分まで、Hit Points の低い順に creature を眠らせる。1分間 |
+| Shield | 1st level | Reaction で唱える。自分の次の turn の開始まで Armor Class +5（受けた攻撃にも効く）。Magic Missile も防ぐ |
+| Fog Cloud | 1st level | 射程 120 ft、20 ft の濃い霧の球。中も外も一切見えない。持続1時間（Concentration）。隠れる・逃げる・戦闘を断ち切るのに最適 |
+| Find Familiar | 1st level（Ritual 可） | 精霊の小動物を呼ぶ（コウモリ、猫、カエル、タカ、トカゲ、タコ、フクロウ、ヘビ、魚、ネズミ、ワタリガラス、タツノオトシゴ、クモ、イタチなど）。自律して動くが命令に従う。その目で見て、耳で聞ける。木炭・香・薬草 10 gp 分が必要 |
+| Invisibility | 2nd level | 触れた creature は最大1時間（Concentration）透明になる。攻撃するか呪文を唱えると解ける |
+| Web | 2nd level | 20 ft の立方体に粘つく糸が満ちる（Concentration、1時間）。中の creature は Dexterity セーブに失敗すると Restrained。糸は燃えて、燃えた糸の中でターンを始めた creature に 2d4 Fire damage |
+| Misty Step | 2nd level | Bonus Action で、目に見える 30 ft 以内の空きマスへ瞬間移動する。機会攻撃を受けない |
+| Knock | 2nd level | 錠・閂・魔法の錠を1つ開ける。ただし **300 ft 先まで聞こえる大きな音** がする |
+| Levitate | 2nd level | creature か固定されていない物体1つ（500 lb = 約227 kg まで）を垂直に浮かせる。Concentration、最大10分。横移動は固定物に手をかけて引く・押すだけ |
+| Detect Magic | 1st level（Ritual 可） | 30 ft 以内の魔法の存在がわかる。見えている魔法の aura からは、その魔法の school もわかる。10分間、Concentration |
+| Comprehend Languages | 1st level（Ritual 可） | 1時間、聞いた言語をすべて理解でき、触れた文字を読める |
 - Weapons: Quarterstaff
 - Equipment: **聖水の小瓶**（10/14 に聖堂から）、**Potion of Healing ×1**（10/18 に購入）
 - Languages: Common、Draconic（Sage の枠。書物で学んだ。リザードフォークの言葉でもある）、ほか2つ未選択（Human の追加1つ + Sage の1つ）
