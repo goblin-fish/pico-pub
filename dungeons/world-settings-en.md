@@ -1,7 +1,7 @@
 # World Settings — Alden and the Neighboring Towns
 
 For the D&D 5e (2014 Basic Rules) campaign
-Last update: 2026-11-13
+Last update: 2026-11-15
 
 ## Map (towns and roads)
 
@@ -20,6 +20,9 @@ flowchart LR
     AMB --- HUT["shepherd's empty hut"]
     RP --- SEA["the sea"]
     ALD ---|8 mi south, half a day| LYD["Lydford<br/>forest village<br/>Wren's home"]
+    ALD ---|1 day west| RD["Reedham<br/>a reed-thatch hamlet<br/>the edge of the Mistmarsh"]
+    RD ---|the marsh edge| MM
+    GW ---|1 day east| BF["Brookfield<br/>a shrine village<br/>the reliquary cart's destination"]
 ```
 
 ## Alden — the starting farming village
@@ -123,6 +126,9 @@ flowchart LR
   - **Tomas Rask** (a knife-man, dead Oct 13): escaped the castle cells nine days before by cutting a guard; his escape was bought with new silver in a tax-sealed purse; killed by the party in his river-slum shack for the 25 gp castle-gate bounty. Minders: **Pike** (dead with him) and **Fen** (surrendered, taken by the watch)
   - **Father Corin** (the great temple's priest): sealed the crypt contract with wax — 20 gp when the crypt is quiet again; lent the party holy water, and gave a third flask after the first descent ("Aim it well, fox")
   - **Master Aubin** (the goldsmiths' man at the market hall): counts terms out like coins; paid 8 gp for the strongbox walk to the castle vault (Oct 14, dusk)
+  - **Tilbury** (a cloth merchant on a market street): his shop has a storefront, a storeroom, and a cellar. A crate that came from Ravenport was a **mimic**, and the party killed it in the cellar on Nov 15 (fee 10 gp; indigo dye worth about 15 gp was recovered and returned). He is in a payment fight over the freight and the goods money with the shipper **Dace** (a Ravenport shipping agent, who bought a bankrupt dyer's stock lot at auction and sent it on) — not the party's business
+  - **Wick** (19, a former roofer's apprentice): a sneak thief who kept breaking in by way of roofs and skylights in the market's warehouse quarter. Caught in the party's stakeout on the night of Nov 16 and handed to the night watch (the merchants' association paid 20 gp)
+  - **Brookfield** (one day east of Greywall): a village with the great temple's shrine. On Nov 18–19 the party escorted the reliquary cart (the saint's casket) there (15 gp, both ways safe)
 
 ### North of Greywall: the toll bridge (one day north)
 
@@ -144,7 +150,7 @@ flowchart LR
 - **Oct 31, before dawn**: Yark was killed in his own deep chamber (the party's knives; Mok's band and the turned wolves in the dens). Mok took Greth's **silver torc** and the seat, uniting both bands (about 30 goblins, plus the five wolves) under an oath sworn to the party: **no more raids on Greywall's farms**, and the quarry left empty
 - People:
   - **Hugh Colley** (quarry owner): posted the 12 gp. "I sell stone. I do not dig goblins."
-  - **Mok** (bugbear; chief of both bands from Oct 31): proud and oath-bound — his word is stone
+  - **Mok** (bugbear; chief of both bands from Oct 31): proud and oath-bound — his word is stone. On Nov 5, trusting Punya's word, he took in the last five of Yark's band (Snag, Wort, Old Pess, Tib, Skree) as kneelers (Pess is his cook now)
   - **Yark** (goblin boss, dead Oct 31) and **Greth** (the old chief, dead in the spring)
 
 ### West: The West Hills and the Mistmarsh
@@ -154,7 +160,14 @@ flowchart LR
 - The biggest hamlet, **Barrow Hill** (about 60 people), is half a day on foot
 - Past the hills, one day on foot, lies the **Mistmarsh**: a foggy swamp of black water and dead trees. Lizardfolk live there, and travelers often get lost
 - Rumor: at night, blue lights float over the barrows. Near the marsh, shepherds have lost whole flocks of sheep, with no tracks left behind
-- People: the **headman of Barrow Hill** (an old shepherd, unnamed) — he confirmed the grave-robbers' bodies, marked the reward paper, and gave the party free food and beds (Sept 24). The lizardfolk of the Mistmarsh are still offstage
+- People: the **headman of Barrow Hill** (an old shepherd, unnamed) — he confirmed the grave-robbers' bodies, marked the reward paper, and gave the party free food and beds (Sept 24)
+- **Reedham** (on the edge of the Mistmarsh, one day west of Alden): a hamlet of some 14 reed-thatched houses. Its stores are smoked marsh fish and eels. The headman's barn loft is the travelers' bed. The headman's old dog **Patch** (an old hand at herding sheep)
+  - **The gift stone**: a great stone between the hamlet and the marsh. In hard winters, an old custom leaves a basket of smoked fish and eels (about 20 lb) there — "insurance", so the marsh folk eat the gift and leave the flocks alone
+- **The lizardfolk village** (on reed-and-mud islets in the Mistmarsh): a village of reed-and-mud huts. Their ground is marked by totems (a heron's skull and bound reeds). They live by their fish weirs. Their tongue is **Draconic**. They have no darkvision
+  - **The white-jaw elder** (leader of a hunting band): he gave Noel the **bone fish token** (show it on the water, and their spears stay down)
+  - **The old shaman woman** (a staff of bone and reed): she rules on questions of custom
+  - **Kressh** (leader of the young hunters): the one who led the five hungry young hunters who took Reedham's sheep after the weirs broke (see the settlement below)
+- **The missing sheep are settled (Nov 11)**: the autumn floods broke the lizardfolk's fish weirs, and five young hunters (Kressh's band) had been taking Reedham's **41 sheep** along the water channels (laying woven reed mats to wipe away their tracks). The party did not accuse them; it brought the gift basket twice, and the tribe came forward on its own with terms: the raids stop at once, the young ones stay inside the totems, Kressh repairs the weirs all winter, a basket of smoked goods goes to the gift stone every month until spring (about half of the loss), and Kressh's spear is left at the gift stone for a season (the rite was held on Nov 14). Reedham's headman paid the fee of **15 gp**
 
 ## The job (why the party is in Alden)
 
@@ -177,7 +190,8 @@ Clues, information, and open hooks from the story, gathered here by place.
 
 ### Alden and the east road
 
-- **The rescue is postponed**: the party will go into the Lady's house only after they are stronger. The deal with the two pixies (Tansy and Sorrel) and the return signal (Punya's voice call: "Chinpyoro-supōn!") are in place
+- **The rescue is on hold**: the party will go into the Lady's house only after they have leveled up (Yamamoto's call: hold until Level 5, 2026-11-14). The deal with the two pixies (Tansy and Sorrel) and the return signal (the voice call: "Chinpyoro-supōn!") are in place
+- **The signal test worked (the night of Nov 21)**: the party tried the signal at the flat grass patch, and one light answered (= safe). **The deal is still alive.** Wren called out in Sylvan, and Tansy answered with her voice only: nothing has changed below (the men still sleep; the cups, and Lira's empty cup, are as they were). The other pixies hold no ill will, but some are timid, and if they are told to "sing", there are those who cannot refuse (Tansy and Sorrel keep their promise not to sing against the party). **The Stone Hands, in Tansy's account, come to "two voices and footsteps"** (one by the door, the other around the Great Hall and the kitchen) — but she herself says she cannot swear there are only two
 - **Lira seen** (September 17, day): the grey, lightless pixie watched the party from the shade by the road between the hills. With no light, she can move hidden in the day
 - **Meg's offer**: the cart is free for the rescue run (if Anvil comes back alive)
 - **Bram's offer**: his young horse Pip is free for the party, any time
@@ -188,6 +202,12 @@ Clues, information, and open hooks from the story, gathered here by place.
 - **The tax seal on Rask's escape (new, Oct 13)**: the knife-man Rask's escape from the castle cells was bought with new silver, delivered in a sealed purse stamped with a **bell above an open gate — the tax office's revenue mark** (the same stamp as the tax papers on the board). The second warder on duty "looked at the moon." Fen, who carried the story, knows no name; the money came "from up the hill." The empty purse is in Punya's pocket, beside the bandit's note from the silver run — *a second piece of paper pointing at offices, not streets*
 - **The tax wagons (done)**: the party escorted Halloran's four wagons south Oct 1-3 for 24 gp, paid in full. The Oct 2 valley ambush (a Spy-chief, a Thug, and two Bandits on the party's screen; two guards died on the guards' screen) was beaten off — port men tried to stop the tax, and now know the party's faces. Greywall's collection began Oct 1
 - **Work in Greywall** (status as of Oct 18): the sewers under the market — DONE Oct 12 (two carrion crawlers killed, Dunn's badge returned, 10 gp paid); the castle-gate bounty — DONE Oct 13-14 (Rask killed, 25 gp paid); the great temple's crypt — DONE Oct 14 (a wight and three skeletons destroyed, 20 gp paid; the wight's sword and mail left in its tomb); the goldsmiths' strongbox walk — DONE Oct 14 at dusk (a street crew routed in the tanners' lane, 8 gp paid); the deserters on the north road — DONE Oct 16 (all seven dead at the toll bridge; bridge open, the keeper Petyr restored; 30 gp paid, the gear sold Oct 18). Still open: a granary night guard (4 gp); the charcoal burners' wolves (6 gp, posted Oct 15); the river mill wheel at night (10 gp, posted Oct 15, unknown); the Mistmarsh sheep (~15 gp). The lord's boar hunt rode out Oct 15 without the party
+
+### Greywall work (added Nov 23)
+
+- **Done**: the granary night guard (Oct 18–19, 4 gp), the charcoal burners' wolves (Oct 19, 6 gp), the ghost at the river mill (Oct 20–21, 10 gp; Corin's specter laid to rest by burial), the harpies at the old south watchtower (Oct 22, 8 gp), the ogre on the west road (Oct 23–25, 20 gp), the goblins at the old quarry (Nov 1, 12 gp; settled by talking, as above), the plague-field graves (Nov 1–2, 10 gp; a family of ghouls driven off), the Mistmarsh sheep (Nov 11, 15 gp), Tilbury's biting crate = a mimic (Nov 15, 10 gp), the capture of the rooftop thief Wick (Nov 16, 20 gp), the temple's reliquary cart escort (Nov 18–19, 15 gp)
+- **Still open**: the missing carter on the east road (12 gp, long past his due arrival)
+- **Alden's sheep thief (Nov 22)**: a **manticore** that had taken three sheep from the high pastures was killed in an ambush beside the fold (the village paid 8 gp; Meg offered free repairs and shoeing)
 
 ### The west (the West Hills and the Mistmarsh)
 

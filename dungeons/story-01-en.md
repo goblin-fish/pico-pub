@@ -718,15 +718,141 @@ Last update: 2026-11-10
 - **Afternoon, The Ferryman's Rest:** Wren's promised reward for her three nights of wolf work is paid — Karin takes Noel off to look at ribbons, and Punya keeps his word in full, finishing deep inside her as sworn [Sex: Wren]. She sleeps twenty minutes like the dead and wakes clear-eyed to strap on her new armor.
 - **State: November 1, dusk, at the plague field outside the east wall. Level 3, XP 2,369 / 2,700 each (331 to Level 4). Purse: 513 gp 5 sp. Punya's arrows: 27; Karin's bolts: 17.** Silver is ready (Karin's silvered shortsword and silver dagger, Punya's silver dagger) and two flasks of holy water ride at two belts. The digging starts when the light is gone, the watch said.
 
+## November 1 (Day 49), night — the ghouls at the plague field
+
+- The digging sound was a family of ghouls (the Barlows) come out of a washed-open grave. The fight opened with a surprise volley; at one point a ghoul's claw paralyzed Noel and her Web's concentration broke, but the party drove them off in the end.
+- The grave's hidden cache: coins **18 gp 14 sp**, four gold rings, a silver holy symbol. Punya's ruling: **return only the holy symbol to the temple, and pocket the rest**.
+- **XP: +150 each → 2,519 / 2,700.**
+
+## November 2 (Day 50) — the temple report, and a big buy
+
+- The temple paid **10 gp** and took the holy symbol back. The party's standing with the temple grew (the ground for "we would like to ask the crypt party first" on the later reliquary escort).
+- **Punya's Breastplate bought (−400 gp; his AC becomes 16)**. The spare armor set (the Studded Leather and the rest) was sold.
+- The price of the Misty Step scroll came out: the scroll 150 gp + the copying cost 100 gp = **250 gp** (not bought at this point).
+
+## November 2–5 (Days 50–53) — the wagon escort and the survey, and five goblins
+
+- The party saw that two board postings (a wagon escort and a road survey) were jobs in the same area at the same time, and **took them together as one job (11 gp)**.
+- Punya's guess was right: the five who were left of Yark's band and had run north (Snag, Wort, Old Pess, Tib, Skree) were found in a hollow in the farm belt. With Web and nonlethal attacks, **all five were taken alive** (**XP +50 each → 2,569**).
+- Most of their offers of "payment" were turned down, but **Yark's emergency cache** was real: **23 gp 8 sp**, a gold thumb-ring, 20 arrows, and food (the spare shortbow was left behind. Whether the cache counts as "their payment" is still open — Punya has not decided).
+- November 5: Punya marched the five prisoners south, and **Mok took all five in as kneelers** (Pess became Mok's cook). "A chief does not hang a good pot."
+
+## November 7 (Day 55) — together again, and the Mistmarsh decision
+
+- The party is together again. Purse **206 gp 5 sp** → the precious-metal goods sold (**+18 gp**) → **224 gp 5 sp**.
+- **The Mistmarsh sheep job (15 gp) was taken.** The lizardfolk tongue is Draconic — Noel should be able to interpret.
+
+## November 7–9 (Days 55–57) — south, and Reedham
+
+- Greywall → a road inn (−1 gp 4 sp) → Alden on November 8 (the Golden Sheaf, −2 gp). Bram was told honestly that the rescue is still some way off, and he accepted it.
+- November 9, west to **Reedham** (a hamlet of some 14 reed-thatched houses on the edge of the marsh). Free lodging in the headman's barn loft.
+- The lost sheep: **3 flocks, 41 head in all** (two households' whole wealth among them). The mud at the folds was "smoothed flat". The headman's idea: the high-water channels reach behind the folds.
+- From that night, the rotation for the Reedham stay began: the first night was Noel [Sex: Noel].
+
+## November 10 (Day 58) — the dog's story, and first contact
+
+- Wren cast Speak with Animals as a ritual. The headman's old dog **Patch** told them: at **dusk**, "long ones that walk like men but smell of pond, fish and mud" came out of the water, throttled sheep at the water's edge by the **north deep channel**, and dragged them **into the water**. Patch snapped at a **tail**. He heard a hissing laugh, too.
+- Out into the marsh in two punts. Wool snagged on reeds, drag-polished mud, a half-buried **reed raft frame**. The village's gift basket (smoked fish and eels) rode on the bow of the lead boat.
+- **Six lizardfolk hunters** showed themselves at the edge of javelin range (a talking posture). The white-jaw elder called out in Draconic. Punya had spotted them first (Perception 20).
+- Punya's plan for the talk (Noel interpreting): do not take them for the thieves / "we have a small problem, and we came to ask your counsel" / the gift is a one-sided greeting, whatever comes of it / "today, talking is enough". Noel's Persuasion was **22** (her old, formal Draconic helped — "she speaks like the old songs").
+- The elder ate a piece of smoked eel himself and took the basket. He promised to ask in the village and give his answer **tomorrow at dusk, at the second totem**, and he gave Noel the **bone fish token** (show it on the water, and their spears stay down).
+- Night: Karin [Sex: Karin]. The next morning, Noel's word: "All even, again" (7/7/7).
+
+## November 11 (Day 59) — the checking, and the settlement
+
+- Daytime: the third (low) fold was checked. Wren found wool under the bank and a worked **bone clasp**. Noel's Investigation **24** solved the "flat mud" — **woven reed mats** had been laid down and dragged (the weave marks were still there under the bank's overhang). An organized, practiced way of working.
+- From the shepherds: the three takings came closer to the village step by step (the north fold → the common fold → the low fold). The boy who quit (16) heard **the sheep bells going quiet one by one** at dusk, and smelled "pond bottom".
+- Dusk, at the second totem: a second basket was brought, and no demands were made. "We brought the basket. We keep no account." The **old shaman** said: "**Given twice. Nothing asked. That is the old way**."
+- The tribe's answer: the sheep were taken by **their own five young hunters (led by Kressh)**. The autumn floods broke the fish weirs and the mere's fish ran thin; all 41 were eaten. The elder had not ordered it, and the shaman ruled that the young ones had broken the **spirit** of the gift-stone custom.
+- The terms the tribe offered (the party promised nothing): (1) the raiding stops today, and the young band comes back inside the totems; Kressh repairs the weirs all winter, under the elder's eye. (2) Until spring, a basket of smoked fish and eels goes to the gift stone every month (about half of the lost value). (3) Kressh leaves his spear at the gift stone for a season (the rite in three days = November 14; the first basket within ten days).
+- Punya accepted every term on the spot. The hamlet's aim (the raids stop) was met, and the return-gift payment came in a shape that could not be refused.
+- **XP: overcome by talking (5 hunters × 100 = 500 ÷ 4) = +125 each → 2,694 / 2,700.**
+- Back at Reedham, the headman paid **15 gp** (purse **236 gp 1 sp**). **The Mistmarsh sheep job is done.**
+- Night: Wren [Sex: Wren].
+
+## November 12–14 (Days 60–62) — the road home
+
+- On Punya's word, the rotation for the road home ran **Noel → Karin → Wren**.
+- November 12: Reedham → Alden (the Golden Sheaf, −2 gp). Night: Noel [Sex: Noel].
+- November 13: a road inn (−1 gp 4 sp). Night: Karin [Sex: Karin].
+- November 14: Greywall (the Ferryman's Rest, −1 gp 3 sp). Purse **231 gp 4 sp**. Night: Wren [Sex: Wren].
+- The same day, at the gift stone, Kressh's spear rite was held (the party was not there, but it was done as promised).
+
+## November 15 (Day 63) — the biting crate (a mimic), and the door to Level 4
+
+- The cellar under Tilbury's shop (a stone room, 15 × 40 ft). The job's terms: "make the cellar usable again" (remove the threat, and confirm it is safe). The **10 gp** pay comes out of the board office's deposit.
+- Where the crate came from: **Dace**, a shipping agent in Ravenport, bought a bankrupt dyer's stock lot at auction and sent three crates (two of them were fine). The mimic seems to have been lying hidden in the dyer's warehouse in the shape of a crate. Part of the true cargo (indigo dye, about 40 gp worth) was still there. Dace's freight money and some 40 gp of goods money are stuck in a payment fight with Tilbury — Punya's line: **that civil quarrel is not the party's business**. If true cargo is found, it goes to Tilbury, and that is all.
+- The plan (Punya's order): kill it one-sidedly from range. Five rounds of volleys (Fire Bolt and missiles) — the mimic Dashed 30 ft at a time to close in, and died at last on the stairs. **The party took no wounds.** Spent: arrows −3 (**41 left**), bolts −3 (**14 left**).
+- Out of the goo, oilcloth-wrapped **indigo dye cakes (about 15 gp)** were recovered and given to Tilbury.
+- The **10 gp** fee was claimed (purse **241 gp 4 sp**). **XP: 450 ÷ 4 = +112 each → 2,806 / 2,700 — over the Level 4 line.**
+- Afternoon: of the things that could be sold, **only Karin's silver dagger (new)** was sold to Aubin (**+45 gp → 286 gp 4 sp**. Punya's antique silver dagger was kept, as his only silver weapon; Karin's iron shortsword was kept as a spare, too). Now in reach, the **Misty Step scroll set was bought (−250 gp)**. Noel copied it that afternoon (the scroll was used up; her spellbook went to 11 spells). Purse **36 gp 4 sp**.
+- Three new postings on the board: (1) the **rooftop thief** (the merchants' association, **20 gp**. Night entries by way of roofs and skylights in the market's warehouse quarter; catch the culprit) (2) a missing carter on the east road (**12 gp**) (3) the temple's reliquary cart escort (**15 gp**, 2 days, with a note: "we would like to ask the crypt party first").
+- **Job (1) was taken.** Tonight (the 15th) is for rest and leveling up; the work is tomorrow night, the 16th.
+- Night: the Ferryman's Rest (−1 gp 3 sp → **35 gp 1 sp**). A long rest.
+
+## November 16 (Day 64) — Level 4, and the thief on the roofs
+
+- **Level 4 confirmed** (HP by the fixed averages): Punya **27** (DEX 18 by his ASI), Karin **31** (DEX 18), Wren **27** (WIS 18; new cantrip **Druidcraft**), Noel **22** (INT 18; **Knock** and **Levitate** added to her spellbook; new cantrip **Minor Illusion**).
+- Daytime scouting: **4 thefts in 10 days**, all on the warehouse row along the market's north edge. Only light, costly things were taken (silver fittings, packets of spice, fine cloth, once a small coin box). Entry was by skylights and roof hatches. Once, a rope was left behind. The thefts happen **only on dry nights**. The gap is 2–3 days; the last was the **night of November 14**. The night watch patrols the street only — the roofs are unwatched.
+- Wren's Druidcraft forecast: tonight is clear with moonlight in the first half, and **rain from after midnight**. With the dry-nights pattern and the two-day gap, tonight's first half is the likeliest window.
+- The set-up: the roof team — **Punya, Karin, and Wren** (spread out at a distance, and hiding. While waiting, Wren keeps **Pass without Trace** up; when a chase starts, she switches to **Spider Climb**. Darkvision went to Punya and Karin). On the ground, **Noel** was posted by the spice warehouse (in the shadow of the cart yard, where she could see the warehouse door and the back lane). **Cinder** was the roof team's eyes (linked to Noel by telepathy). Signals were by lantern flashes.
+- The hiding rolls (with Pass without Trace): Punya **21**, Karin **24**, Wren **12** (she clicked a tile as she sat down).
+- Two hours into the watch: Cinder caught the smell first, and Noel's lantern flashed the signal. The thief came along the roofs from the west — but his care beat theirs (his Perception **22** caught Wren's 12 and Punya's 21; only Karin's 24 went unseen). He turned and ran west.
+- **Wren's readied Thorn Whip was a critical hit**, wrapping his ankle (3 damage, pulled 10 ft), and his jump to the stable roof failed (Acrobatics 10). He **fell 20 ft into the lane** (3 damage from the fall) — and he landed almost at the feet of **Noel**, who was posted by the spice warehouse.
+- **Noel's Web** was spread between the lane's two walls, and his DEX save was **12** (against DC 14) — **failed, and restrained**. With the four of them around him, he gave up at once.
+- The culprit: **Wick**, 19, a former roofer's apprentice. He was bound with rope and handed over to the night watch house.
+- **XP: 200 ÷ 4 = +50 each → 2,856 / 6,500. The rooftop thief job is done.**
+- Night: a dice roll chose between Karin and Noel, and it came up Karin [Sex: Karin].
+
+## November 17 (Day 65) — the fee, and a free afternoon
+
+- In the morning, the **20 gp** fee for the rooftop thief was collected at the merchants' association office (with the night of the 16th's inn bill, −1 gp 3 sp, taken off, the purse stands at **53 gp 8 sp**).
+- Of the two postings left on the board, the party **took the temple's reliquary cart escort (15 gp)**. It leaves at dawn tomorrow, the 18th.
+- Midday: with Noel, who had the lowest count [Sex: Noel] — now all three stand at 9, side by side.
+- Afternoon: a round of the market's shops to check prices. Silvering the rapier is still 100 gp, out of reach. Nothing was bought.
+
+## November 18–19 (Days 66–67) — the reliquary cart escort
+
+- The party escorted the cart carrying the saint's casket to **Brookfield**, a shrine village one day east of Greywall. A driver and two young priests rode with it.
+- Both ways were safe; back in Greywall on the 19th, **15 gp** was received. **The reliquary escort job is done.**
+
+## November 20–21 (Days 68–69) — south, and the signal test
+
+- November 20: south (a road inn, −1 gp 4 sp). November 21, evening: Alden (the Golden Sheaf, −2 gp; purse **64 gp 1 sp**). The party called on Bram and Meg and told them honestly that the rescue is still some way off — Bram nodded.
+- **November 21, night: the signal test** (Yamamoto's call: test the signal only; do not go in). On the flat grass patch south of the road, Punya called out: "**Chinpyoro-supōn!**" After some 40 minutes of silence, a small light among the oaks — **blink, blink, blink — a pause — blink, blink, blink**. The light was **one only**. **Meaning: tonight is safe. And the promise of September 16 is still alive.**
+- When Wren called out in Sylvan, **Tansy** answered with her voice only, out of the dark, without showing herself:
+  - Nothing has changed below. The men still sleep. Our cups, and the grey one's (Lira's) empty cup, are as they were.
+  - The other pixies hold no ill will toward the party. Most of them are ones whose lights were taken into cups, who have no choice but to stay near her. "Sorrel and I keep our promise — we will not sing against you." But some are timid, and if they are told "sing", they may not be able to refuse; she cannot promise for the others.
+  - Lira hates the Lady (it is not the party she hates). But she trusts no one anymore.
+  - **The number of Stone Hands**: "We do not count them. When they pass, we hide. But voices and footsteps — I have only ever heard **two** of them. One by the door, the other around the Great Hall and the kitchen." But the hill is wide, and "I cannot swear there are only two."
+- That night, as promised, the party did not go in, and went back to Alden. Night: Karin [Sex: Karin].
+
+## November 22 (Day 70) — Alden's sheep thief (a manticore)
+
+- Asking around Alden for trouble: **sheep have been vanishing from the high pastures**. Three in this last week (one of Hale's, two of Bram's), always at dusk. On the frozen ground, only wide, soft footprints are left. Two nights ago, someone heard a cry from the woods that was neither bird nor beast.
+- The party took the job for the village's gathered-together fee of **8 gp**, and Meg's offer ("shoeing and tool repairs, free").
+- Morning: Wren's Survival **25** read the place. The sheep was killed at the edge of the fold, dragged a little way, and then the trail stopped (carried off into the sky). Stuck in a fence post was a **black spike, hard as iron, 1 ft long**, and Noel named it (Arcana **17**): a **manticore's** tail spike. A lion's body, bat's wings, a face like a man's. **It speaks the tongues of men.** Its tail holds 24 spikes, range 100/200 ft.
+- Dusk: an ambush beside the fold (Wren's Pass without Trace). The manticore came down into the fold without noticing, and walked slowly up to a sheep. 20 ft from Punya.
+- The surprise round: Punya's rapier with Sneak Attack (**19**), Karin's silver shortsword (**5**), Wren's Produce Flame (**2**). Noel's Web was broken by its first DEX save (**14**).
+- Round two: the Web closed on it again at the start of its turn, and it was **restrained** (save **6**). After Punya shouted back — "**No! They are my sheep. You are the shameless thief!**" — every attack hit (Punya **16**, Karin **8 + 8**, Noel's Fire Bolt **6**, Wren **4**; **42** in all). A manticore claw caught Punya once (**9** damage, HP 18), and that was the end of it. It died in the webs.
+- **XP: 700 ÷ 4 = +175 each → 3,031 / 6,500.**
+- The village paid the **8 gp** fee. That night: Noel [Sex: Noel], and a long rest (the Golden Sheaf, −2 gp → purse **70 gp 1 sp**).
+
+## Where things stand: November 23 (Day 71), morning — Alden
+
+- **Level 4, XP 3,031 / 6,500 each (3,469 to Level 5). Purse 70 gp 1 sp. Punya's arrows: 41; Karin's bolts: 14.** Holy water: two flasks (Noel's and Punya's). Potions of Healing: one each (Punya, Karin, Noel); one Potion of Greater Healing, shared.
+- The hill rescue is **on hold until Level 5** (Yamamoto's call, 2026-11-14). But the signal link, and the talk with Tansy, are confirmed (November 21).
+- The job still left on Greywall's board: the missing carter on the east road (12 gp, long past his due arrival).
+
 ## The three girls — a record, to be fair to all
 
 From before this story, all three are Punya's lovers, and all three have been close with him. From the start of the story:
 
 | Who | Times | Inside | Record |
 |---|---|---|---|
-| Wren | 7 | 7 | Sep 15: the promise was made (for Speak with Animals). Sep 16 night: kept (first). Oct 6 morning: kept again — "Even. Now we are even". Oct 7, before dawn: her reward for the wererat job — "Good job, Wren. I love you" [Sex: Wren]. Oct 14 morning: paid again, second in the fairness round — Wren 4, Karin 3, Noel 3 [Sex: Wren]; later that morning, his mouth [Cunnilingus: Wren] (not counted). Oct 17 night: first in the round at the Ferryman's Rest, after the deserters job [Sex: Wren]. Oct 18 morning: first again [Sex: Wren]. Nov 1 afternoon: the promised reward for her three nights of wolf work — paid in full, deep inside as sworn [Sex: Wren]. Noel's book: "Wren runs ahead. Again" |
-| Noel | 6 | 6 | Every morning (Sep 15, 16, 17) Punya woke in her boobs. Sep 15: she took charge of the List. Sep 16 night: kept (second). She closed the list with one clean line. Oct 4 evening: she tended Punya's fever (not counted). Oct 5: she noted, dry as paper, that Wren leads the count — and she keeps the list. Oct 8 night: her reward for the wisp — "I nearly died for those missiles" [Sex: Noel]. Oct 14 morning: her arrears paid first — "I am fair, Noel" [Sex: Noel]; later that morning, his mouth [Cunnilingus: Noel] (not counted). Oct 15 dawn: he woke in her boobs, found her behind again, and paid at once — first his mouth [Cunnilingus: Noel], then [Sex: Noel]. Her book: "Wren 4. Karin 4. Noel 4. Perfectly even". Oct 17 night: second in the round, her book closed for once [Sex: Noel]. Oct 18 morning: second again — her book: "Wren 6. Karin 6. Noel 6. Even, again" [Sex: Noel] |
-| Karin | 6 | 6 | Sep 15: she asked for her share too, and wrote "Tomorrow" on her hand. Sep 16 night: kept (third). Oct 5: the rest day at the Eel — oral only ("Best medicine in Ravenport"); written here but NOT counted. Oct 9 night: her reward for the owlbear — "Took you long enough, old man" [Sex: Karin]. Oct 13 night: her reward for killing Pike in Rask's shack [Sex: Karin]. Oct 14 morning: [Cunnilingus: Karin] — written here, NOT counted; her fourth stayed owed. Oct 14 night: the promised fourth, collected at the Ferryman's Rest [Sex: Karin]. Oct 17 night: last in the round — she laughed once, then she was not laughing [Sex: Karin]. Oct 18 morning: last again, wide awake and grinning [Sex: Karin] |
+| Wren | 9 | 9 | Sep 15: the promise was made (for Speak with Animals). Sep 16 night: kept (first). Oct 6 morning: kept again — "Even. Now we are even". Oct 7, before dawn: her reward for the wererat job — "Good job, Wren. I love you" [Sex: Wren]. Oct 14 morning: paid again, second in the fairness round — Wren 4, Karin 3, Noel 3 [Sex: Wren]; later that morning, his mouth [Cunnilingus: Wren] (not counted). Oct 17 night: first in the round at the Ferryman's Rest, after the deserters job [Sex: Wren]. Oct 18 morning: first again [Sex: Wren]. Nov 1 afternoon: the promised reward for her three nights of wolf work — paid in full, deep inside as sworn [Sex: Wren]. Noel's book: "Wren runs ahead. Again". Nov 11 night: the settlement night at Reedham [Sex: Wren]. Nov 14 night: the last of the road-home rotation — the night the party reached Greywall [Sex: Wren] |
+| Noel | 10 | 10 | Every morning (Sep 15, 16, 17) Punya woke in her boobs. Sep 15: she took charge of the List. Sep 16 night: kept (second). She closed the list with one clean line. Oct 4 evening: she tended Punya's fever (not counted). Oct 5: she noted, dry as paper, that Wren leads the count — and she keeps the list. Oct 8 night: her reward for the wisp — "I nearly died for those missiles" [Sex: Noel]. Oct 14 morning: her arrears paid first — "I am fair, Noel" [Sex: Noel]; later that morning, his mouth [Cunnilingus: Noel] (not counted). Oct 15 dawn: he woke in her boobs, found her behind again, and paid at once — first his mouth [Cunnilingus: Noel], then [Sex: Noel]. Her book: "Wren 4. Karin 4. Noel 4. Perfectly even". Oct 17 night: second in the round, her book closed for once [Sex: Noel]. Oct 18 morning: second again — her book: "Wren 6. Karin 6. Noel 6. Even, again" [Sex: Noel]. Nov 9 night: the first night at Reedham [Sex: Noel]. Nov 12 night: the first of the road-home rotation [Sex: Noel]. Nov 17 midday: she had the lowest count, so [Sex: Noel] — all three at 9, side by side. Nov 22 night: after the manticore [Sex: Noel] |
+| Karin | 10 | 10 | Sep 15: she asked for her share too, and wrote "Tomorrow" on her hand. Sep 16 night: kept (third). Oct 5: the rest day at the Eel — oral only ("Best medicine in Ravenport"); written here but NOT counted. Oct 9 night: her reward for the owlbear — "Took you long enough, old man" [Sex: Karin]. Oct 13 night: her reward for killing Pike in Rask's shack [Sex: Karin]. Oct 14 morning: [Cunnilingus: Karin] — written here, NOT counted; her fourth stayed owed. Oct 14 night: the promised fourth, collected at the Ferryman's Rest [Sex: Karin]. Oct 17 night: last in the round — she laughed once, then she was not laughing [Sex: Karin]. Oct 18 morning: last again, wide awake and grinning [Sex: Karin]. Nov 10 night: at Reedham [Sex: Karin] — the next morning, Noel's "All even, again" (7/7/7). Nov 13 night: the road-home rotation [Sex: Karin]. Nov 16 night: after the rooftop thief job, a dice roll chose between Karin and Noel, and it came up Karin [Sex: Karin]. Nov 21 night: after the signal test [Sex: Karin] |
 
 *Tags in the day records: **[Sex: Name]** = intercourse, **[Fellatio: Name]** = her mouth on Punya, **[Cunnilingus: Name]** = Punya's mouth on her.
 *The count is only for the days in this record (from Sep 14). The time before the story is not counted, because no one kept a record of it. Counting rule (set Oct 6): **Times counts intercourse only** — licking, rubbing and the like are written in the Record but not counted. **Inside** counts the times Punya finished inside her. Every act of intercourse so far was inside*
@@ -748,3 +874,17 @@ From before this story, all three are Punya's lovers, and all three have been cl
 - After: **456 gp 5 sp** (Nov 1: Hugh's quarry fee claimed +12 gp) — **after: 456 gp 5 sp**
 - After: **558 gp 5 sp** (Nov 1: Tilbury's goods sold +14 gp, the old unsold goods +13 gp, three garnets +75 gp) — **after: 558 gp 5 sp**
 - After: **513 gp 5 sp** (Nov 1: Wren's studded leather −45 gp) — **after: 513 gp 5 sp**
+- After: **532 gp 9 sp** (Nov 1 night: the ghouls' grave-cache coins +18 gp 14 sp. The four gold rings are kept as goods; the silver holy symbol was returned to the temple)
+- After: **206 gp 5 sp** (Nov 2: the temple's fee +10 gp, the Breastplate −400 gp, the spare armor set sold / Nov 2–5: the merged wagon-escort and survey job +11 gp, Yark's cache +23 gp 8 sp, the gold thumb-ring kept as goods) — as of the Nov 7 reunion
+- After: **224 gp 5 sp** (Nov 7: the precious-metal goods sold +18 gp [the gold rings and the like])
+- After: **221 gp 1 sp** (Nov 7: a road inn −1 gp 4 sp / Nov 8: the Golden Sheaf −2 gp)
+- After: **236 gp 1 sp** (Nov 11: Reedham's headman's fee +15 gp. The Reedham stay was free, in the barn loft)
+- After: **231 gp 4 sp** (Nov 12: the Golden Sheaf −2 gp / Nov 13: a road inn −1 gp 4 sp / Nov 14: the Ferryman's Rest −1 gp 3 sp)
+- After: **241 gp 4 sp** (Nov 15: the mimic fee +10 gp)
+- After: **286 gp 4 sp** (Nov 15: Karin's silver dagger sold +45 gp)
+- After: **36 gp 4 sp** (Nov 15: the Misty Step scroll 150 gp + the copying cost 100 gp = −250 gp)
+- After: **35 gp 1 sp** (Nov 15 night: the Ferryman's Rest −1 gp 3 sp)
+- After: **53 gp 8 sp** (Nov 16 night: the Ferryman's Rest −1 gp 3 sp / Nov 17 morning: the rooftop thief's fee +20 gp)
+- After: **64 gp 1 sp** (Nov 17 night: the Ferryman's Rest −1 gp 3 sp / Nov 19: the reliquary escort fee +15 gp / Nov 20: a road inn −1 gp 4 sp / Nov 21: the Golden Sheaf −2 gp)
+- After: **72 gp 1 sp** (Nov 22: Alden village's thanks +8 gp)
+- After: **70 gp 1 sp** (Nov 22 night: the Golden Sheaf −2 gp)
