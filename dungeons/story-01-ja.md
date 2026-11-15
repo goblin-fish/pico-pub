@@ -836,9 +836,19 @@
 - **XP: 700 ÷ 4 = 各 +175 → 3,031 / 6,500。**
 - 村が謝礼 **8 gp** を支払った。その夜は Noel【セックス：Noel】、長休憩（Golden Sheaf −2 gp → 財布 **70 gp 1 sp**）。
 
-## 現状: 11月23日（71日目）朝 —— Alden
+## 11月23日（71日目）—— Alden から Ravenport へ
 
-- **レベル4、XP 各 3,031 / 6,500（レベル5まであと 3,469）。財布 70 gp 1 sp。Punya の矢は 41 本、Karin のボルトは 14 本。** 聖水は2瓶（Noel と Punya）。Potion of Healing は各1本（Punya・Karin・Noel）、Potion of Greater Healing は共有で1本。
+- 朝食後、Alden を出て東の街道を 20 マイル進み、Ravenport へ。Greywall の掲示板に残る行方不明の御者（12 gp）はそのまま置いていく。
+- 寒く灰色だが乾いた一日。Karin が左、Wren が右、Noel は後ろで本を読みながら歩いた。
+- 午後には海の匂い。夕暮れに Ravenport の屋根とマストが見えた。
+- 埠頭の The Drunken Eel へ。主人は笑って「The old fox is back!」。部屋と夕食は 1人 5 sp、4人で 2 gp。
+- 夜、部屋で Wren。Punya の口で【クンニ：Wren】——彼女は何度も潮を吹いた（ゲイザー）。その後【セックス：Wren】、膣内。Wren:「これでまた並んだ……Karin 10、Noel 10、私 10」。
+- 長休憩（The Drunken Eel −2 gp → 財布 **68 gp 1 sp**）。
+
+## 現状: 11月24日（72日目）朝 —— Ravenport、The Drunken Eel
+
+- **レベル4、XP 各 3,031 / 6,500（レベル5まであと 3,469）。財布 68 gp 1 sp。回数 Karin 10 / Noel 10 / Wren 10（全員膣内）。Punya の矢は 41 本、Karin のボルトは 14 本。** 聖水は2瓶（Noel と Punya）。Potion of Healing は各1本（Punya・Karin・Noel）、Potion of Greater Healing は共有で1本。
+- Punya はいつものように Noel の胸で目覚めた。Karin と Wren が両側に眠っている。長休憩完了、HP・Spell Slot 全回復。
 - 丘の救出は **レベル5まで保留**（Yamamoto の判断、2026-11-14）。ただし合図の疎通と Tansy との会話は確認済み（11月21日）。
 - Greywall の掲示板に残る仕事: 東の街道の行方不明の御者（12 gp、到着予定から大幅に遅れている）。
 
@@ -848,7 +858,7 @@
 
 | 相手 | 回数 | 膣内 | 記録 |
 |---|---|---|---|
-| Wren | 9 | 9 | 9/15 約束が発生（Speak with Animals の報酬）。9/16 夜、約束を履行（1番目）。10/6 朝、再び——「Even. Now we are even」。10/7 未明、ワーラットの仕事への報酬——「Good job, Wren. I love you」【セックス：Wren】。10/14 朝、「公平」の清算で2番目に支払われた——Wren 4回、Karin 3回、Noel 3回【セックス：Wren】。同日昼前、口で【クンニ：Wren】（数えない）。10/17 夜、脱走兵の仕事の後、Ferryman's Rest で最初に【セックス：Wren】。10/18 朝、再び最初に【セックス：Wren】。11/1 午後、3夜の狼仕事への約束の報酬——誓いどおり奥で、満額支払われた【セックス：Wren】。Noel のノート: 「Wren がまた先行」。11/11 夜、Reedham で解決の夜【セックス：Wren】。11/14 夜、帰路の rotation の最後——Greywall 到着の夜【セックス：Wren】 |
+| Wren | 10 | 10 | 9/15 約束が発生（Speak with Animals の報酬）。9/16 夜、約束を履行（1番目）。10/6 朝、再び——「Even. Now we are even」。10/7 未明、ワーラットの仕事への報酬——「Good job, Wren. I love you」【セックス：Wren】。10/14 朝、「公平」の清算で2番目に支払われた——Wren 4回、Karin 3回、Noel 3回【セックス：Wren】。同日昼前、口で【クンニ：Wren】（数えない）。10/17 夜、脱走兵の仕事の後、Ferryman's Rest で最初に【セックス：Wren】。10/18 朝、再び最初に【セックス：Wren】。11/1 午後、3夜の狼仕事への約束の報酬——誓いどおり奥で、満額支払われた【セックス：Wren】。Noel のノート: 「Wren がまた先行」。11/11 夜、Reedham で解決の夜【セックス：Wren】。11/14 夜、帰路の rotation の最後——Greywall 到着の夜【セックス：Wren】。11/23 夜、Ravenport の The Drunken Eel【セックス：Wren】——その前に口で【クンニ：Wren】（数えない）。これで全員 10 で横並び |
 | Noel | 10 | 10 | 毎朝（9/15、9/16、9/17）Punya は彼女の胸で目覚めている。9/15「リスト」の管理を宣言。9/16 夜、約束を履行（2番目）。リストは彼女が取り消し線を引いて閉じた。10/4 夜、熱のある Punya の看病をした（回数には入れない）。10/5、Wren が先行していることを乾いた声で指摘——「I keep the list」。10/8 夜、ウィスプへの報酬——「I nearly died for those missiles」【セックス：Noel】。10/14 朝、「I am fair, Noel」——滞納分が真っ先に支払われた【セックス：Noel】。同日昼前、口で【クンニ：Noel】（数えない）。10/15 夜明け、胸の中で目覚めて後れに気づき、その場で支払い——まず口で【クンニ：Noel】、続いて【セックス：Noel】。彼女のノート: 「Wren 4回、Karin 4回、Noel 4回。完全に均衡」。10/17 夜、2番目に——その夜は本を閉じた【セックス：Noel】。10/18 朝、再び2番目に——彼女のノート: 「Wren 6回。Karin 6回。Noel 6回。また全員そろった」【セックス：Noel】。11/9 夜、Reedham の初夜【セックス：Noel】。11/12 夜、帰路の rotation の最初【セックス：Noel】。11/17 昼、一番回数が少なかったので【セックス：Noel】——全員9回で横並び。11/22 夜、マンティコアの後【セックス：Noel】 |
 | Karin | 10 | 10 | 9/15、Wren への約束に抗議して自分の分を要求し、手に「Tomorrow」と書いた。9/16 夜、約束を履行（3番目）。10/5、イール亭の休息日——オーラルのみ（「Best medicine in Ravenport」）。記録には残すが回数には入れない。10/9 夜、オウルベアへの報酬——「Took you long enough, old man」【セックス：Karin】。10/13 夜、Rask の小屋で Pike を倒した報酬【セックス：Karin】。10/14 朝、口で【クンニ：Karin】——記録のみ、数えない。4回目は借りのまま。10/14 夜、Ferryman's Rest で約束の4回目を回収【セックス：Karin】。10/17 夜、最後に——一度笑って、それきり笑わなかった【セックス：Karin】。10/18 朝、再び最後に、すっかり目覚めてニヤリ【セックス：Karin】。11/10 夜、Reedham【セックス：Karin】——翌朝、Noel の「また全員そろった」（7/7/7）。11/13 夜、帰路の rotation【セックス：Karin】。11/16 夜、屋根泥棒の仕事の後、ダイスで Karin か Noel かを選んで Karin【セックス：Karin】。11/21 夜、合図テストの後【セックス：Karin】 |
 
@@ -886,3 +896,4 @@
 - その後: **64 gp 1 sp**（11/17 夜: Ferryman's Rest −1 gp 3 sp ／ 11/19: 聖遺物護衛の報酬 +15 gp ／ 11/20: 街道の宿 −1 gp 4 sp ／ 11/21: Golden Sheaf −2 gp）—— **その後 64 gp 1 sp**
 - その後: **72 gp 1 sp**（11/22: Alden の村の謝礼 +8 gp）—— **その後 72 gp 1 sp**
 - その後: **70 gp 1 sp**（11/22 夜: Golden Sheaf −2 gp）—— **その後 70 gp 1 sp**
+- その後: **68 gp 1 sp**（11/23 夜: The Drunken Eel −2 gp）—— **その後 68 gp 1 sp**

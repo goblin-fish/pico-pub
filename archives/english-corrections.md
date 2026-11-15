@@ -1,6 +1,6 @@
 # 英文添削まとめ（D&Dセッション）
 
-D&Dセッション（英語）のチャットで、Yamamoto の英文に対して Pico が行った添削を集めたもの。（最終更新: 2026-11-12）
+D&Dセッション（英語）のチャットで、Yamamoto の英文に対して Pico が行った添削を集めたもの。（最終更新: 2026-11-15）
 ※タイプミス・綴りのミスのみの添削は収録しない（Yamamoto の指定）。
 
 ## 2026-11-08
@@ -973,3 +973,26 @@ D&Dセッション（英語）のチャットで、Yamamoto の英文に対し�
 | 修正前 | take the 3rd job. now, it is afternoon. i and wren return to the inn and have sex. it is promise. after wren's pussy is filled with semen, we go to graves. we have silver wepons. easy job |
 | **修正後** | **"Take the 3rd job. It is afternoon now. Wren and I return to the inn and have sex — it is a promise. After that, we go to the graves. We have silver weapons. An easy job."** |
 - ポイント: **i and wren** → **Wren and I**（相手を先に置くのが丁寧な並べ方）。**it is promise** → **It is a promise**（**a** が要る）。
+
+## 2026-11-15
+
+### 1. sheep / sheeps
+| 区分 | 英文 |
+| --- | --- |
+| 修正前 | ambush next to sheeps |
+| **修正後** | **"Ambush next to the sheep."** |
+- ポイント: **sheep** は単数も複数も同じ形で、**sheeps** とは言わない。囲いの羊たち、という決まったものには **the** を付ける。
+
+### 2. They are my sheep / shameless thief
+| 区分 | 英文 |
+| --- | --- |
+| 修正前 | no, it is my sheep, You're the shameless thief! |
+| **修正後** | **"No! They are my sheep. You are the shameless thief!"** |
+- ポイント: 羊は複数なので **it is** ではなく **they are** が自然。カンマで2文をつなぐより、ピリオドで分けるのが正しい形。（大文字は直さない）
+
+### 3. come inside / give into
+| 区分 | 英文 |
+| --- | --- |
+| 修正前 | it is over, tonight. i give you my semen into your pussy |
+| **修正後** | **"It is over tonight. I come inside your pussy."** |
+- ポイント: **give 〜 into** は言わない。「中に出す」は **come inside** / **finish inside** を使う。**it is over, tonight** のカンマは不要。

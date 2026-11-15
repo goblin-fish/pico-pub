@@ -41,7 +41,7 @@ How they act (set 2026-11-08): in the daytime, Karin and Wren always take the pl
   - Bond: I will become the greatest thief that ever lived
   - Flaw: Turns tail and runs when things look bad
   - Feature: Criminal Contact
-- Money: party purse **70 gp 1 sp** (shared by all four, held by Punya; as of Nov 23). The party also shares a **Potion of Greater Healing ×1** (from Yark's hoard; who carries it is not decided)
+- Money: party purse **68 gp 1 sp** (shared by all four, held by Punya; as of Nov 24). The party also shares a **Potion of Greater Healing ×1** (from Yark's hoard; who carries it is not decided)
 
 ---
 

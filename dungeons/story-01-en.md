@@ -838,9 +838,19 @@ Last update: 2026-11-10
 - **XP: 700 ÷ 4 = +175 each → 3,031 / 6,500.**
 - The village paid the **8 gp** fee. That night: Noel [Sex: Noel], and a long rest (the Golden Sheaf, −2 gp → purse **70 gp 1 sp**).
 
-## Where things stand: November 23 (Day 71), morning — Alden
+## November 23 (Day 71) — From Alden to Ravenport
 
-- **Level 4, XP 3,031 / 6,500 each (3,469 to Level 5). Purse 70 gp 1 sp. Punya's arrows: 41; Karin's bolts: 14.** Holy water: two flasks (Noel's and Punya's). Potions of Healing: one each (Punya, Karin, Noel); one Potion of Greater Healing, shared.
+- After breakfast, the party left Alden and took the east road, 20 miles to Ravenport. The missing coachman on Greywall's board (12 gp) stays where it is.
+- A cold, grey, dry day. Karin walked on Punya's left, Wren on his right, Noel behind them, reading her book as she walked.
+- In the afternoon, the smell of the sea. At dusk, Ravenport's roofs and masts came into view.
+- To The Drunken Eel, by the docks. The keeper laughed: "The old fox is back!" Room and dinner: 5 sp each, 2 gp for the four.
+- That night, in their room: Wren [Cunnilingus: Wren] — she came again and again, her geyser — and then [Sex: Wren], inside. Wren: "Now we're even again... Karin 10, Noel 10, me 10."
+- Long rest (The Drunken Eel, −2 gp → purse **68 gp 1 sp**).
+
+## Where things stand: November 24 (Day 72), morning — Ravenport, The Drunken Eel
+
+- **Level 4, XP 3,031 / 6,500 each (3,469 to Level 5). Purse 68 gp 1 sp. Counts: Karin 10 / Noel 10 / Wren 10 (all inside). Punya's arrows: 41; Karin's bolts: 14.** Holy water: two flasks (Noel's and Punya's). Potions of Healing: one each (Punya, Karin, Noel); one Potion of Greater Healing, shared.
+- Punya woke with his face in Noel's boobs, as always. Karin and Wren slept at his sides. Long rest done — HP and spell slots are full.
 - The hill rescue is **on hold until Level 5** (Yamamoto's call, 2026-11-14). But the signal link, and the talk with Tansy, are confirmed (November 21).
 - The job still left on Greywall's board: the missing carter on the east road (12 gp, long past his due arrival).
 
@@ -850,7 +860,7 @@ From before this story, all three are Punya's lovers, and all three have been cl
 
 | Who | Times | Inside | Record |
 |---|---|---|---|
-| Wren | 9 | 9 | Sep 15: the promise was made (for Speak with Animals). Sep 16 night: kept (first). Oct 6 morning: kept again — "Even. Now we are even". Oct 7, before dawn: her reward for the wererat job — "Good job, Wren. I love you" [Sex: Wren]. Oct 14 morning: paid again, second in the fairness round — Wren 4, Karin 3, Noel 3 [Sex: Wren]; later that morning, his mouth [Cunnilingus: Wren] (not counted). Oct 17 night: first in the round at the Ferryman's Rest, after the deserters job [Sex: Wren]. Oct 18 morning: first again [Sex: Wren]. Nov 1 afternoon: the promised reward for her three nights of wolf work — paid in full, deep inside as sworn [Sex: Wren]. Noel's book: "Wren runs ahead. Again". Nov 11 night: the settlement night at Reedham [Sex: Wren]. Nov 14 night: the last of the road-home rotation — the night the party reached Greywall [Sex: Wren] |
+| Wren | 10 | 10 | Sep 15: the promise was made (for Speak with Animals). Sep 16 night: kept (first). Oct 6 morning: kept again — "Even. Now we are even". Oct 7, before dawn: her reward for the wererat job — "Good job, Wren. I love you" [Sex: Wren]. Oct 14 morning: paid again, second in the fairness round — Wren 4, Karin 3, Noel 3 [Sex: Wren]; later that morning, his mouth [Cunnilingus: Wren] (not counted). Oct 17 night: first in the round at the Ferryman's Rest, after the deserters job [Sex: Wren]. Oct 18 morning: first again [Sex: Wren]. Nov 1 afternoon: the promised reward for her three nights of wolf work — paid in full, deep inside as sworn [Sex: Wren]. Noel's book: "Wren runs ahead. Again". Nov 11 night: the settlement night at Reedham [Sex: Wren]. Nov 14 night: the last of the road-home rotation — the night the party reached Greywall [Sex: Wren]. Nov 23 night: at The Drunken Eel in Ravenport [Sex: Wren] — his mouth first [Cunnilingus: Wren] (not counted). All three even at 10 |
 | Noel | 10 | 10 | Every morning (Sep 15, 16, 17) Punya woke in her boobs. Sep 15: she took charge of the List. Sep 16 night: kept (second). She closed the list with one clean line. Oct 4 evening: she tended Punya's fever (not counted). Oct 5: she noted, dry as paper, that Wren leads the count — and she keeps the list. Oct 8 night: her reward for the wisp — "I nearly died for those missiles" [Sex: Noel]. Oct 14 morning: her arrears paid first — "I am fair, Noel" [Sex: Noel]; later that morning, his mouth [Cunnilingus: Noel] (not counted). Oct 15 dawn: he woke in her boobs, found her behind again, and paid at once — first his mouth [Cunnilingus: Noel], then [Sex: Noel]. Her book: "Wren 4. Karin 4. Noel 4. Perfectly even". Oct 17 night: second in the round, her book closed for once [Sex: Noel]. Oct 18 morning: second again — her book: "Wren 6. Karin 6. Noel 6. Even, again" [Sex: Noel]. Nov 9 night: the first night at Reedham [Sex: Noel]. Nov 12 night: the first of the road-home rotation [Sex: Noel]. Nov 17 midday: she had the lowest count, so [Sex: Noel] — all three at 9, side by side. Nov 22 night: after the manticore [Sex: Noel] |
 | Karin | 10 | 10 | Sep 15: she asked for her share too, and wrote "Tomorrow" on her hand. Sep 16 night: kept (third). Oct 5: the rest day at the Eel — oral only ("Best medicine in Ravenport"); written here but NOT counted. Oct 9 night: her reward for the owlbear — "Took you long enough, old man" [Sex: Karin]. Oct 13 night: her reward for killing Pike in Rask's shack [Sex: Karin]. Oct 14 morning: [Cunnilingus: Karin] — written here, NOT counted; her fourth stayed owed. Oct 14 night: the promised fourth, collected at the Ferryman's Rest [Sex: Karin]. Oct 17 night: last in the round — she laughed once, then she was not laughing [Sex: Karin]. Oct 18 morning: last again, wide awake and grinning [Sex: Karin]. Nov 10 night: at Reedham [Sex: Karin] — the next morning, Noel's "All even, again" (7/7/7). Nov 13 night: the road-home rotation [Sex: Karin]. Nov 16 night: after the rooftop thief job, a dice roll chose between Karin and Noel, and it came up Karin [Sex: Karin]. Nov 21 night: after the signal test [Sex: Karin] |
 
@@ -888,3 +898,4 @@ From before this story, all three are Punya's lovers, and all three have been cl
 - After: **64 gp 1 sp** (Nov 17 night: the Ferryman's Rest −1 gp 3 sp / Nov 19: the reliquary escort fee +15 gp / Nov 20: a road inn −1 gp 4 sp / Nov 21: the Golden Sheaf −2 gp)
 - After: **72 gp 1 sp** (Nov 22: Alden village's thanks +8 gp)
 - After: **70 gp 1 sp** (Nov 22 night: the Golden Sheaf −2 gp)
+- After: **68 gp 1 sp** (Nov 23 night: The Drunken Eel −2 gp)
