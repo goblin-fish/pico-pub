@@ -41,7 +41,7 @@ D&D 5e（2014 Basic Rules）/ DM: Pico
   - Bond: 史上最高の盗賊になる
   - Flaw: 形勢が悪くなると逃げる
   - Feature: Criminal Contact
-- 所持金: パーティ共同財布 **68 gp 1 sp**（4人共有、Punya が管理；11/24 時点）。パーティ共有の **Potion of Greater Healing ×1**（Yark の財宝から。持ち手は未定）
+- 所持金: パーティ共同財布 **79 gp 4 sp**（4人共有、Punya が管理；11/26 時点）。パーティ共有の **Potion of Greater Healing ×1**（Yark の財宝から。持ち手は未定）
 
 ---
 
