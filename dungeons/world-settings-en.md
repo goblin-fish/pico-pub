@@ -210,7 +210,7 @@ Clues, information, and open hooks from the story, gathered here by place.
 - **Done**: the granary night guard (Oct 18–19, 4 gp), the charcoal burners' wolves (Oct 19, 6 gp), the ghost at the river mill (Oct 20–21, 10 gp; Corin's specter laid to rest by burial), the harpies at the old south watchtower (Oct 22, 8 gp), the ogre on the west road (Oct 23–25, 20 gp), the goblins at the old quarry (Nov 1, 12 gp; settled by talking, as above), the plague-field graves (Nov 1–2, 10 gp; a family of ghouls driven off), the Mistmarsh sheep (Nov 11, 15 gp), Tilbury's biting crate = a mimic (Nov 15, 10 gp), the capture of the rooftop thief Wick (Nov 16, 20 gp), the temple's reliquary cart escort (Nov 18–19, 15 gp), the wine cart escort (Tobin's, of Ravenport, Nov 24–26, 16 gp)
 - **Still open**: the missing carter on the east road (12 gp, eleven days past his due arrival; nobody has taken it since it was posted on Nov 15)
 - **On the board now (Nov 26)**: the pay-chest escort to the toll bridge (two days there and back, 10 gp)
-- **Taken (Nov 26, evening)**: the locked-strongroom theft (the spice merchant Osric, 15 gp — find the way in, and the thief; the first step is undecided: tonight, or in the morning)
+- **Taken (Nov 26, evening)**: the locked-strongroom theft (the spice merchant Osric, 15 gp — find the way in, and the thief). On the night of Nov 26 the party staked out the shop — the thief was found already hiding inside before closing. At dawn on Nov 27, the man has begun to move
 - **Alden's sheep thief (Nov 22)**: a **manticore** that had taken three sheep from the high pastures was killed in an ambush beside the fold (the village paid 8 gp; Meg offered free repairs and shoeing)
 
 ### The west (the West Hills and the Mistmarsh)
