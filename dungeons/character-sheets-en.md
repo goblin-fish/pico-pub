@@ -1,7 +1,7 @@
 # Character Sheets (the whole party of four)
 
 D&D 5e (2014 Basic Rules) / DM: Pico
-Last update: 2026-11-16
+Last update: 2026-11-17
 
 ## Party overview
 
@@ -12,7 +12,7 @@ Last update: 2026-11-16
 | Wren | Druid 4, Circle of the Land (Forest) | 19 | 27 | 15 | Nature magic, healing, support |
 | Noel | Wizard 4, School of Evocation | 18 | 22 | 11 (14 with Mage Armor) | Attack and utility magic |
 
-All Human, Level 4, Proficiency Bonus +2. XP: 3,455 each (Level 5 at 6,500 XP).
+All Human, Level 4, Proficiency Bonus +2. XP: 4,467 each (Level 5 at 6,500 XP).
 
 The mood of the party: all three of them love Punya (55) and want him for themselves. But there are three of them, so they keep each other in check and fight over his attention.
 How they act (set 2026-11-08): in the daytime, Karin and Wren always take the places on both sides of Punya — at the table, and walking in town too. Noel only reads her book and looks calm, like she does not care that she cannot sit next to him. At night, Karin and Wren sleep close to Punya, one on each side. But in the morning, Punya always wakes up with his face in Noel's big breasts. Some mornings she gets up early and wakes him with her mouth. Under her calm daytime face, Noel is the most lewd of the three.
@@ -21,7 +21,7 @@ How they act (set 2026-11-08): in the daytime, Karin and Wren always take the pl
 
 ## Punya — Human Rogue (Thief), Level 4
 
-- Player: Yamamoto / Alignment: Chaotic Neutral / XP: 3,455 (Level 5 at 6,500 XP)
+- Player: Yamamoto / Alignment: Chaotic Neutral / XP: 4,467 (Level 5 at 6,500 XP)
 - Age: 55. A cool, very popular older man. The three companions (all adults) adore him
 - Background: Criminal (Specialty: Smuggler)
 - Ability Scores: STR 10 (+0) / DEX 18 (+4) / CON 12 (+1) / INT 9 (−1) / WIS 16 (+3) / CHA 14 (+2) *Level 4 Ability Score Improvement: DEX 16 → 18
@@ -32,8 +32,8 @@ How they act (set 2026-11-08): in the daytime, Karin and Wren always take the pl
 - Class Features: Expertise, Sneak Attack **2d6**, Thieves' Cant, Cunning Action, **Roguish Archetype: Thief** — Fast Hands (Sleight of Hand and Use an Object as a Bonus Action with Cunning Action), Second-Story Work (climbing costs no extra movement; running jump distance +3 ft)
 - Tool Proficiencies: Thieves' tools, Playing card set, Disguise kit
 - Languages: Common, Undercommon, Thieves' Cant
-- Weapons: Rapier (+7, 1d8+4), Shortbow (+7, 1d6+4, 41 arrows), Light crossbow (+7, 1d8+4; Karin carries it, 14 bolts), Dagger ×2 (+7, 1d4+4), **Silver dagger, antique** (+7, 1d4+4, counts as silver; bought Oct 6 for 30 gp. Punya's only silver weapon — kept off the sell list on Nov 15)
-- Equipment: **Breastplate** (AC 16 total; bought Nov 2 for 400 gp. No disadvantage on Stealth. The old Studded Leather was sold), Burglar's pack (ball bearings, string, bell, candles, crowbar, hammer, 10 pitons, hooded lantern, 2 flasks of oil, 5 days of rations, tinderbox, waterskin, 50 feet of hempen rope), crowbar (2 in total), dark hooded clothes, **a flask of holy water** (from the temple, Oct 14), **Potion of Healing ×1** (bought Oct 18), **Mok's wolf-fang token** (from Mok, Nov 1. Show it in the South Hills and the hills listen), the empty purse with the tax seal (evidence), the note from the silver-cart raid (the original), Rowan's broken lantern
+- Weapons: Rapier (+7, 1d8+4), Shortbow (+7, 1d6+4, 21 arrows), Light crossbow (+7, 1d8+4; Karin carries it, 28 bolts), Dagger ×2 (+7, 1d4+4), **Silver dagger, antique** (+7, 1d4+4, counts as silver; bought Oct 6 for 30 gp. Punya's only silver weapon — kept off the sell list on Nov 15)
+- Equipment: **Breastplate** (AC 16 total; bought Nov 2 for 400 gp. No disadvantage on Stealth. The old Studded Leather was sold), Burglar's pack (ball bearings, string, bell, candles, crowbar, hammer, 10 pitons, hooded lantern, 2 flasks of oil, 5 days of rations, tinderbox, waterskin, 50 feet of hempen rope), crowbar (2 in total), dark hooded clothes, **a flask of holy water** (from the temple, Oct 14), **Potion of Greater Healing ×1** (from Yark's hoard; the Dec 14 re-sharing made it Punya's to carry. His regular Potion of Healing was used on Wren in the troll fight on Dec 10), **Mok's wolf-fang token** (from Mok, Nov 1. Show it in the South Hills and the hills listen), the empty purse with the tax seal (evidence), the note from the silver-cart raid (the original), Rowan's broken lantern
 - Personality:
   - Trait: Always calm, never raises his voice
   - Trait: In a new place, first notes where the valuables are
@@ -41,13 +41,13 @@ How they act (set 2026-11-08): in the daytime, Karin and Wren always take the pl
   - Bond: I will become the greatest thief that ever lived
   - Flaw: Turns tail and runs when things look bad
   - Feature: Criminal Contact
-- Money: party purse **210 gp 9 sp** (shared by all four, held by Punya; as of Dec 7). The party also shares a **Potion of Greater Healing ×1** (from Yark's hoard; who carries it is not decided)
+- Money: party purse **215 gp 5 sp** (shared by all four, held by Punya; as of Dec 16)
 
 ---
 
 ## Karin — Human Monk (Way of the Open Hand), Level 4 (age 18)
 
-- XP: 3,455 (Level 5 at 6,500 XP)
+- XP: 4,467 (Level 5 at 6,500 XP)
 - Background: Acolyte (raised in a temple) *decided by the DM, can be changed
 - Personality: Bold and energetic, the youngest at heart. Confident, loves teasing Punya. First to jump into a fight
 - Appearance: Height 163 cm, B87 / W55 / H87, black hair in a ponytail / Lingerie: **D70, black lace** (bought Oct 18 in Greywall) / Body: puffy nipples / Signature move: **Machine-Gun Cowgirl**
@@ -58,7 +58,7 @@ How they act (set 2026-11-08): in the daytime, Karin and Wren always take the pl
 - Skills: Acrobatics +6, Athletics +3, Insight +5, Religion +1
 - Passive Perception: 13
 - Class Features: Unarmored Defense, Martial Arts (unarmed strike 1d4+4, shortsword), **Ki (4 points)**: Flurry of Blows, Patient Defense, Step of the Wind; Unarmored Movement (Speed 40); **Deflect Missiles** (Reaction: reduce a missile's damage by 1d10+7; if reduced to 0, catch it and throw it back); **Monastic Tradition: Way of the Open Hand — Open Hand Technique** (Flurry of Blows hits can knock prone (Strength save), push 15 ft, or stop the target's Reactions)
-- Weapons: **Silvered shortsword** (+6, 1d6+4, counts as silver; her pick from Yark's hoard, Oct 31 — her main weapon), Shortsword (+6, 1d6+4; kept as a spare), Unarmed strike (+6, 1d4+4), Dart ×9, Punya's **light crossbow** (+6, 1d8+4, 14 bolts; carried since Oct 12), **Potion of Healing ×1** (bought Oct 18)
+- Weapons: **Silvered shortsword** (+6, 1d6+4, counts as silver; her pick from Yark's hoard, Oct 31 — her main weapon), Shortsword (+6, 1d6+4; kept as a spare), Unarmed strike (+6, 1d4+4), Dart ×9, Punya's **light crossbow** (+6, 1d8+4, 28 bolts; carried since Oct 12), **Potion of Healing ×1** (bought again on Dec 14; the Oct 18 bottle was used on Punya in the troll fight on Dec 10)
 - *The silver dagger (new, 45 gp) was sold on Nov 15
 - Tool/Instrument: Flute
 - Languages: Common, plus 3 more not yet chosen (1 extra Human language + 2 from Acolyte)
@@ -67,7 +67,7 @@ How they act (set 2026-11-08): in the daytime, Karin and Wren always take the pl
 
 ## Wren — Human Druid (Circle of the Land: Forest), Level 4 (age 19)
 
-- XP: 3,455 (Level 5 at 6,500 XP)
+- XP: 4,467 (Level 5 at 6,500 XP)
 - Background: Folk Hero *decided by the DM, can be changed
 - Personality: Gentle and sweet, a little airheaded. Always worries about everyone's wounds
 - Appearance: Height 149 cm, B90 / W56 / H86, brown wavy hair / Lingerie: **G65, white** (bought Oct 18 in Greywall) / Body: hairless (no pubic hair) / Signature move: **Geyser Squirt**
@@ -101,14 +101,14 @@ How they act (set 2026-11-08): in the daytime, Karin and Wren always take the pl
 | Barkskin | 2nd level (Circle Spell) | Touch a creature. Its Armor Class cannot be below 16 while it lasts (up to 1 hour, Concentration) |
 | Spider Climb | 2nd level (Circle Spell) | Touch a creature. For 1 hour it can climb walls and ceilings, hands free (Concentration) |
 - Weapons: Quarterstaff (it doubles as her druidic focus), Wooden shield
-- Equipment: **Healer's Kit** (bought Oct 18)
+- Equipment: **Healer's Kit** (bought Oct 18), **Potion of Healing ×1** (bought Dec 14, hers in the re-sharing)
 - Languages: Common, Sylvan (learned a little as a child from the elders of Lydford; the key tongue for talking with pixies and lizardfolk), Druidic
 
 ---
 
 ## Noel — Human Wizard (School of Evocation), Level 4 (age 18)
 
-- XP: 3,455 (Level 5 at 6,500 XP)
+- XP: 4,467 (Level 5 at 6,500 XP)
 - Background: Sage *decided by the DM, can be changed
 - Personality: Smart, with glasses. Calm, but sharp-tongued when embarrassed. Always reading a book. But the calm face is an act — in truth, she is the most lecherous of the three. She plans quietly and plays innocent after
 - Appearance: Height 156 cm, B103 / W61 / H94, navy-blue bob (longer in front), glasses / Lingerie: **J70, deep red** (bought Oct 18 in Greywall) / Body: an enlarged clitoris / Signature move: **Tornado Blowjob**

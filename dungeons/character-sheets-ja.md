@@ -1,7 +1,7 @@
 # キャラクターシート（パーティ4人分）
 
 D&D 5e（2014 Basic Rules）/ DM: Pico
-最終更新: 2026-11-16
+最終更新: 2026-11-17
 
 ## パーティ一覧
 
@@ -12,7 +12,7 @@ D&D 5e（2014 Basic Rules）/ DM: Pico
 | Wren | Druid 4, Circle of the Land (Forest) | 19 | 27 | 15 | 自然魔法、回復、サポート |
 | Noel | Wizard 4, School of Evocation | 18 | 22 | 11（Mage Armor で14） | 攻撃・便利系の魔法 |
 
-全員 Human、Level 4、Proficiency Bonus +2。XP: 各 3,455（Level 5 は 6,500 XP）。
+全員 Human、Level 4、Proficiency Bonus +2。XP: 各 4,467（Level 5 は 6,500 XP）。
 
 パーティの空気: 3人とも Punya（55歳）が好きで、自分のものにしたがっている。ただ3人いるので互いに牽制し合って、Punya の気を引こうと取り合っている真っ最中。
 振る舞いの型（2026-11-08 設定）: 昼間は Karin と Wren がいつも Punya の両隣を占める（テーブルでも、町を歩くときも）。Noel はいつも本を読むだけで平然としていて、隣になれなくても気にしていないように見える。夜は Karin と Wren が Punya を挟んでくっついて寝るのに、なぜか朝になると Punya は Noel の大きな胸に顔をうずめた状態で目覚める。早起きして口で起こしてくれる朝もある。平然とした昼の顔の下で、実は Noel がいちばんエロい。
@@ -21,7 +21,7 @@ D&D 5e（2014 Basic Rules）/ DM: Pico
 
 ## Punya — Human Rogue (Thief), Level 4
 
-- Player: Yamamoto / Alignment: Chaotic Neutral / XP: 3,455（Level 5 は 6,500 XP）
+- Player: Yamamoto / Alignment: Chaotic Neutral / XP: 4,467（Level 5 は 6,500 XP）
 - 年齢: 55歳。渋くてモテモテのおじさん。3人の仲間（全員成人）から慕われている
 - Background: Criminal（Specialty: Smuggler）
 - Ability Scores: STR 10 (+0) / DEX 18 (+4) / CON 12 (+1) / INT 9 (−1) / WIS 16 (+3) / CHA 14 (+2)　※Level 4 の Ability Score Improvement で DEX 16 → 18
@@ -32,8 +32,8 @@ D&D 5e（2014 Basic Rules）/ DM: Pico
 - Class Features: Expertise、Sneak Attack **2d6**、Thieves' Cant、Cunning Action、**Roguish Archetype: Thief** — Fast Hands（Cunning Action の Bonus Action で Sleight of Hand や Use an Object ができる）、Second-Story Work（登攀で追加の移動コストなし、立ち幅跳びの距離 +3 ft）
 - Tool Proficiencies: Thieves' tools、Playing card set、Disguise kit
 - Languages: Common、Undercommon、Thieves' Cant
-- Weapons: Rapier（+7、1d8+4）、Shortbow（+7、1d6+4、矢41本）、Light crossbow（+7、1d8+4；Karin が所持、ボルト14本）、Dagger ×2（+7、1d4+4）、**Silver dagger（アンティーク）**（+7、1d4+4、銀として扱う；10/6 に 30 gp で購入。Punya の唯一の銀武器——11/15 の売却候補から外して保持）
-- Equipment: **Breastplate**（AC 合計16；11/2 に 400 gp で購入。Stealth の不利なし。以前の Studded Leather は売却済み）、Burglar's pack（ball bearings、string、bell、candles、crowbar、hammer、piton ×10、hooded lantern、oil ×2、rations 5日分、tinderbox、waterskin、hempen rope 50 ft）、crowbar（合計2本）、黒いフード付きの服、**聖水の小瓶**（10/14 に聖堂から）、**Potion of Healing ×1**（10/18 に購入）、**Mok の狼の牙のトークン**（11/1 に Mok から。South Hills で見せれば丘が聞く）、税の封の空財布（証拠品）、銀の荷車の襲撃メモ（原本）、Rowan の壊れたランタン
+- Weapons: Rapier（+7、1d8+4）、Shortbow（+7、1d6+4、矢21本）、Light crossbow（+7、1d8+4；Karin が所持、ボルト28本）、Dagger ×2（+7、1d4+4）、**Silver dagger（アンティーク）**（+7、1d4+4、銀として扱う；10/6 に 30 gp で購入。Punya の唯一の銀武器——11/15 の売却候補から外して保持）
+- Equipment: **Breastplate**（AC 合計16；11/2 に 400 gp で購入。Stealth の不利なし。以前の Studded Leather は売却済み）、Burglar's pack（ball bearings、string、bell、candles、crowbar、hammer、piton ×10、hooded lantern、oil ×2、rations 5日分、tinderbox、waterskin、hempen rope 50 ft）、crowbar（合計2本）、黒いフード付きの服、**聖水の小瓶**（10/14 に聖堂から）、**Potion of Greater Healing ×1**（Yark の財宝から。12/14 の再配分で Punya の所持に確定。通常の Potion of Healing は 12/10 のトロール戦で Wren に使った）、**Mok の狼の牙のトークン**（11/1 に Mok から。South Hills で見せれば丘が聞く）、税の封の空財布（証拠品）、銀の荷車の襲撃メモ（原本）、Rowan の壊れたランタン
 - Personality:
   - Trait: 常に冷静で、声を荒らげない
   - Trait: 新しい場所ではまず貴重品のありかを確認する
@@ -41,13 +41,13 @@ D&D 5e（2014 Basic Rules）/ DM: Pico
   - Bond: 史上最高の盗賊になる
   - Flaw: 形勢が悪くなると逃げる
   - Feature: Criminal Contact
-- 所持金: パーティ共同財布 **210 gp 9 sp**（4人共有、Punya が管理；12/7 時点）。パーティ共有の **Potion of Greater Healing ×1**（Yark の財宝から。持ち手は未定）
+- 所持金: パーティ共同財布 **215 gp 5 sp**（4人共有、Punya が管理；12/16 時点）
 
 ---
 
 ## Karin — Human Monk (Way of the Open Hand), Level 4（18歳）
 
-- XP: 3,455（Level 5 は 6,500 XP）
+- XP: 4,467（Level 5 は 6,500 XP）
 - Background: Acolyte（寺育ち）※DM決定、変更可
 - Personality: 大胆で元気な末っ子気質。自信家で、よく Punya をからかう。戦いでは真っ先に飛び込む
 - 外見: 身長 163 cm、B87 / W55 / H87、黒髪のポニーテール / ランジェリー: **D70、黒レース**（10/18 に Greywall で購入） / 体の特徴: パフィーニップル / 得意技: **マシンガン騎乗位**
@@ -58,7 +58,7 @@ D&D 5e（2014 Basic Rules）/ DM: Pico
 - Skills: Acrobatics +6、Athletics +3、Insight +5、Religion +1
 - Passive Perception: 13
 - Class Features: Unarmored Defense、Martial Arts（素手 1d4+4、Shortsword）、**Ki（4点）**: Flurry of Blows、Patient Defense、Step of the Wind；Unarmored Movement（Speed 40）；**Deflect Missiles**（Reaction: 飛び道具のダメージを 1d10+7 軽減、0 にしたら掴んで投げ返せる）；**Monastic Tradition: Way of the Open Hand — Open Hand Technique**（Flurry の命中ごとに、転倒（Strength セーブ）／15 ft 押し出し／リアクション封じのいずれか）
-- Weapons: **銀メッキの Shortsword**（+6、1d6+4、銀として扱う；10/31 に Yark の財宝から選んだ取り分、主武器）、Shortsword（+6、1d6+4；予備として所持）、Unarmed strike（+6、1d4+4）、Dart ×9、Punya の **Light crossbow**（+6、1d8+4、ボルト14本；10/12 から所持）、**Potion of Healing ×1**（10/18 に購入）
+- Weapons: **銀メッキの Shortsword**（+6、1d6+4、銀として扱う；10/31 に Yark の財宝から選んだ取り分、主武器）、Shortsword（+6、1d6+4；予備として所持）、Unarmed strike（+6、1d4+4）、Dart ×9、Punya の **Light crossbow**（+6、1d8+4、ボルト28本；10/12 から所持）、**Potion of Healing ×1**（12/14 に買い直し。10/18 購入分は 12/10 のトロール戦で Punya に使った）
 - ※ Silver dagger（新品、45 gp）は 11/15 に売却済み
 - Tool/Instrument: Flute
 - Languages: Common のほか3つ未選択（Human の追加1つ + Acolyte の2つ）
@@ -67,7 +67,7 @@ D&D 5e（2014 Basic Rules）/ DM: Pico
 
 ## Wren — Human Druid (Circle of the Land: Forest), Level 4（19歳）
 
-- XP: 3,455（Level 5 は 6,500 XP）
+- XP: 4,467（Level 5 は 6,500 XP）
 - Background: Folk Hero ※DM決定、変更可
 - Personality: 優しくて少し天然。みんなの傷をいつも心配している
 - 外見: 身長 149 cm、B90 / W56 / H86、茶色のウェーブ髪 / ランジェリー: **G65、白**（10/18 に Greywall で購入） / 体の特徴: パイパン / 得意技: **ゲイザー潮吹き**
@@ -102,14 +102,14 @@ D&D 5e（2014 Basic Rules）/ DM: Pico
 | Barkskin | 2nd level（Circle Spell） | 触れた creature の Armor Class は持続中（最大1時間、Concentration）16 未満にならない |
 | Spider Climb | 2nd level（Circle Spell） | 触れた creature は1時間（Concentration）、両手フリーで壁や天井を登れる |
 - Weapons: Quarterstaff（ドルイドの焦点具を兼ねる）、Wooden shield
-- Equipment: **Healer's Kit**（10/18 に購入）
+- Equipment: **Healer's Kit**（10/18 に購入）、**Potion of Healing ×1**（12/14 に購入、再配分で所持）
 - Languages: Common、Sylvan（子供のころ Lydford の古老に少し習った。ピクシーやリザードフォークとの交渉で要になる）、Druidic
 
 ---
 
 ## Noel — Human Wizard (School of Evocation), Level 4（18歳）
 
-- XP: 3,455（Level 5 は 6,500 XP）
+- XP: 4,467（Level 5 は 6,500 XP）
 - Background: Sage ※DM決定、変更可
 - Personality: 賢くて眼鏡。落ち着いているが、照れると毒舌。いつも本を読んでいる。ただし冷静なのは見せかけで、実は3人の中でいちばんスケベ。静かに計画を立てて、しらばっくれる
 - 外見: 身長 156 cm、B103 / W61 / H94、紺色の前下がりボブ、眼鏡 / ランジェリー: **J70、深紅**（10/18 に Greywall で購入） / 体の特徴: 陰核肥大 / 得意技: **トルネードフェラチオ**
