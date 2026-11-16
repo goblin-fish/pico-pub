@@ -12,7 +12,7 @@ D&D 5e（2014 Basic Rules）/ DM: Pico
 | Wren | Druid 4, Circle of the Land (Forest) | 19 | 27 | 15 | 自然魔法、回復、サポート |
 | Noel | Wizard 4, School of Evocation | 18 | 22 | 11（Mage Armor で14） | 攻撃・便利系の魔法 |
 
-全員 Human、Level 4、Proficiency Bonus +2。XP: 各 3,081（Level 5 は 6,500 XP）。
+全員 Human、Level 4、Proficiency Bonus +2。XP: 各 3,455（Level 5 は 6,500 XP）。
 
 パーティの空気: 3人とも Punya（55歳）が好きで、自分のものにしたがっている。ただ3人いるので互いに牽制し合って、Punya の気を引こうと取り合っている真っ最中。
 振る舞いの型（2026-11-08 設定）: 昼間は Karin と Wren がいつも Punya の両隣を占める（テーブルでも、町を歩くときも）。Noel はいつも本を読むだけで平然としていて、隣になれなくても気にしていないように見える。夜は Karin と Wren が Punya を挟んでくっついて寝るのに、なぜか朝になると Punya は Noel の大きな胸に顔をうずめた状態で目覚める。早起きして口で起こしてくれる朝もある。平然とした昼の顔の下で、実は Noel がいちばんエロい。
@@ -21,7 +21,7 @@ D&D 5e（2014 Basic Rules）/ DM: Pico
 
 ## Punya — Human Rogue (Thief), Level 4
 
-- Player: Yamamoto / Alignment: Chaotic Neutral / XP: 3,081（Level 5 は 6,500 XP）
+- Player: Yamamoto / Alignment: Chaotic Neutral / XP: 3,455（Level 5 は 6,500 XP）
 - 年齢: 55歳。渋くてモテモテのおじさん。3人の仲間（全員成人）から慕われている
 - Background: Criminal（Specialty: Smuggler）
 - Ability Scores: STR 10 (+0) / DEX 18 (+4) / CON 12 (+1) / INT 9 (−1) / WIS 16 (+3) / CHA 14 (+2)　※Level 4 の Ability Score Improvement で DEX 16 → 18
@@ -41,13 +41,13 @@ D&D 5e（2014 Basic Rules）/ DM: Pico
   - Bond: 史上最高の盗賊になる
   - Flaw: 形勢が悪くなると逃げる
   - Feature: Criminal Contact
-- 所持金: パーティ共同財布 **94 gp 4 sp**（4人共有、Punya が管理；11/28 時点）。パーティ共有の **Potion of Greater Healing ×1**（Yark の財宝から。持ち手は未定）
+- 所持金: パーティ共同財布 **210 gp 9 sp**（4人共有、Punya が管理；12/7 時点）。パーティ共有の **Potion of Greater Healing ×1**（Yark の財宝から。持ち手は未定）
 
 ---
 
 ## Karin — Human Monk (Way of the Open Hand), Level 4（18歳）
 
-- XP: 3,081（Level 5 は 6,500 XP）
+- XP: 3,455（Level 5 は 6,500 XP）
 - Background: Acolyte（寺育ち）※DM決定、変更可
 - Personality: 大胆で元気な末っ子気質。自信家で、よく Punya をからかう。戦いでは真っ先に飛び込む
 - 外見: 身長 163 cm、B87 / W55 / H87、黒髪のポニーテール / ランジェリー: **D70、黒レース**（10/18 に Greywall で購入） / 体の特徴: パフィーニップル / 得意技: **マシンガン騎乗位**
@@ -67,7 +67,7 @@ D&D 5e（2014 Basic Rules）/ DM: Pico
 
 ## Wren — Human Druid (Circle of the Land: Forest), Level 4（19歳）
 
-- XP: 3,081（Level 5 は 6,500 XP）
+- XP: 3,455（Level 5 は 6,500 XP）
 - Background: Folk Hero ※DM決定、変更可
 - Personality: 優しくて少し天然。みんなの傷をいつも心配している
 - 外見: 身長 149 cm、B90 / W56 / H86、茶色のウェーブ髪 / ランジェリー: **G65、白**（10/18 に Greywall で購入） / 体の特徴: パイパン / 得意技: **ゲイザー潮吹き**
@@ -109,7 +109,7 @@ D&D 5e（2014 Basic Rules）/ DM: Pico
 
 ## Noel — Human Wizard (School of Evocation), Level 4（18歳）
 
-- XP: 3,081（Level 5 は 6,500 XP）
+- XP: 3,455（Level 5 は 6,500 XP）
 - Background: Sage ※DM決定、変更可
 - Personality: 賢くて眼鏡。落ち着いているが、照れると毒舌。いつも本を読んでいる。ただし冷静なのは見せかけで、実は3人の中でいちばんスケベ。静かに計画を立てて、しらばっくれる
 - 外見: 身長 156 cm、B103 / W61 / H94、紺色の前下がりボブ、眼鏡 / ランジェリー: **J70、深紅**（10/18 に Greywall で購入） / 体の特徴: 陰核肥大 / 得意技: **トルネードフェラチオ**

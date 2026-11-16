@@ -12,7 +12,7 @@ Last update: 2026-11-16
 | Wren | Druid 4, Circle of the Land (Forest) | 19 | 27 | 15 | Nature magic, healing, support |
 | Noel | Wizard 4, School of Evocation | 18 | 22 | 11 (14 with Mage Armor) | Attack and utility magic |
 
-All Human, Level 4, Proficiency Bonus +2. XP: 3,081 each (Level 5 at 6,500 XP).
+All Human, Level 4, Proficiency Bonus +2. XP: 3,455 each (Level 5 at 6,500 XP).
 
 The mood of the party: all three of them love Punya (55) and want him for themselves. But there are three of them, so they keep each other in check and fight over his attention.
 How they act (set 2026-11-08): in the daytime, Karin and Wren always take the places on both sides of Punya — at the table, and walking in town too. Noel only reads her book and looks calm, like she does not care that she cannot sit next to him. At night, Karin and Wren sleep close to Punya, one on each side. But in the morning, Punya always wakes up with his face in Noel's big breasts. Some mornings she gets up early and wakes him with her mouth. Under her calm daytime face, Noel is the most lewd of the three.
@@ -21,7 +21,7 @@ How they act (set 2026-11-08): in the daytime, Karin and Wren always take the pl
 
 ## Punya — Human Rogue (Thief), Level 4
 
-- Player: Yamamoto / Alignment: Chaotic Neutral / XP: 3,081 (Level 5 at 6,500 XP)
+- Player: Yamamoto / Alignment: Chaotic Neutral / XP: 3,455 (Level 5 at 6,500 XP)
 - Age: 55. A cool, very popular older man. The three companions (all adults) adore him
 - Background: Criminal (Specialty: Smuggler)
 - Ability Scores: STR 10 (+0) / DEX 18 (+4) / CON 12 (+1) / INT 9 (−1) / WIS 16 (+3) / CHA 14 (+2) *Level 4 Ability Score Improvement: DEX 16 → 18
@@ -41,13 +41,13 @@ How they act (set 2026-11-08): in the daytime, Karin and Wren always take the pl
   - Bond: I will become the greatest thief that ever lived
   - Flaw: Turns tail and runs when things look bad
   - Feature: Criminal Contact
-- Money: party purse **94 gp 4 sp** (shared by all four, held by Punya; as of Nov 28). The party also shares a **Potion of Greater Healing ×1** (from Yark's hoard; who carries it is not decided)
+- Money: party purse **210 gp 9 sp** (shared by all four, held by Punya; as of Dec 7). The party also shares a **Potion of Greater Healing ×1** (from Yark's hoard; who carries it is not decided)
 
 ---
 
 ## Karin — Human Monk (Way of the Open Hand), Level 4 (age 18)
 
-- XP: 3,081 (Level 5 at 6,500 XP)
+- XP: 3,455 (Level 5 at 6,500 XP)
 - Background: Acolyte (raised in a temple) *decided by the DM, can be changed
 - Personality: Bold and energetic, the youngest at heart. Confident, loves teasing Punya. First to jump into a fight
 - Appearance: Height 163 cm, B87 / W55 / H87, black hair in a ponytail / Lingerie: **D70, black lace** (bought Oct 18 in Greywall) / Body: puffy nipples / Signature move: **Machine-Gun Cowgirl**
@@ -67,7 +67,7 @@ How they act (set 2026-11-08): in the daytime, Karin and Wren always take the pl
 
 ## Wren — Human Druid (Circle of the Land: Forest), Level 4 (age 19)
 
-- XP: 3,081 (Level 5 at 6,500 XP)
+- XP: 3,455 (Level 5 at 6,500 XP)
 - Background: Folk Hero *decided by the DM, can be changed
 - Personality: Gentle and sweet, a little airheaded. Always worries about everyone's wounds
 - Appearance: Height 149 cm, B90 / W56 / H86, brown wavy hair / Lingerie: **G65, white** (bought Oct 18 in Greywall) / Body: hairless (no pubic hair) / Signature move: **Geyser Squirt**
@@ -108,7 +108,7 @@ How they act (set 2026-11-08): in the daytime, Karin and Wren always take the pl
 
 ## Noel — Human Wizard (School of Evocation), Level 4 (age 18)
 
-- XP: 3,081 (Level 5 at 6,500 XP)
+- XP: 3,455 (Level 5 at 6,500 XP)
 - Background: Sage *decided by the DM, can be changed
 - Personality: Smart, with glasses. Calm, but sharp-tongued when embarrassed. Always reading a book. But the calm face is an act — in truth, she is the most lecherous of the three. She plans quietly and plays innocent after
 - Appearance: Height 156 cm, B103 / W61 / H94, navy-blue bob (longer in front), glasses / Lingerie: **J70, deep red** (bought Oct 18 in Greywall) / Body: an enlarged clitoris / Signature move: **Tornado Blowjob**
