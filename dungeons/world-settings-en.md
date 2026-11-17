@@ -1,7 +1,7 @@
 # World Settings — Alden and the Neighboring Towns
 
 For the D&D 5e (2014 Basic Rules) campaign
-Last update: 2026-11-16
+Last update: 2026-11-17
 
 ## Map (towns and roads)
 
@@ -132,6 +132,16 @@ flowchart LR
   - **Wick** (19, a former roofer's apprentice): a sneak thief who kept breaking in by way of roofs and skylights in the market's warehouse quarter. Caught in the party's stakeout on the night of Nov 16 and handed to the night watch (the merchants' association paid 20 gp)
   - **Marek** (master of the coach company by the east gate): a grey man with ink on his hands. When his coachman **Hart** (52, ten years on the east road) went missing, the party took the search from him on Nov 27 (12 gp). Hart's coach was found wrecked below the ford on Nov 28 — Hart, the passengers **Sella** (a woman travelling to her daughter in Greywall) and **Rye** (a young man), and the priest Oswin all drowned in the flood of Nov 13. The mail box was recovered and is being carried back to Greywall; the 12 gp is paid on the report
   - **Brookfield** (one day east of Greywall): a village with the great temple's shrine. The road is about 20 miles, with a ford halfway (about 10 miles from each town). On Nov 18–19 the party escorted the reliquary cart (the saint's casket) there (15 gp, both ways safe). The shrine priest is **Father Tolan**; his friend **Father Oswin**, a priest and coach passenger, died in the flooded ford on Nov 13. Oswin carried a **sealed box of shrine offerings** for Greywall's great temple; the box was recovered from the wreck on Nov 28. The farmer **Fenn**, on the south bank past the ford, shelters the two surviving coach horses in his barn
+  - **Wilkes** (a salt merchant): his salt wagon left Alden on Dec 27 (driver Piers, guard Sten) and never reached Greywall; on Jan 4 he hired the party to search for it (12 gp). The wagon was found in a gully to the south on Jan 5, and both men were rescued (reported Jan 6; 12 gp paid). He has also hired the party to guard his salt-recovery crew (18 gp)
+  - **Piers** (Wilkes's driver, in his 50s): the wagon went into the gully in the snow squall of Dec 28, and his leg was broken. He and Sten lived eight days in a tarp shelter and were rescued by the party on Jan 5. He is now recovering at Greywall's great temple
+  - **Sten** (a young guard): the guard riding with the salt wagon. He kept Piers alive with frostnipped fingers, and since the rescue he stays with Piers at the temple
+  - **Garv** (foreman of Wilkes's recovery crew): on Jan 9 he will lead the repair crew (four laborers, a spare wheel, two fresh horses, and a transfer wagon) into the gully to change the wheel and haul the salt out
+  - **Ralf (46) and Mabel (44), and their son Hugo (17)**: a sheep farm at Greywall's north edge. The snow-wolf pack took six sheep and their old sheepdog. They sheltered the party free on the night of Jan 2, and Ralf helped salt the winter wolf's white pelt
+
+### South of Greywall: the Alden road
+
+- **Ned (52) and Tilda (49), and their son Fenn (19) — a hill farm**: 15 miles south of Greywall, on the Alden road; barley and goats. On the afternoon of Dec 28 their son Fenn saw the salt wagon pass and waved — the last sighting of the wagon. That evening a snow squall hit the hills. They sheltered the party free on the night of Jan 4
+- **The salt wagon's gully**: about 9 miles south of Greywall, at a bend past the bent pines. Some 40 ft below the road lies Wilkes's salt wagon, its wheel broken (the salt still aboard). In the rocks across the gully is an **owlbear's** hollow; the dead horse has been eaten to bones. The second horse was led out on Jan 6. The salt recovery is set for Jan 9 (the party guards the crew)
 
 ### North of Greywall: the toll bridge (one day north)
 

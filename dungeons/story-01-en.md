@@ -1014,12 +1014,160 @@ Last update: 2026-11-16
 - The long rest restored everyone fully (Karin's wounds are healed).
 - In the morning, Punya took Noel outside the inn and had sex with her **standing, from behind, in the middle of the street** [Sex: Noel], inside (→ Noel 16). It was early and the street was nearly empty, but there were people about — Noel complained, and pressed her hips back at him all the same.
 
-## Where things stand: December 16 (Day 94), morning — Greywall
+## December 16–18 (Days 94–96) — to Ravenport, for the lighthouse job
 
-- **Level 4, XP 4,467 / 6,500 each (2,033 to Level 5). Purse 215 gp 5 sp. Counts: Karin 16 / Noel 16 / Wren 15 (all inside). Punya's arrows: 21; Karin's bolts: 28.** Holy water: two flasks (Noel's and Punya's). Potions, re-shared on December 14: Punya holds the Potion of Greater Healing ×1; Karin, Wren and Noel hold one regular Potion of Healing each. A long rest was taken — all HP, spell slots and Ki restored. No unsold goods (the wave ring and the brandy were sold in Greywall on December 13).
-- Jobs done: the missing coachman (November 29, 12 gp); the Blackhill mine (reported December 1, 20 gp); Cobb's cloth escort (December 4, 14 gp); the smugglers' cave (December 6, 15 gp); the river troll (killed December 13, bounty 25 gp); the sewer otyugh (settled by negotiation, December 15, 20 gp); the great boar (December 15, 12 gp).
-- The hill rescue is **on hold until Level 5** (Yamamoto's call, 2026-11-14). The signal link, and the talk with Tansy, are confirmed (November 21).
-- Open work: in Greywall — noises in a widow's house on Tanner's Row (8 gp), and two men of stone in Colley's quarry (20 gp; the deep pit is closed). The Ravenport papers are still open: the empty fishing boat (10 gp), the dark lighthouse (12 gp), the wreck strongbox on the north rocks (15 gp), and the sick ship at anchor (10 gp).
+- **December 16**: the party left Greywall and walked south. A road inn (−1 gp 4 sp → **214 gp 1 sp**).
+- **December 17**: Alden, The Golden Sheaf (−2 gp → **212 gp 1 sp**).
+- **December 18**: Ravenport, The Drunken Eel (−2 gp → **210 gp 1 sp**). They took the dark-lighthouse job (12 gp) — the light is still out, and the keeper is missing.
+
+## December 19 (Day 97) — the harpies at the lighthouse
+
+- Wax earplugs ×4 and three dressed chickens (−1 sp in all → **210 gp**), and out to the lighthouse rock.
+- With the song stopped by the earplugs, they ambushed the **four harpies** and killed them all. Punya drank his Potion of Greater Healing during the fight (+12). **XP +200 each → 4,667 / 6,500.**
+- Nest loot: coins **9 gp 14 sp**, a silver hand-mirror (about 5 gp), a gold earring (about 3 gp) (→ **220 gp 4 sp**). The keeper's bones were found too. **The party lit the lighthouse lamp again.**
+- Night: The Drunken Eel (−2 gp → **218 gp 4 sp**). A long rest.
+
+## December 20 (Day 98) — the report, sales, and on to Barrow Hill
+
+- Reported at the harbor office and was paid **12 gp** (→ **230 gp 4 sp**). The lighthouse keys were returned.
+- Sold: the silver hand-mirror **5 gp** + the gold earring **3 gp** = **+8 gp** (→ **238 gp 4 sp**).
+- A **Potion of Healing for Punya (−50 gp** → **188 gp 4 sp**) — the Greater potion was drunk in yesterday's fight. Now all four hold one regular potion each again.
+- West to Alden: The Golden Sheaf (−2 gp → **186 gp 4 sp**).
+
+## December 21 (Day 99) — Barrow Hill, watching for the blue lights
+
+- Half a day's walk to Barrow Hill; the village's one small inn.
+- A night stakeout on the mound (Pass without Trace; Cinder sent up onto the mound). After midnight, **two blue lights** seeped out of the mound itself and lingered longest over the sealed chamber.
+
+## December 22 (Day 100) — the wight of King Wulfgar
+
+- The sealed chamber's slab was dug free by day and opened at night. **King Wulfgar's wight** came out — and stopped dead at the **ring of boundary stones about 600 ft from the mound**: it cannot come past it. In the shooting match across the boundary, Karin's crossbow finished it. **XP +175 each → 4,842 / 6,500.**
+- Chamber 3 loot: coins **38 gp** (→ **224 gp 4 sp**), a silver torc (about 25 gp), amber beads (about 10 gp), a bronze mirror (about 5 gp), an iron circlet (about 20 gp), a longsword, a longbow, and a **silvered spear (→ Karin's main weapon)**. Everything but the coins was hidden in the grave-robbers' tunnel.
+- In the village, the party played dumb.
+
+## December 23 (Day 101) — the wight of King Cerdic, and the end of the blue lights
+
+- Chamber 2 was opened, and **King Cerdic's wight** was killed — Noel's **Web** held it while Karin's silver spear and Noel's Magic Missiles did the work. Nobody was hurt. **XP +175 each → 5,017 / 6,500.**
+- Chamber 2 loot: a pot of coins (about 30 gp), silver arm-rings (about 15 gp), a bronze war horn (about 10 gp), a bronze circlet (about 15 gp), a signet ring (about 10 gp), a longsword, a longbow — hidden in the tunnel with the rest.
+- Chamber 1 had been robbed long ago, by professionals. A bronze cauldron (about 8 gp, 50 lb) was left behind; only an overlooked **gold armband (about 12 gp)** was taken.
+- **All three chamber doors were left wide open** as the party went down the hill. That night, the two blue lights came, looked in at each open door in turn, and **went out before dawn — the old kings' watch is over**.
+
+## December 24 (Day 102) — Barrow Hill, a rest day
+
+- Midday, at the inn: a long session of his mouth on Karin [Cunnilingus: Karin] (not counted).
+- The night watch saw no lights either. The mound's watch is over, for good.
+
+## December 25 (Day 103) — word to the village
+
+- The village was told only that the blue lights will never come again; asked what the party had done, Punya said only "we defeated them" (nothing about the loot).
+- In a field, sex with Wren, standing, from behind [Sex: Wren], inside (→ Wren 25). A shepherd saw them.
+
+## December 26 (Day 104) — the treasure recovered; to Greywall
+
+- Before dawn, in the dark, all the hidden treasure was carried out. The coin pot, **+30 gp** (→ **254 gp 4 sp**).
+- The village inn settled (five nights, meals in, **−2 gp 7 sp** → **251 gp 7 sp**).
+- Off to Greywall. A road inn (−1 gp 4 sp → **250 gp 3 sp**).
+
+## December 27 (Day 105) — Greywall again
+
+- Reached Greywall in the evening. The Ferryman's Rest (−1 gp 3 sp → **249 gp**).
+
+## December 28 (Day 106) — the barrow loot sold; the tax-silver escort
+
+- Sold: the antiques and jewelry to Aubin for **122 gp** (the silver torc 25, the iron circlet 20, the bronze circlet 15, the silver arm-rings 15, the gold armband 12, the amber beads 10, the bronze war horn 10, the signet ring 10, the bronze mirror 5), and the weapons at half list for **64 gp** (two longswords 14, two longbows 50) — **+186 gp** in all (→ **435 gp**). The only thing kept was Karin's silvered spear.
+- A board job: the **tax-silver escort to Brookfield (10 gp)**. Delivered to Father Tolan the same day, **+10 gp** (→ **445 gp**). The temple guest room and food were free.
+- Night, in the temple guest room: sex with Wren [Sex: Wren], inside (→ Wren 26).
+
+## December 29 (Day 107) — the griffons
+
+- Tolan's two rumors: (1) a griffon took a hunter's mule from the crags north of Brookfield; (2) will-o'-wisps at a sunken chapel south of the ford (still unlooked-into).
+- The village lent its oldest grey mule as bait. It was tied at the pasture where the first mule was taken, and the party hid in the stone barn (Pass without Trace).
+- One griffon came and killed the mule. The surprise volley did **42 damage (→ 17 HP left)**; it fled. Punya's long shot hit for **6 (→ 11 HP left)**, and it escaped to the nest.
+- The party tracked it at once (Wren's Survival 18, blood in the snow). At dusk, at the crags — Wren cast Darkvision on Punya and Karin — the mate attacked. Five rounds: Punya shot the wounded one dead; the mate dropped Punya twice, and Wren's Healing Word raised him both times; Noel's Web held the mate; and in the end Punya's long-range shot at disadvantage (6 damage) killed it as it fled. **XP +225 each → 5,242 / 6,500.**
+- The nest: the first mule's remains, and a weathered traveler's pouch — coins **7 gp 12 sp** (→ **453 gp 2 sp**) and a **silver locket (about 5 gp, kept)**. The party camped at the crags.
+- Night: sex with Noel [Sex: Noel], inside (→ Noel 17) — before that, she had pointed out the imbalance in the counts: "not fair".
+
+## December 30 (Day 108) — Brookfield's feast; back to Greywall
+
+- Morning: sex with Karin [Sex: Karin], inside (→ Karin 17).
+- Both griffon heads were cut off as proof. Back in Brookfield, the village feasted the party, and the hunters shared smoked meat and wine.
+- Tolan knew the locket: its owner was **Tam**, a peddler who vanished three years ago. His family is in Greywall.
+- The party walked to Greywall and arrived after dark. The Ferryman's Rest (−1 gp 3 sp → **451 gp 9 sp**).
+
+## December 31 (Day 109) — Mira, the board, and a shopping scout
+
+- Morning: sex with Wren [Sex: Wren], inside (→ Wren 27). Then sex with Noel [Sex: Noel], inside (→ Noel 18) — Noel was jealous.
+- The party called at Tam's house by the south gate and returned the silver locket to his widow **Mira** (38). She wept, and pressed **2 gp** on Punya (→ **453 gp 9 sp**) — money she had saved for whoever brought her news of Tam.
+- The board was checked (the widow of Tanner's Row is a different widow from Tam's — confirmed).
+- The three were sent to scout the shops (nothing bought): alchemist's fire ×2 (50 gp each), a Potion of Healing (50 gp), a silvered shortsword (115 gp), a Hold Person scroll plus copying it (250 gp), a horse and cart (65 gp — Karin is keen).
+- Meanwhile Punya visited Mira alone — his persuasion won, and they had sex three times that afternoon [Sex: Mira] [Sex: Mira] [Sex: Mira].
+- At the evening meeting, Karin smelled another house on him ("Not a dog. A woman"). Noel wrote in her list, saying nothing.
+- Night at the inn: sex with Karin, Noel, and Wren, in that order [Sex: Karin] [Sex: Noel] [Sex: Wren], all inside (→ Karin 18 / Noel 19 / Wren 28).
+- The Ferryman's Rest (−1 gp 3 sp → **452 gp 6 sp**).
+
+## January 1 (Day 110) — New Year, and Hanna's house
+
+- Morning: "Happy New Year" sex with all three [Sex: Karin] [Sex: Noel] [Sex: Wren], all inside (→ Karin 19 / Noel 20 / Wren 29).
+- In the afternoon, the party took the **widow's house on Tanner's Row (8 gp)**. The client is **Hanna** (26), the widow of Colm the tanner.
+- The night stakeout (watch only): Wren outside on Spider Climb, Noel at the back of the workshop, Karin hidden in the cellar, and Punya upstairs as Hanna's bodyguard.
+- About 1 am, a scratching from the cellar. The drain grate shifted, and a **carrion crawler** put its tentacles and head in — but smelled the hidden Karin and withdrew. Nothing more came that night.
+- With the frightened Hanna, Punya used his mouth [Cunnilingus: Hanna], then sex three times [Sex: Hanna] [Sex: Hanna] [Sex: Hanna], with fellatio in between [Fellatio: Hanna].
+- The Ferryman's Rest (−1 gp 3 sp → **451 gp 3 sp**).
+
+## January 2 (Day 111) — the crawler fixed at the root; the snow wolves
+
+- Noel named the thing from Karin's description: a **carrion crawler**.
+- Punya's plan, put to Hanna: the crawler is a timid scavenger, and the only real danger is the drain. Killing this one will not stop the next — **the root fix is a thick bolted iron grate with a heavy hinged lid on the drain, and keeping the cellar clean**. Hanna agreed at once (the smith comes tomorrow; the scraps go out of the cellar) and paid the agreed **8 gp** (→ **459 gp 3 sp**). **XP: +50 for this job, and +50 back-paid for the Brookfield escort → 5,342 / 6,500 each.**
+- Evening: the party took the **snow-wolf job (12 gp)** and went to **Ralf's sheep farm** at Greywall's north edge. Four live chickens as bait (**−8 cp** → **459 gp 2 sp 2 cp**) — all four were eaten.
+- The chickens were tethered in the sheep pen, and the party hid in the stone barn (Pass without Trace). A winter wolf and five wolves came. Noel's hiding was broken by scent and the ambush fell apart, but after a ten-round fight every wolf was overcome (one wolf fled the field — counted as overcome). Wren's Healing Words raised the fallen again and again, and everyone lived. **XP +287 each → 5,629 / 6,500.**
+- The party stayed the night at Ralf's, free. No sex.
+
+## January 3 (Day 112) — the white pelt, and a rest day
+
+- Morning: a long rest restored everyone fully. The white pelt was shown as proof at the board office, and the **12 gp** claimed (→ **471 gp 2 sp 2 cp**).
+- A rest day, everyone apart: Karin trained and went to the market; Wren visited the temple garden and the herb shop (**restocked 20 arrows and 20 bolts, −2 gp** → **469 gp 2 sp 2 cp**); Noel bought paper and put her records and her list in order.
+- Punya visited Hanna: he checked the new grate himself (thick iron, bolted down, with a heavy hinged lid — it does not move when rattled). The fleshing scraps had been moved to a lidded barrel by the back door. Then she locked the shop, and upstairs they had sex twice [Sex: Hanna] [Sex: Hanna] (the first finished in her mouth, the second inside). At parting, they told each other "I love you".
+- Evening: a replacement **Potion of Healing for Noel (−50 gp** → **419 gp 2 sp 2 cp**) — hers was drunk in the wolf fight. The inn (−1 gp 3 sp → **417 gp 9 sp 2 cp**).
+
+## January 4 (Day 113) — the salt-wagon job
+
+- The party took salt merchant **Wilkes's** job (12 gp): his salt wagon left Alden on the morning of December 27, with driver **Piers** and guard **Sten** aboard, due in Greywall on December 29 — now six days overdue.
+- Walking south: Berric's mill and two farms had seen nothing. At **Ned's farm**, 15 miles south: his son **Fenn** saw the wagon pass on the afternoon of December 28 and waved; that evening, a snow squall hit the hills.
+- The wagon was lost somewhere in the 15-mile hill stretch between Ned's farm and Greywall, off the road. The party stayed the night at Ned's, free.
+
+## January 5 (Day 114) — the rescue in the gully
+
+- Morning: the party searched the steepest stretch, but Wren's Survival failed — eight days of snow had buried the signs.
+- Wren asked the crows (Speak with Animals): "big meat (a horse) under the hill, past the bent pines" — and a warning about the **"feather-bear"** that guards it.
+- The crows led them to a bend about 9 miles south of Greywall. Forty feet below the road, in a gully: the tilted wagon (a broken wheel; a tarp rigged as a shelter), a half-eaten dead horse, and **both men alive** — **Piers** with a broken leg (well splinted, a mild fever), **Sten** with frostnipped fingers. The second horse was alive, down-gully. Across the gully, in the rocks, an owlbear's den.
+- The descent: Wren went down with Spider Climb, Karin by rope; Punya followed by rope but slipped on ice and slid down with a crash (**−1 HP, 27 → 26**). Noel stayed up on the road.
+- The noise woke the owlbear. It came to the carcass, tested the frozen party, then chose the carcass and **ate for about an hour**. Nobody moved; in the end it dragged the bones to its hollow and slept.
+- The rescue: Wren healed Piers (Cure Wounds, 12). Noel cast **Levitate three times** (Piers, Sten, Punya — all three of her 2nd-level slots). Sten's rope climb failed, and Punya's rope climb failed too; the second noise woke the owlbear, and its leaping claw hit the rising Punya (**14 damage → HP 12**). Everyone reached the road.
+- Night: camp by the road. In front of Sten, Punya had sex with Karin to show off [Sex: Karin], inside (→ Karin 20).
+
+## January 6 (Day 115) — the horse brought out; back to Greywall
+
+- Morning: Wren and Karin walked the gully bottom and led the surviving horse out (the sleeping owlbear stirred, but did not wake).
+- Meanwhile, at the camp, in front of Sten, Punya had sex with Noel [Sex: Noel], inside (→ Noel 21).
+- Piers rode the horse to Greywall; at the temple, his leg was set properly.
+- The report to Wilkes: both men alive, one horse recovered, the salt still in the gully (with the place, and the owlbear warning). **12 gp** was paid (→ **429 gp 9 sp 2 cp**). **XP +50 each → 5,679 / 6,500.**
+- Afternoon, free time: in the temple sickroom, in front of Sten, Punya had sex with Wren [Sex: Wren], inside (→ Wren 30).
+- Punya visited Mira alone: sex once [Sex: Mira], inside. A deep kiss at parting.
+- Evening: dinner, all four together, at The Ferryman's Rest.
+
+## January 7 (Day 116), morning — Greywall; the salt-recovery guard job taken
+
+- Morning: his mouth on Karin [Cunnilingus: Karin] (not counted), then sex [Sex: Karin], inside (→ Karin 21).
+- The board: the party accepted **Wilkes's salt-recovery guard job (18 gp)**. The repair crew goes into the gully on January 9, under foreman **Garv**. Ten dressed chickens were bought as the owlbear's feed (**−2 sp** → **429 gp 7 sp 2 cp**).
+- January 7–8 are free days.
+
+## Where things stand: January 7 (Day 116), morning — Greywall
+
+- **Level 4, XP 5,679 / 6,500 each (821 to Level 5). Purse 429 gp 7 sp 2 cp. Counts: Karin 21 / Noel 21 / Wren 30 (all the companions' intercourse was inside). Others: Mira 4, Hanna 5. Punya's arrows: 27; Karin's bolts: 38.** Holy water: two flasks (Noel's and Punya's). Potions: one Potion of Healing each (Punya's Greater potion was drunk on Dec 19 and a regular one bought on Dec 20; Noel's was replaced on Jan 3). The Healer's Kit has 9 uses left. A long rest was taken — all HP, spell slots and Ki restored.
+- Jobs done: the lighthouse harpies (Dec 19, 12 gp); the two wights of the Long Barrow (Dec 22–23; the loot was sold on Dec 28 for +186 gp); the tax-silver escort (Dec 28, 10 gp); the Brookfield griffons (Dec 29, no fee — the village lent the bait mule); the widow's house (settled Jan 2, 8 gp); the snow wolves (Jan 3, 12 gp); the salt wagon found and its men rescued (Jan 6, 12 gp).
+- In progress: guarding the salt-recovery crew (18 gp; into the gully on January 9 with Garv's repair crew).
+- Open work: in Greywall — two men of stone in Colley's quarry (20 gp), the ruined watchtower on the north road (15 gp), the temple's medicine delivery (10 gp). The Ravenport papers: the empty fishing boat (10 gp), the wreck on the north rocks (15 gp), the sick ship at anchor (10 gp), and the rumor of the sahuagin's main nest offshore. Brookfield's rumor: will-o'-wisps at the sunken chapel south of the ford.
+- The hill rescue stays **on hold until Level 5** (821 XP to go). The signal link, and the talk with Tansy, are confirmed (November 21).
 
 ## The three girls — a record, to be fair to all
 
@@ -1027,12 +1175,14 @@ From before this story, all three are Punya's lovers, and all three have been cl
 
 | Who | Times | Inside | Record |
 |---|---|---|---|
-| Wren | 15 | 15 | Sep 15: the promise was made (for Speak with Animals). Sep 16 night: kept (first). Oct 6 morning: kept again — "Even. Now we are even". Oct 7, before dawn: her reward for the wererat job — "Good job, Wren. I love you" [Sex: Wren]. Oct 14 morning: paid again, second in the fairness round — Wren 4, Karin 3, Noel 3 [Sex: Wren]; later that morning, his mouth [Cunnilingus: Wren] (not counted). Oct 17 night: first in the round at the Ferryman's Rest, after the deserters job [Sex: Wren]. Oct 18 morning: first again [Sex: Wren]. Nov 1 afternoon: the promised reward for her three nights of wolf work — paid in full, deep inside as sworn [Sex: Wren]. Noel's book: "Wren runs ahead. Again". Nov 11 night: the settlement night at Reedham [Sex: Wren]. Nov 14 night: the last of the road-home rotation — the night the party reached Greywall [Sex: Wren]. Nov 23 night: at The Drunken Eel in Ravenport [Sex: Wren] — his mouth first [Cunnilingus: Wren] (not counted). All three even at 10. Nov 27 morning: his mouth at the Greywall inn [Cunnilingus: Wren] (not counted). Nov 29 morning: at the Brookfield inn, before breakfast [Sex: Wren]. Dec 1 morning: at Colley's quarry, before breakfast [Sex: Wren]. The same midday: his mouth in the back of the board office [Cunnilingus: Wren] (not counted). That night: on the inn's back landing [Sex: Wren]. Dec 3 morning: his mouth behind the cart on the road [Cunnilingus: Wren] (not counted). Dec 4 morning: at Alden — after his sorry for the day before [Sex: Wren]. Dec 5 night: his mouth, before the early bed for the cave plan [Cunnilingus: Wren] (not counted). Dec 6: after the cave job [Sex: Wren]. Dec 9 morning: at the road inn, he licked her armpit, then his mouth [Cunnilingus: Wren] (not counted). Dec 15 afternoon: at the inn, she won the losers' round of rock-paper-scissors — his mouth [Cunnilingus: Wren] (not counted). The same dusk: at the farm, after the boar died, his mouth again [Cunnilingus: Wren] (not counted) |
-| Noel | 16 | 16 | Every morning (Sep 15, 16, 17) Punya woke in her boobs. Sep 15: she took charge of the List. Sep 16 night: kept (second). She closed the list with one clean line. Oct 4 evening: she tended Punya's fever (not counted). Oct 5: she noted, dry as paper, that Wren leads the count — and she keeps the list. Oct 8 night: her reward for the wisp — "I nearly died for those missiles" [Sex: Noel]. Oct 14 morning: her arrears paid first — "I am fair, Noel" [Sex: Noel]; later that morning, his mouth [Cunnilingus: Noel] (not counted). Oct 15 dawn: he woke in her boobs, found her behind again, and paid at once — first his mouth [Cunnilingus: Noel], then [Sex: Noel]. Her book: "Wren 4. Karin 4. Noel 4. Perfectly even". Oct 17 night: second in the round, her book closed for once [Sex: Noel]. Oct 18 morning: second again — her book: "Wren 6. Karin 6. Noel 6. Even, again" [Sex: Noel]. Nov 9 night: the first night at Reedham [Sex: Noel]. Nov 12 night: the first of the road-home rotation [Sex: Noel]. Nov 17 midday: she had the lowest count, so [Sex: Noel] — all three at 9, side by side. Nov 22 night: after the manticore [Sex: Noel]. Nov 24 night: at Alden, his mouth only [Cunnilingus: Noel] (not counted) — "we continue tomorrow night". Nov 25 night: the continuation, at the road inn [Sex: Noel]. Nov 27 night: his mouth only, at the Brookfield inn [Cunnilingus: Noel] (not counted). Nov 30 morning: his mouth at the Greywall inn [Cunnilingus: Noel] (not counted). Dec 1 midday: in the back of the board office [Sex: Noel] — all three even at 12. Dec 2 night: at the road inn [Sex: Noel] — all three even at 13. Dec 5 morning: his mouth at Ravenport [Cunnilingus: Noel] (not counted). Dec 6: after the cave job [Sex: Noel]. Dec 7 morning: his mouth [Cunnilingus: Noel] (not counted). That night at Alden: his mouth only again [Cunnilingus: Noel] (not counted). Dec 8 morning: after waking [Sex: Noel] — all three even at 15. Dec 16 morning: in the middle of the street outside the inn in Greywall, standing, from behind [Sex: Noel] |
-| Karin | 16 | 16 | Sep 15: she asked for her share too, and wrote "Tomorrow" on her hand. Sep 16 night: kept (third). Oct 5: the rest day at the Eel — oral only ("Best medicine in Ravenport"); written here but NOT counted. Oct 9 night: her reward for the owlbear — "Took you long enough, old man" [Sex: Karin]. Oct 13 night: her reward for killing Pike in Rask's shack [Sex: Karin]. Oct 14 morning: [Cunnilingus: Karin] — written here, NOT counted; her fourth stayed owed. Oct 14 night: the promised fourth, collected at the Ferryman's Rest [Sex: Karin]. Oct 17 night: last in the round — she laughed once, then she was not laughing [Sex: Karin]. Oct 18 morning: last again, wide awake and grinning [Sex: Karin]. Nov 10 night: at Reedham [Sex: Karin] — the next morning, Noel's "All even, again" (7/7/7). Nov 13 night: the road-home rotation [Sex: Karin]. Nov 16 night: after the rooftop thief job, a dice roll chose between Karin and Noel, and it came up Karin [Sex: Karin]. Nov 21 night: after the signal test [Sex: Karin]. Nov 26 night: after the strongroom job, his mouth [Cunnilingus: Karin] (not counted). Nov 28 night: his mouth again, at the Brookfield inn [Cunnilingus: Karin] (not counted). Nov 29 night: at The Ferryman's Rest in Greywall [Sex: Karin]. Nov 30 morning: again, before breakfast [Sex: Karin]. Dec 1 afternoon: his mouth at the inn [Cunnilingus: Karin] (not counted). That night: on the inn's back landing [Sex: Karin]. Dec 3 morning: his mouth at the road inn [Cunnilingus: Karin] (not counted). Dec 4 night: at Ravenport, her Machine-Gun Cowgirl [Sex: Karin]. Dec 6 morning: he licked her bitten arm, then his mouth [Cunnilingus: Karin] (not counted). The same day: after the cave job [Sex: Karin]. Dec 10 morning: his mouth only, in Greywall [Cunnilingus: Karin] (not counted). Dec 15 afternoon: at the inn, she won the rock-paper-scissors [Sex: Karin] |
+| Wren | 30 | 30 | Sep 15: the promise was made (for Speak with Animals). Sep 16 night: kept (first). Oct 6 morning: kept again — "Even. Now we are even". Oct 7, before dawn: her reward for the wererat job — "Good job, Wren. I love you" [Sex: Wren]. Oct 14 morning: paid again, second in the fairness round — Wren 4, Karin 3, Noel 3 [Sex: Wren]; later that morning, his mouth [Cunnilingus: Wren] (not counted). Oct 17 night: first in the round at the Ferryman's Rest, after the deserters job [Sex: Wren]. Oct 18 morning: first again [Sex: Wren]. Nov 1 afternoon: the promised reward for her three nights of wolf work — paid in full, deep inside as sworn [Sex: Wren]. Noel's book: "Wren runs ahead. Again". Nov 11 night: the settlement night at Reedham [Sex: Wren]. Nov 14 night: the last of the road-home rotation — the night the party reached Greywall [Sex: Wren]. Nov 23 night: at The Drunken Eel in Ravenport [Sex: Wren] — his mouth first [Cunnilingus: Wren] (not counted). All three even at 10. Nov 27 morning: his mouth at the Greywall inn [Cunnilingus: Wren] (not counted). Nov 29 morning: at the Brookfield inn, before breakfast [Sex: Wren]. Dec 1 morning: at Colley's quarry, before breakfast [Sex: Wren]. The same midday: his mouth in the back of the board office [Cunnilingus: Wren] (not counted). That night: on the inn's back landing [Sex: Wren]. Dec 3 morning: his mouth behind the cart on the road [Cunnilingus: Wren] (not counted). Dec 4 morning: at Alden — after his sorry for the day before [Sex: Wren]. Dec 5 night: his mouth, before the early bed for the cave plan [Cunnilingus: Wren] (not counted). Dec 6: after the cave job [Sex: Wren]. Dec 9 morning: at the road inn, he licked her armpit, then his mouth [Cunnilingus: Wren] (not counted). Dec 15 afternoon: at the inn, she won the losers' round of rock-paper-scissors — his mouth [Cunnilingus: Wren] (not counted). The same dusk: at the farm, after the boar died, his mouth again [Cunnilingus: Wren] (not counted). Dec 25: in a field at Barrow Hill, standing, from behind [Sex: Wren]. Dec 28 night: in the temple guest room at Brookfield [Sex: Wren]. Dec 31 morning [Sex: Wren]; that night, third in the round [Sex: Wren]. Jan 1 morning: the New Year sex [Sex: Wren]. Jan 6 afternoon: in the temple sickroom in Greywall, in front of Sten [Sex: Wren] |
+| Noel | 21 | 21 | Every morning (Sep 15, 16, 17) Punya woke in her boobs. Sep 15: she took charge of the List. Sep 16 night: kept (second). She closed the list with one clean line. Oct 4 evening: she tended Punya's fever (not counted). Oct 5: she noted, dry as paper, that Wren leads the count — and she keeps the list. Oct 8 night: her reward for the wisp — "I nearly died for those missiles" [Sex: Noel]. Oct 14 morning: her arrears paid first — "I am fair, Noel" [Sex: Noel]; later that morning, his mouth [Cunnilingus: Noel] (not counted). Oct 15 dawn: he woke in her boobs, found her behind again, and paid at once — first his mouth [Cunnilingus: Noel], then [Sex: Noel]. Her book: "Wren 4. Karin 4. Noel 4. Perfectly even". Oct 17 night: second in the round, her book closed for once [Sex: Noel]. Oct 18 morning: second again — her book: "Wren 6. Karin 6. Noel 6. Even, again" [Sex: Noel]. Nov 9 night: the first night at Reedham [Sex: Noel]. Nov 12 night: the first of the road-home rotation [Sex: Noel]. Nov 17 midday: she had the lowest count, so [Sex: Noel] — all three at 9, side by side. Nov 22 night: after the manticore [Sex: Noel]. Nov 24 night: at Alden, his mouth only [Cunnilingus: Noel] (not counted) — "we continue tomorrow night". Nov 25 night: the continuation, at the road inn [Sex: Noel]. Nov 27 night: his mouth only, at the Brookfield inn [Cunnilingus: Noel] (not counted). Nov 30 morning: his mouth at the Greywall inn [Cunnilingus: Noel] (not counted). Dec 1 midday: in the back of the board office [Sex: Noel] — all three even at 12. Dec 2 night: at the road inn [Sex: Noel] — all three even at 13. Dec 5 morning: his mouth at Ravenport [Cunnilingus: Noel] (not counted). Dec 6: after the cave job [Sex: Noel]. Dec 7 morning: his mouth [Cunnilingus: Noel] (not counted). That night at Alden: his mouth only again [Cunnilingus: Noel] (not counted). Dec 8 morning: after waking [Sex: Noel] — all three even at 15. Dec 16 morning: in the middle of the street outside the inn in Greywall, standing, from behind [Sex: Noel]. Dec 29 night: at the crag camp [Sex: Noel] — after she had raised her fairness complaint. Dec 31 morning, with jealous Noel [Sex: Noel]; that night, second in the round [Sex: Noel]. Jan 1 morning: the New Year sex [Sex: Noel]. Jan 6 morning: at the road camp, shown off in front of Sten [Sex: Noel] |
+| Karin | 21 | 21 | Sep 15: she asked for her share too, and wrote "Tomorrow" on her hand. Sep 16 night: kept (third). Oct 5: the rest day at the Eel — oral only ("Best medicine in Ravenport"); written here but NOT counted. Oct 9 night: her reward for the owlbear — "Took you long enough, old man" [Sex: Karin]. Oct 13 night: her reward for killing Pike in Rask's shack [Sex: Karin]. Oct 14 morning: [Cunnilingus: Karin] — written here, NOT counted; her fourth stayed owed. Oct 14 night: the promised fourth, collected at the Ferryman's Rest [Sex: Karin]. Oct 17 night: last in the round — she laughed once, then she was not laughing [Sex: Karin]. Oct 18 morning: last again, wide awake and grinning [Sex: Karin]. Nov 10 night: at Reedham [Sex: Karin] — the next morning, Noel's "All even, again" (7/7/7). Nov 13 night: the road-home rotation [Sex: Karin]. Nov 16 night: after the rooftop thief job, a dice roll chose between Karin and Noel, and it came up Karin [Sex: Karin]. Nov 21 night: after the signal test [Sex: Karin]. Nov 26 night: after the strongroom job, his mouth [Cunnilingus: Karin] (not counted). Nov 28 night: his mouth again, at the Brookfield inn [Cunnilingus: Karin] (not counted). Nov 29 night: at The Ferryman's Rest in Greywall [Sex: Karin]. Nov 30 morning: again, before breakfast [Sex: Karin]. Dec 1 afternoon: his mouth at the inn [Cunnilingus: Karin] (not counted). That night: on the inn's back landing [Sex: Karin]. Dec 3 morning: his mouth at the road inn [Cunnilingus: Karin] (not counted). Dec 4 night: at Ravenport, her Machine-Gun Cowgirl [Sex: Karin]. Dec 6 morning: he licked her bitten arm, then his mouth [Cunnilingus: Karin] (not counted). The same day: after the cave job [Sex: Karin]. Dec 10 morning: his mouth only, in Greywall [Cunnilingus: Karin] (not counted). Dec 15 afternoon: at the inn, she won the rock-paper-scissors [Sex: Karin]. Dec 24 midday: a long session of his mouth at the Barrow Hill inn [Cunnilingus: Karin] (not counted). Dec 30 morning [Sex: Karin]. Dec 31 night, first in the round [Sex: Karin]. Jan 1 morning: the New Year sex [Sex: Karin]. Jan 5 night: at the road camp, shown off in front of Sten [Sex: Karin]. Jan 7 morning: his mouth [Cunnilingus: Karin] (not counted), then [Sex: Karin] |
+| Mira | 4 | 4 | Dec 31 afternoon: Punya visited her alone on the day he returned the locket — three times [Sex: Mira]. Jan 6 afternoon: visited again — once [Sex: Mira], inside; a deep kiss at parting |
+| Hanna | 5 | 4 | Jan 1 night: on the stakeout, upstairs — his mouth [Cunnilingus: Hanna], sex three times [Sex: Hanna], and fellatio in between [Fellatio: Hanna]. Jan 3 afternoon: after he checked the new drain grate, twice [Sex: Hanna] (the first finished in her mouth, the second inside). They told each other "I love you" |
 
 *Tags in the day records: **[Sex: Name]** = intercourse, **[Fellatio: Name]** = her mouth on Punya, **[Cunnilingus: Name]** = Punya's mouth on her.
-*The count is only for the days in this record (from Sep 14). The time before the story is not counted, because no one kept a record of it. Counting rule (set Oct 6): **Times counts intercourse only** — licking, rubbing and the like are written in the Record but not counted. **Inside** counts the times Punya finished inside her. Every act of intercourse so far was inside*
+*The count is only for the days in this record (from Sep 14). The time before the story is not counted, because no one kept a record of it. Counting rule (set Oct 6): **Times counts intercourse only** — licking, rubbing and the like are written in the Record but not counted. **Inside** counts the times Punya finished inside her. Nearly every act of intercourse so far was inside (the one exception: Hanna, Jan 3, her first that day, finished in her mouth). Mira and Hanna are partners outside the party; the same counting rule applies to them (intercourse only)*
 
 ## The purse (main moves)
 
@@ -1103,3 +1253,15 @@ From before this story, all three are Punya's lovers, and all three have been cl
 - After: **204 gp 8 sp** (Dec 15: the otyugh settlement fee +20 gp)
 - After: **216 gp 8 sp** (Dec 15 dusk: the great boar's fee +12 gp)
 - After: **215 gp 5 sp** (Dec 15 night: the Ferryman's Rest −1 gp 3 sp)
+- After: **210 gp 1 sp** (Dec 16: a road inn −1 gp 4 sp / Dec 17: the Golden Sheaf −2 gp / Dec 18: The Drunken Eel −2 gp) — **after: 210 gp 1 sp**
+- After: **218 gp 4 sp** (Dec 19: three chickens and earplugs −1 sp, the harpy nest coins +9 gp 14 sp, The Drunken Eel −2 gp) — **after: 218 gp 4 sp**
+- After: **186 gp 4 sp** (Dec 20: the lighthouse fee +12 gp, the mirror and earring sold +8 gp, a Potion of Healing −50 gp, the Golden Sheaf −2 gp) — **after: 186 gp 4 sp**
+- After: **224 gp 4 sp** (Dec 22: the barrow's third-chamber coins +38 gp) — **after: 224 gp 4 sp**
+- After: **249 gp** (Dec 26: the coin pot +30 gp, the Barrow Hill inn settled −2 gp 7 sp, a road inn −1 gp 4 sp / Dec 27: the Ferryman's Rest −1 gp 3 sp) — **after: 249 gp**
+- After: **445 gp** (Dec 28: the barrow loot sold +186 gp, the tax-silver escort fee +10 gp) — **after: 445 gp**
+- After: **451 gp 9 sp** (Dec 29: the griffon nest coins +7 gp 12 sp / Dec 30: the Ferryman's Rest −1 gp 3 sp) — **after: 451 gp 9 sp**
+- After: **452 gp 6 sp** (Dec 31: Mira's news money +2 gp, the Ferryman's Rest −1 gp 3 sp) — **after: 452 gp 6 sp**
+- After: **451 gp 3 sp** (Jan 1: the Ferryman's Rest −1 gp 3 sp) — **after: 451 gp 3 sp**
+- After: **459 gp 2 sp 2 cp** (Jan 2: Hanna's fee +8 gp, four live chickens −8 cp) — **after: 459 gp 2 sp 2 cp**
+- After: **417 gp 9 sp 2 cp** (Jan 3: the snow-wolf fee +12 gp, arrows and bolts −2 gp, a Potion of Healing −50 gp, the Ferryman's Rest −1 gp 3 sp) — **after: 417 gp 9 sp 2 cp**
+- After: **429 gp 7 sp 2 cp** (Jan 6: Wilkes's salt-wagon fee +12 gp / Jan 7: ten dressed chickens −2 sp) — **after: 429 gp 7 sp 2 cp**
