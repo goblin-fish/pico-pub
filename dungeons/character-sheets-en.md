@@ -152,7 +152,7 @@ How they act (set 2026-11-08): in the daytime, Karin and Wren always take the pl
 
 ## Sex Partners
 
-### Mira, Tam's Widow
+### Mira (Tam's Widow)
 
 - Age 38. She lives alone in a small house near the south gate of Greywall
 - Appearance: Height 165 cm (about the same as Karin, a little taller)
@@ -160,7 +160,7 @@ How they act (set 2026-11-08): in the daytime, Karin and Wren always take the pl
 - On Dec 31, Punya brought her the silver locket from the griffon's nest and told her Tam was dead. She gave Punya 2 gp — money she saved for the person who brought her news of Tam
 - That afternoon, Punya visited her alone, and they had sex 3 times. She is now Punya's pleasure in Greywall
 
-### Hanna, the Widow of Tanner's Row
+### Hanna (the Widow of Tanner's Row)
 
 - Age 26. She runs her late husband's tannery on Tanner's Row in Greywall, alone
 - Appearance: Height 158 cm (between Noel and Karin)

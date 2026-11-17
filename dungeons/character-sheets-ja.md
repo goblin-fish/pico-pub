@@ -154,7 +154,7 @@ D&D 5e（2014 Basic Rules）/ DM: Pico
 
 ## セックスパートナー
 
-### Tam の未亡人（Mira）
+### Mira（Tam の未亡人）
 
 - 38歳。Greywall の南門近くの小さな家に一人で住む
 - 外見: 身長 165 cm（Karin とほぼ同じで、少しだけ高い）
