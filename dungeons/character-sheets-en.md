@@ -159,3 +159,10 @@ How they act (set 2026-11-08): in the daytime, Karin and Wren always take the pl
 - Her husband Tam was a peddler. A griffon killed him 3 years ago in the hills north of Brookfield, and no one knew what happened to him
 - On Dec 31, Punya brought her the silver locket from the griffon's nest and told her Tam was dead. She gave Punya 2 gp — money she saved for the person who brought her news of Tam
 - That afternoon, Punya visited her alone, and they had sex 3 times. She is now Punya's pleasure in Greywall
+
+### Hanna, the Widow of Tanner's Row
+
+- Age 26. She runs her late husband's tannery on Tanner's Row in Greywall, alone
+- Appearance: Height 158 cm (between Noel and Karin)
+- Her husband Colm, a tanner, died of a fever last spring. The party came to her house for the night-noises job (8 gp) — the noises are a carrion crawler that comes up from the drain under her cellar
+- On the night of Jan 1, Punya guarded her upstairs on the stakeout — and they had sex 3 times
