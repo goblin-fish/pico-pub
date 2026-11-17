@@ -149,3 +149,15 @@ D&D 5e（2014 Basic Rules）/ DM: Pico
 - Weapons: Quarterstaff
 - Equipment: **聖水の小瓶**（10/14 に聖堂から）、**Potion of Healing ×1**（10/18 に購入）
 - Languages: Common、Draconic（Sage の枠。書物で学んだ。リザードフォークの言葉でもある）、ほか2つ未選択（Human の追加1つ + Sage の1つ）
+
+---
+
+## セックスパートナー
+
+### Tam の未亡人（Mira）
+
+- 38歳。Greywall の南門近くの小さな家に一人で住む
+- 外見: 身長 165 cm（Karin とほぼ同じで、少しだけ高い）
+- 夫 Tam は行商人。3年前、Brookfield の北の岩山でグリフォンに殺され、行方知れずのままだった
+- 12/31、Punya がグリフォンの巣で見つけた銀のロケットを届け、Tam の死を知らせた。彼女は「知らせを持ってきてくれた人のため」に貯めていた 2 gp を Punya に渡した
+- 同日の午後、Punya が一人で訪ね、関係を持った（3回）。Greywall における Punya の楽しみになった

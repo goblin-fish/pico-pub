@@ -147,3 +147,15 @@ How they act (set 2026-11-08): in the daytime, Karin and Wren always take the pl
 - Weapons: Quarterstaff
 - Equipment: **a flask of holy water** (from the temple, Oct 14), **Potion of Healing ×1** (bought Oct 18)
 - Languages: Common, Draconic (her Sage language; learned from books. It is the lizardfolk tongue too), plus 2 more not yet chosen (1 extra Human language + 1 from Sage)
+
+---
+
+## Sex Partners
+
+### Mira, Tam's Widow
+
+- Age 38. She lives alone in a small house near the south gate of Greywall
+- Appearance: Height 165 cm (about the same as Karin, a little taller)
+- Her husband Tam was a peddler. A griffon killed him 3 years ago in the hills north of Brookfield, and no one knew what happened to him
+- On Dec 31, Punya brought her the silver locket from the griffon's nest and told her Tam was dead. She gave Punya 2 gp — money she saved for the person who brought her news of Tam
+- That afternoon, Punya visited her alone, and they had sex 3 times. She is now Punya's pleasure in Greywall
