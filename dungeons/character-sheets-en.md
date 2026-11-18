@@ -171,7 +171,7 @@ How they act (set 2026-11-08): in the daytime, Karin and Wren always take the pl
 - On the afternoon of Jan 3, Punya came to check the finished grate, and they had sex twice (the first finished in her mouth, the second inside). At parting, they told each other "I love you" (5 times in all)
 - On Jan 11, Punya visited her alone with a gift — a set of pure white lingerie (3 gp) — and they had sex 3 times with her wearing it (the first and third finished inside, the second outside over the lingerie). A deep kiss at parting (8 times in all)
 
-### Daisy (the Seamstress)
+### Jill (the Seamstress)
 
 - Age 28. A seamstress who lives alone in her small shop-and-room off the market street in Greywall. No husband
 - On Jan 7 she was being put out of her room: two months' back rent, **4 gp**, owed to her landlord **Master Dodd**. Punya would not carry the rent that day — he took her to The Crown & Bell, fed her, and took a room at The Net & Hook. That night they had sex twice (both inside)
