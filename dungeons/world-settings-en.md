@@ -68,7 +68,7 @@ flowchart LR
   - **The Merchant's House** (up the hill): clean, quiet, and costly (8 sp a person, meals 5 sp). Good beds, bad ears
 - People:
   - **Punya's Criminal Contact**: the one who passed the "special cargo" job to Punya. His identity and true aims are still unknown
-  - **Nina, the keeper of The Drunken Eel** (a fat woman, age 46): she knows Punya from his smuggling days and calls him "the old fox"
+  - **Lily, the keeper of The Drunken Eel** (a fat woman, age 46): she knows Punya from his smuggling days and calls him "the old fox"
   - **Venn** (a cargo broker): his office handled the box with the grey seal. The party has not met him yet. Confirmed Sept 20: the grey seal is Venn's house mark — the signet ring's face is a ring of standing stones. He also brokered the Sept 21 silver run
   - **Pell** (Venn's young clerk): he loaded the box onto Bram's cart with his own hands. He drinks at The Gilded Anchor. Met face-to-face on Sept 20 when he collected the lost ring (reward 5 gp); the party's names are now in Venn's paperwork
   - **Hobb** (the guild's road-master): a scarred ex-guard who assigns the escort work. He has accepted the party as "the road's escort"
@@ -199,7 +199,7 @@ Clues, information, and open hooks from the story, gathered here by place.
 - **The wanted paper** (notice board): "Grave-robbers at the western barrows." By order of Greywall, a reward of 10 gp for true word. A badly drawn face. This may connect to the box: the thing inside may be something stolen from a barrow
 - **The tax paper** (notice board): Greywall's new port taxes (salt, cloth, wine). The merchants are angry — and angry men talk
 - **The Widow's Kiss** (ship): sails tomorrow (September 18) at first light, for the south ports
-- **The keeper of The Drunken Eel**: she knows Punya from his smuggling days and calls him "the old fox". She may be a source by the docks
+- **Lily (The Drunken Eel)**: she knows Punya from his smuggling days and calls him "the old fox". She may be a source by the docks
 
 ### Alden and the east road
 
