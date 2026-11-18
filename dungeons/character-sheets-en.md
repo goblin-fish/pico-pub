@@ -177,3 +177,9 @@ How they act (set 2026-11-08): in the daytime, Karin and Wren always take the pl
 - On Jan 7 she was being put out of her room: two months' back rent, **4 gp**, owed to her landlord **Master Dodd**. Punya would not carry the rent that day — he took her to The Crown & Bell, fed her, and took a room at The Net & Hook. That night they had sex twice (both inside)
 - On Jan 8 they had sex seven times (five finished inside confirmed). Punya paid Dodd the 4 gp of back rent, her things were carried back in, and he now keeps a room with her (9 times in all, 7 inside confirmed)
 
+### Nina (Keeper of The Drunken Eel)
+
+- Age 46. She keeps The Drunken Eel, the inn-and-tavern by the Ravenport docks. A fat woman
+- She knows Punya from his smuggling days and calls him "the old fox". They were lovers when they were young
+- On the night of Jan 14, Punya visited the inn alone, and they had sex in her room once (inside) (1 time in all)
+
