@@ -169,7 +169,7 @@ How they act (set 2026-11-08): in the daytime, Karin and Wren always take the pl
 - On the night of Jan 1, Punya guarded her upstairs on the stakeout — and they had sex 3 times
 - On Jan 2, she agreed to the root-cause fix — a heavy lidded iron grate on the drain, and the cellar kept clean — and paid the agreed 8 gp
 - On the afternoon of Jan 3, Punya came to check the finished grate, and they had sex twice (the first finished in her mouth, the second inside). At parting, they told each other "I love you" (5 times in all)
-- On Jan 11, Punya visited her alone with a gift — a set of pure white lingerie (3 gp) — and they had sex 3 times with her wearing it (the first and third finished inside, the second outside over the lingerie). A deep kiss at parting (8 times in all)
+- On Jan 11, Punya visited her alone with a gift — a set of pure white lingerie (3 gp) — and they had sex 3 times with her wearing it (the first and third finished inside; the second finished outside over the lingerie, splashing it with semen and dirtying the pure white set). Punya told her to "live wrapped in my scent"; Hanna kept it unwashed for 3 days, sleeping in his scent, and then hand-washed it with care. A deep kiss at parting (8 times in all)
 - On Jan 19, Punya visited her alone at midday, and they had sex twice with her wearing the gifted white lingerie (the first finished inside and he kept thrusting after; the second finished outside over the lingerie). He promised to "come again soon and dirty it again" (10 times in all)
 
 ### Jill (the Seamstress)
