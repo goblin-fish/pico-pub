@@ -41,7 +41,7 @@ How they act (set 2026-11-08): in the daytime, Karin and Wren always take the pl
   - Bond: I will become the greatest thief that ever lived
   - Flaw: Turns tail and runs when things look bad
   - Feature: Criminal Contact
-- Money: party purse **460 gp 3 sp 2 cp** (shared by all four, held by Punya; as of Jan 15)
+- Money: party purse **447 gp 7 sp 2 cp** (shared by all four, held by Punya; as of Jan 19, including the 10 gp deposit on the periscope goggles)
 
 ---
 
@@ -170,6 +170,7 @@ How they act (set 2026-11-08): in the daytime, Karin and Wren always take the pl
 - On Jan 2, she agreed to the root-cause fix — a heavy lidded iron grate on the drain, and the cellar kept clean — and paid the agreed 8 gp
 - On the afternoon of Jan 3, Punya came to check the finished grate, and they had sex twice (the first finished in her mouth, the second inside). At parting, they told each other "I love you" (5 times in all)
 - On Jan 11, Punya visited her alone with a gift — a set of pure white lingerie (3 gp) — and they had sex 3 times with her wearing it (the first and third finished inside, the second outside over the lingerie). A deep kiss at parting (8 times in all)
+- On Jan 19, Punya visited her alone at midday, and they had sex twice with her wearing the gifted white lingerie (the first finished inside and he kept thrusting after; the second finished outside over the lingerie). He promised to "come again soon and dirty it again" (10 times in all)
 
 ### Jill (the Seamstress)
 
@@ -182,4 +183,9 @@ How they act (set 2026-11-08): in the daytime, Karin and Wren always take the pl
 - Age 46. She keeps The Drunken Eel, the inn-and-tavern by the Ravenport docks. A fat woman
 - She knows Punya from his smuggling days and calls him "the old fox". They were lovers when they were young
 - On the night of Jan 14, Punya visited the inn alone, and they had sex in her room twice (both inside) (2 times in all)
+
+### Nell (the Daughter at The Ferryman's Rest)
+
+- Age 22. The daughter of Garrick and Tessa, who keep The Ferryman's Rest, the cheap inn in Greywall. She serves and cleans the rooms. The inn never closes, so she has no days off, and she had no boyfriend
+- On the evening of Jan 19, Punya came to her while she was cleaning an empty room, and they had sex once (inside). It was her first kiss and her first sex. They told each other "I have always liked you", and parted with a deep kiss (1 time in all)
 

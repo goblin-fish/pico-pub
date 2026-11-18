@@ -118,7 +118,7 @@ flowchart LR
 - The law is strong, so it is a dangerous place for a man with a record. But in a city this big, a man can disappear, anything can be bought, and information flows in from everywhere
 - Places the party knows:
   - **The Crown & Bell** (a tavern under the castle hill): spiced wine, 3 sp a pitcher. The party's loud arrival on Sept 29 made them famous here — the keeper sent a second pitcher free
-  - **The Ferryman's Rest** (a cheap inn in the river quarter): a small room for four, 5 sp; a plain stew dinner, 2 sp a person
+  - **The Ferryman's Rest** (a cheap inn in the river quarter): a small room for four, 5 sp; a plain stew dinner, 2 sp a person. A family inn — the keeper **Garrick** (mid-50s, a former ferryman; a quiet man who minds his own business), his wife **Tessa** (40s, runs the kitchen), and their daughter **Nell** (age 22, serving and cleaning)
   - **The tax office** (by the castle): where wagon contracts are signed and sealed
   - **The great temple**: its crypt below — a south aisle and a north aisle of stone tombs that join at the far end. A wight and three skeletons held it until Oct 14, when the party cleared it (contract: no taking burial goods)
   - **The market hall counting room and the castle vault**: the goldsmiths count coin at the hall and sleep it in the vault; the dusk walk between them draws street crews
