@@ -68,7 +68,7 @@ flowchart LR
   - **The Merchant's House** (up the hill): clean, quiet, and costly (8 sp a person, meals 5 sp). Good beds, bad ears
 - People:
   - **Punya's Criminal Contact**: the one who passed the "special cargo" job to Punya. His identity and true aims are still unknown
-  - **The keeper of The Drunken Eel** (a fat woman, no name given yet): she knows Punya from his smuggling days and calls him "the old fox"
+  - **The keeper of The Drunken Eel** (a fat woman, age 46, no name given yet): she knows Punya from his smuggling days and calls him "the old fox"
   - **Venn** (a cargo broker): his office handled the box with the grey seal. The party has not met him yet. Confirmed Sept 20: the grey seal is Venn's house mark — the signet ring's face is a ring of standing stones. He also brokered the Sept 21 silver run
   - **Pell** (Venn's young clerk): he loaded the box onto Bram's cart with his own hands. He drinks at The Gilded Anchor. Met face-to-face on Sept 20 when he collected the lost ring (reward 5 gp); the party's names are now in Venn's paperwork
   - **Hobb** (the guild's road-master): a scarred ex-guard who assigns the escort work. He has accepted the party as "the road's escort"
