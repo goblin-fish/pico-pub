@@ -164,11 +164,12 @@ How they act (set 2026-11-08): in the daytime, Karin and Wren always take the pl
 ### Hanna (the Widow of Tanner's Row)
 
 - Age 26. She runs her late husband's tannery on Tanner's Row in Greywall, alone
-- Appearance: Height 158 cm (between Noel and Karin)
+- Appearance: Height 158 cm (between Noel and Karin). B87 / W60 / H88 — a body just slightly slacker than the 18–19-year-old lovers', as befits a woman who was married. Lingerie size D70
 - Her husband Colm, a tanner, died of a fever last spring. The party came to her house for the night-noises job (8 gp) — the noises are a carrion crawler that comes up from the drain under her cellar
 - On the night of Jan 1, Punya guarded her upstairs on the stakeout — and they had sex 3 times
 - On Jan 2, she agreed to the root-cause fix — a heavy lidded iron grate on the drain, and the cellar kept clean — and paid the agreed 8 gp
 - On the afternoon of Jan 3, Punya came to check the finished grate, and they had sex twice (the first finished in her mouth, the second inside). At parting, they told each other "I love you" (5 times in all)
+- On Jan 11, Punya visited her alone with a gift — a set of pure white lingerie (3 gp) — and they had sex 3 times with her wearing it (the first and third finished inside, the second outside over the lingerie). A deep kiss at parting (8 times in all)
 
 ### Rosa (the Seamstress)
 
