@@ -203,3 +203,8 @@ How they act (set 2026-11-08): in the daytime, Karin and Wren always take the pl
 - Born and raised in this settlement; she has never even been to Greywall. She has never had a boyfriend, and holding hands with a man was new to her too
 - On the night of Jan 31, she had sex with Punya in an empty room of the inn, where he was staying for the silk-cart escort (once, inside). It was her first kiss and her first sex. Punya promised he would surely come again, and she said she would wait (1 time in all)
 
+### Meg (the Blacksmith of Alden)
+
+- Age 44. The blacksmith of Alden. She keeps the old grey horse Anvil and an old cart, and she promised the cart free for the hill rescue
+- At midday on Feb 4, Punya came to borrow the cart and talked her into bed, and they had sex in the forge (once, inside). Punya promised, "I will come back alive — and we will have sex again and again" (1 time in all)
+
