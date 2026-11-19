@@ -1,7 +1,7 @@
 # キャラクターシート（パーティ4人分）
 
 D&D 5e（2014 Basic Rules）/ DM: Pico
-最終更新: 2026-11-19
+最終更新: 2026-11-20
 
 ## パーティ一覧
 
@@ -12,7 +12,7 @@ D&D 5e（2014 Basic Rules）/ DM: Pico
 | Wren | Druid 5, Circle of the Land (Forest) | 19 | 33 | 15 | 自然魔法、回復、サポート |
 | Noel | Wizard 5, School of Evocation | 18 | 27 | 11（Mage Armor で14） | 攻撃・便利系の魔法 |
 
-全員 Human、Level 5、Proficiency Bonus +3。XP: 各 6,522（Level 6 は 14,000 XP）。
+全員 Human、Level 5、Proficiency Bonus +3。XP: 各 7,222（Level 6 は 14,000 XP）。
 
 パーティの空気: 3人とも Punya（55歳）が好きで、自分のものにしたがっている。ただ3人いるので互いに牽制し合って、Punya の気を引こうと取り合っている真っ最中。
 振る舞いの型（2026-11-08 設定）: 昼間は Karin と Wren がいつも Punya の両隣を占める（テーブルでも、町を歩くときも）。Noel はいつも本を読むだけで平然としていて、隣になれなくても気にしていないように見える。夜は Karin と Wren が Punya を挟んでくっついて寝るのに、なぜか朝になると Punya は Noel の大きな胸に顔をうずめた状態で目覚める。早起きして口で起こしてくれる朝もある。平然とした昼の顔の下で、実は Noel がいちばんエロい。
@@ -21,7 +21,7 @@ D&D 5e（2014 Basic Rules）/ DM: Pico
 
 ## Punya — Human Rogue (Thief), Level 5
 
-- Player: Yamamoto / Alignment: Chaotic Neutral / XP: 6,522（Level 6 は 14,000 XP）
+- Player: Yamamoto / Alignment: Chaotic Neutral / XP: 7,222（Level 6 は 14,000 XP）
 - 年齢: 55歳。渋くてモテモテのおじさん。3人の仲間（全員成人）から慕われている
 - Background: Criminal（Specialty: Smuggler）
 - Ability Scores: STR 10 (+0) / DEX 18 (+4) / CON 12 (+1) / INT 9 (−1) / WIS 16 (+3) / CHA 14 (+2)　※Level 4 の Ability Score Improvement で DEX 16 → 18
@@ -41,13 +41,13 @@ D&D 5e（2014 Basic Rules）/ DM: Pico
   - Bond: 史上最高の盗賊になる
   - Flaw: 形勢が悪くなると逃げる
   - Feature: Criminal Contact
-- 所持金: パーティ共同財布 **636 gp 8 sp 2 cp**（4人共有、Punya が管理；2/1 時点。潜望鏡ゴーグル4人分は購入済み）
+- 所持金: パーティ共同財布 **1,040 gp 6 sp 2 cp**（4人共有、Punya が管理；2/12 時点。潜望鏡ゴーグル4人分は購入済み）
 
 ---
 
 ## Karin — Human Monk (Way of the Open Hand), Level 5（18歳）
 
-- XP: 6,522（Level 6 は 14,000 XP）
+- XP: 7,222（Level 6 は 14,000 XP）
 - Background: Acolyte（寺育ち）※DM決定、変更可
 - Personality: 大胆で元気な末っ子気質。自信家で、よく Punya をからかう。戦いでは真っ先に飛び込む
 - 外見: 身長 163 cm、B87 / W55 / H87、黒髪のポニーテール / ランジェリー: **D70、黒レース**（10/18 に Greywall で購入） / 体の特徴: パフィーニップル / 得意技: **マシンガン騎乗位**
@@ -57,8 +57,8 @@ D&D 5e（2014 Basic Rules）/ DM: Pico
 - Saving Throws: Strength +4、Dexterity +7
 - Skills: Acrobatics +7、Athletics +4、Insight +6、Religion +2
 - Passive Perception: 14
-- Class Features: Unarmored Defense、Martial Arts（素手 1d4+4、Shortsword）、**Ki（5点）**: Flurry of Blows、Patient Defense、Step of the Wind；Unarmored Movement（Speed 40）；**Deflect Missiles**（Reaction: 飛び道具のダメージを 1d10+9 軽減、0 にしたら掴んで投げ返せる）；**Monastic Tradition: Way of the Open Hand — Open Hand Technique**（Flurry の命中ごとに、転倒（Strength セーブ）／15 ft 押し出し／リアクション封じのいずれか）；**Extra Attack**（Level 5: Attack アクションで2回攻撃）；**Stunning Strike**（Level 5: 素手の命中時に Ki 1点で Constitution セーブを強要し、失敗した相手を次の自分のターン終了まで Stunned にする）
-- Weapons: **銀メッキの槍**（+7、両手で 1d8+4、銀として扱う；12/22 に Wulfgar 王の古墳から得た。新しい主武器）、**銀メッキの Shortsword**（+7、1d6+4、銀として扱う；10/31 に Yark の財宝から選んだ取り分、予備に回った）、Shortsword（+7、1d6+4；予備として所持）、Unarmed strike（+7、1d4+4）、Dart ×9、Punya の **Light crossbow**（+7、1d8+4、ボルト36本；10/12 から所持）、**Potion of Healing ×1**（12/14 に買い直し。10/18 購入分は 12/10 のトロール戦で Punya に使った）
+- Class Features: Unarmored Defense、Martial Arts（素手 1d6+4、Shortsword）、**Ki（5点）**: Flurry of Blows、Patient Defense、Step of the Wind；Unarmored Movement（Speed 40）；**Deflect Missiles**（Reaction: 飛び道具のダメージを 1d10+9 軽減、0 にしたら掴んで投げ返せる）；**Monastic Tradition: Way of the Open Hand — Open Hand Technique**（Flurry の命中ごとに、転倒（Strength セーブ）／15 ft 押し出し／リアクション封じのいずれか）；**Extra Attack**（Level 5: Attack アクションで2回攻撃）；**Stunning Strike**（Level 5: 素手の命中時に Ki 1点で Constitution セーブを強要し、失敗した相手を次の自分のターン終了まで Stunned にする）
+- Weapons: **銀メッキの槍**（+7、両手で 1d8+4、銀として扱う；12/22 に Wulfgar 王の古墳から得た。新しい主武器）、**銀メッキの Shortsword**（+7、1d6+4、銀として扱う；10/31 に Yark の財宝から選んだ取り分、予備に回った）、Shortsword（+7、1d6+4；予備として所持）、Unarmed strike（+7、1d6+4）、Dart ×9、Punya の **Light crossbow**（+7、1d8+4、ボルト36本；10/12 から所持）、**Potion of Healing ×1**（12/14 に買い直し。10/18 購入分は 12/10 のトロール戦で Punya に使った）
 - ※ Silver dagger（新品、45 gp）は 11/15 に売却済み
 - Tool/Instrument: Flute
 - Languages: Common のほか3つ未選択（Human の追加1つ + Acolyte の2つ）
@@ -67,7 +67,7 @@ D&D 5e（2014 Basic Rules）/ DM: Pico
 
 ## Wren — Human Druid (Circle of the Land: Forest), Level 5（19歳）
 
-- XP: 6,522（Level 6 は 14,000 XP）
+- XP: 7,222（Level 6 は 14,000 XP）
 - Background: Folk Hero ※DM決定、変更可
 - Personality: 優しくて少し天然。みんなの傷をいつも心配している
 - 外見: 身長 149 cm、B90 / W56 / H86、茶色のウェーブ髪 / ランジェリー: **G65、白**（10/18 に Greywall で購入） / 体の特徴: パイパン / 得意技: **ゲイザー潮吹き**
@@ -112,7 +112,7 @@ D&D 5e（2014 Basic Rules）/ DM: Pico
 
 ## Noel — Human Wizard (School of Evocation), Level 5（18歳）
 
-- XP: 6,522（Level 6 は 14,000 XP）
+- XP: 7,222（Level 6 は 14,000 XP）
 - Background: Sage ※DM決定、変更可
 - Personality: 賢くて眼鏡。落ち着いているが、照れると毒舌。いつも本を読んでいる。ただし冷静なのは見せかけで、実は3人の中でいちばんスケベ。静かに計画を立てて、しらばっくれる
 - 外見: 身長 156 cm、B103 / W61 / H94、紺色の前下がりボブ、眼鏡 / ランジェリー: **J70、深紅**（10/18 に Greywall で購入） / 体の特徴: 陰核肥大 / 得意技: **トルネードフェラチオ**
@@ -167,6 +167,7 @@ D&D 5e（2014 Basic Rules）/ DM: Pico
 - 12/31、Punya がグリフォンの巣で見つけた銀のロケットを届け、Tam の死を知らせた。彼女は「知らせを持ってきてくれた人のため」に貯めていた 2 gp を Punya に渡した
 - 同日の午後、Punya が一人で訪ね、関係を持った（3回）。Greywall における Punya の楽しみになった
 - 1/6 の午後、Punya が再び一人で訪ね、関係を持った（1回、膣内）。別れ際に深いキス（合計4回）
+- 2/9 の夜、Punya が1か月ぶりに一人で訪ね、関係を持った（5回、すべて膣内）。翌 2/10 の朝も関係を持ち（7回、すべて膣内）、「愛してる」と言い合い、別れ際に深いキスと「また来る」約束（合計16回）
 
 ### Hanna（Tanner's Row の未亡人）
 
@@ -209,4 +210,13 @@ D&D 5e（2014 Basic Rules）/ DM: Pico
 
 - 44歳。Alden の鍛冶屋。灰色の老馬 Anvil と古い荷車を持ち、丘の救出のときは荷車を無料で貸すと約束してくれた
 - 2/4 の昼、荷車を借りに来た Punya に口説かれ、鍛冶屋の中で関係を持った（1回、膣内）。Punya は「生きて帰る。そして何度もセックスする」と約束した（合計1回）
+- 2/7 の昼、Punya が荷車と Anvil を無事に返しに来て、自分も生きて帰り、鍛冶屋の中で関係を持った（5回、すべて膣内）。その場で、盗まれた Barrow の王冠を溶かして無地の金の延べ板にしてもらった。次に Alden に来たら The Golden Sheaf ではなく彼女の家に泊まると約束した（合計6回）
+
+### Elin（大寺院の見習い）
+
+- 21歳。Greywall の大寺院の見習い（アコライト）。同僚に見習いの Falk（19）がいる
+- 朝の祈りの準備、寺院の掃除、病室の手伝い、葬儀の手伝い、墓地の見回りと整備、祈祷文の写しなどを担当。小さな神聖魔法が使える（Light、Cure Wounds が少し、Sacred Flame の初歩）
+- 彼氏はいなかった。身体についての知識は、医学の本と病室での手当てで得たものだけ
+- 2/11、城下の墓地を案内した際に、Punya の「性教育」として Karin とのセックスを間近で見せられた
+- 2/12 の午前、挨拶に来た Punya と寺院の中で関係を持った（2回、どちらも膣内）。彼女にとって初めてのキス、初めてのセックスだった（合計2回）
 

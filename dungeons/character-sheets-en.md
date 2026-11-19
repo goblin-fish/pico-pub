@@ -1,7 +1,7 @@
 # Character Sheets (the whole party of four)
 
 D&D 5e (2014 Basic Rules) / DM: Pico
-Last update: 2026-11-19
+Last update: 2026-11-20
 
 ## Party overview
 
@@ -12,7 +12,7 @@ Last update: 2026-11-19
 | Wren | Druid 5, Circle of the Land (Forest) | 19 | 33 | 15 | Nature magic, healing, support |
 | Noel | Wizard 5, School of Evocation | 18 | 27 | 11 (14 with Mage Armor) | Attack and utility magic |
 
-All Human, Level 5, Proficiency Bonus +3. XP: 6,522 each (Level 6 at 14,000 XP).
+All Human, Level 5, Proficiency Bonus +3. XP: 7,222 each (Level 6 at 14,000 XP).
 
 The mood of the party: all three of them love Punya (55) and want him for themselves. But there are three of them, so they keep each other in check and fight over his attention.
 How they act (set 2026-11-08): in the daytime, Karin and Wren always take the places on both sides of Punya — at the table, and walking in town too. Noel only reads her book and looks calm, like she does not care that she cannot sit next to him. At night, Karin and Wren sleep close to Punya, one on each side. But in the morning, Punya always wakes up with his face in Noel's big breasts. Some mornings she gets up early and wakes him with her mouth. Under her calm daytime face, Noel is the most lewd of the three.
@@ -21,7 +21,7 @@ How they act (set 2026-11-08): in the daytime, Karin and Wren always take the pl
 
 ## Punya — Human Rogue (Thief), Level 5
 
-- Player: Yamamoto / Alignment: Chaotic Neutral / XP: 6,522 (Level 6 at 14,000 XP)
+- Player: Yamamoto / Alignment: Chaotic Neutral / XP: 7,222 (Level 6 at 14,000 XP)
 - Age: 55. A cool, very popular older man. The three companions (all adults) adore him
 - Background: Criminal (Specialty: Smuggler)
 - Ability Scores: STR 10 (+0) / DEX 18 (+4) / CON 12 (+1) / INT 9 (−1) / WIS 16 (+3) / CHA 14 (+2) *Level 4 Ability Score Improvement: DEX 16 → 18
@@ -41,13 +41,13 @@ How they act (set 2026-11-08): in the daytime, Karin and Wren always take the pl
   - Bond: I will become the greatest thief that ever lived
   - Flaw: Turns tail and runs when things look bad
   - Feature: Criminal Contact
-- Money: party purse **636 gp 8 sp 2 cp** (shared by all four, held by Punya; as of Feb 1; the four periscope goggles are bought and paid for)
+- Money: party purse **1,040 gp 6 sp 2 cp** (shared by all four, held by Punya; as of Feb 12; the four periscope goggles are bought and paid for)
 
 ---
 
 ## Karin — Human Monk (Way of the Open Hand), Level 5 (age 18)
 
-- XP: 6,522 (Level 6 at 14,000 XP)
+- XP: 7,222 (Level 6 at 14,000 XP)
 - Background: Acolyte (raised in a temple) *decided by the DM, can be changed
 - Personality: Bold and energetic, the youngest at heart. Confident, loves teasing Punya. First to jump into a fight
 - Appearance: Height 163 cm, B87 / W55 / H87, black hair in a ponytail / Lingerie: **D70, black lace** (bought Oct 18 in Greywall) / Body: puffy nipples / Signature move: **Machine-Gun Cowgirl**
@@ -57,8 +57,8 @@ How they act (set 2026-11-08): in the daytime, Karin and Wren always take the pl
 - Saving Throws: Strength +4, Dexterity +7
 - Skills: Acrobatics +7, Athletics +4, Insight +6, Religion +2
 - Passive Perception: 14
-- Class Features: Unarmored Defense, Martial Arts (unarmed strike 1d4+4, shortsword), **Ki (5 points)**: Flurry of Blows, Patient Defense, Step of the Wind; Unarmored Movement (Speed 40); **Deflect Missiles** (Reaction: reduce a missile's damage by 1d10+9; if reduced to 0, catch it and throw it back); **Monastic Tradition: Way of the Open Hand — Open Hand Technique** (Flurry of Blows hits can knock prone (Strength save), push 15 ft, or stop the target's Reactions); **Extra Attack** (Level 5: attack twice with the Attack action); **Stunning Strike** (Level 5: on an unarmed hit, spend 1 Ki to force a Constitution save — on a failure the target is Stunned until the end of her next turn)
-- Weapons: **Silvered spear** (+7, 1d8+4 two-handed, counts as silver; from King Wulfgar's barrow, Dec 22 — her new main weapon), **Silvered shortsword** (+7, 1d6+4, counts as silver; her pick from Yark's hoard, Oct 31 — now a backup), Shortsword (+7, 1d6+4; kept as a spare), Unarmed strike (+7, 1d4+4), Dart ×9, Punya's **light crossbow** (+7, 1d8+4, 36 bolts; carried since Oct 12), **Potion of Healing ×1** (bought again on Dec 14; the Oct 18 bottle was used on Punya in the troll fight on Dec 10)
+- Class Features: Unarmored Defense, Martial Arts (unarmed strike 1d6+4, shortsword), **Ki (5 points)**: Flurry of Blows, Patient Defense, Step of the Wind; Unarmored Movement (Speed 40); **Deflect Missiles** (Reaction: reduce a missile's damage by 1d10+9; if reduced to 0, catch it and throw it back); **Monastic Tradition: Way of the Open Hand — Open Hand Technique** (Flurry of Blows hits can knock prone (Strength save), push 15 ft, or stop the target's Reactions); **Extra Attack** (Level 5: attack twice with the Attack action); **Stunning Strike** (Level 5: on an unarmed hit, spend 1 Ki to force a Constitution save — on a failure the target is Stunned until the end of her next turn)
+- Weapons: **Silvered spear** (+7, 1d8+4 two-handed, counts as silver; from King Wulfgar's barrow, Dec 22 — her new main weapon), **Silvered shortsword** (+7, 1d6+4, counts as silver; her pick from Yark's hoard, Oct 31 — now a backup), Shortsword (+7, 1d6+4; kept as a spare), Unarmed strike (+7, 1d6+4), Dart ×9, Punya's **light crossbow** (+7, 1d8+4, 36 bolts; carried since Oct 12), **Potion of Healing ×1** (bought again on Dec 14; the Oct 18 bottle was used on Punya in the troll fight on Dec 10)
 - *The silver dagger (new, 45 gp) was sold on Nov 15
 - Tool/Instrument: Flute
 - Languages: Common, plus 3 more not yet chosen (1 extra Human language + 2 from Acolyte)
@@ -67,7 +67,7 @@ How they act (set 2026-11-08): in the daytime, Karin and Wren always take the pl
 
 ## Wren — Human Druid (Circle of the Land: Forest), Level 5 (age 19)
 
-- XP: 6,522 (Level 6 at 14,000 XP)
+- XP: 7,222 (Level 6 at 14,000 XP)
 - Background: Folk Hero *decided by the DM, can be changed
 - Personality: Gentle and sweet, a little airheaded. Always worries about everyone's wounds
 - Appearance: Height 149 cm, B90 / W56 / H86, brown wavy hair / Lingerie: **G65, white** (bought Oct 18 in Greywall) / Body: hairless (no pubic hair) / Signature move: **Geyser Squirt**
@@ -111,7 +111,7 @@ How they act (set 2026-11-08): in the daytime, Karin and Wren always take the pl
 
 ## Noel — Human Wizard (School of Evocation), Level 5 (age 18)
 
-- XP: 6,522 (Level 6 at 14,000 XP)
+- XP: 7,222 (Level 6 at 14,000 XP)
 - Background: Sage *decided by the DM, can be changed
 - Personality: Smart, with glasses. Calm, but sharp-tongued when embarrassed. Always reading a book. But the calm face is an act — in truth, she is the most lecherous of the three. She plans quietly and plays innocent after
 - Appearance: Height 156 cm, B103 / W61 / H94, navy-blue bob (longer in front), glasses / Lingerie: **J70, deep red** (bought Oct 18 in Greywall) / Body: an enlarged clitoris / Signature move: **Tornado Blowjob**
@@ -165,6 +165,7 @@ How they act (set 2026-11-08): in the daytime, Karin and Wren always take the pl
 - On Dec 31, Punya brought her the silver locket from the griffon's nest and told her Tam was dead. She gave Punya 2 gp — money she saved for the person who brought her news of Tam
 - That afternoon, Punya visited her alone, and they had sex 3 times. She is now Punya's pleasure in Greywall
 - On the afternoon of Jan 6, Punya visited her alone again, and they had sex once (inside). A deep kiss at parting (4 times in all)
+- On the night of Feb 9, Punya visited her alone for the first time in a month, and they had sex 5 times (all inside). The next morning, Feb 10, they had sex 7 more times (all inside), told each other "I love you", and parted with a deep kiss and his promise to come again (16 times in all)
 
 ### Hanna (the Widow of Tanner's Row)
 
@@ -207,4 +208,13 @@ How they act (set 2026-11-08): in the daytime, Karin and Wren always take the pl
 
 - Age 44. The blacksmith of Alden. She keeps the old grey horse Anvil and an old cart, and she promised the cart free for the hill rescue
 - At midday on Feb 4, Punya came to borrow the cart and talked her into bed, and they had sex in the forge (once, inside). Punya promised, "I will come back alive — and we will have sex again and again" (1 time in all)
+- At midday on Feb 7, Punya returned the cart and Anvil safe, and himself alive, and they had sex in the forge (5 times, all inside). On the spot, she melted the stolen Barrow Crown down into a plain gold ingot for him. He promised that on his next visit to Alden he would stay at her place, not The Golden Sheaf (6 times in all)
+
+### Elin (the Acolyte of the Great Temple)
+
+- Age 21. An acolyte (in training) at the great temple of Greywall. Her fellow acolyte is Falk (19)
+- Her duties: morning-prayer preparation, temple cleaning, helping in the sickroom, funeral assistance, patrol and upkeep of the burial ground, and copying prayer texts. She can cast a few small divine spells (Light, a little Cure Wounds, and the basics of Sacred Flame)
+- She had no boyfriend. Everything she knows about bodies comes from medical books and tending patients
+- On Feb 11, while she guided the party through the burial ground below the castle, Punya made her watch his "sex education" — sex with Karin, up close
+- On the morning of Feb 12, Punya came to greet her, and they had sex in the temple (twice, both inside). It was her first kiss and her first sex (2 times in all)
 
