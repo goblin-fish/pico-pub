@@ -7,9 +7,9 @@ Last update: 2026-11-19
 
 | Name | Class | Age | HP | Armor Class | Role |
 |---|---|---|---|---|---|
-| Punya | Rogue 5, Thief (Yamamoto's character, the leader) | 55 | 33 | 16 | Stealth, traps, Sneak Attack |
-| Karin | Monk 5, Way of the Open Hand | 18 | 38 | 17 | Fast front line, fists and spear |
-| Wren | Druid 5, Circle of the Land (Forest) | 19 | 33 | 15 | Nature magic, healing, support |
+| Punya | Rogue 5, Thief (Yamamoto's character, the leader) | 55 | 31 | 16 | Stealth, traps, Sneak Attack |
+| Karin | Monk 5, Way of the Open Hand | 18 | 41 | 17 | Fast front line, fists and spear |
+| Wren | Druid 5, Circle of the Land (Forest) | 19 | 31 | 15 | Nature magic, healing, support |
 | Noel | Wizard 5, School of Evocation | 18 | 27 | 11 (14 with Mage Armor) | Attack and utility magic |
 
 All Human, Level 5, Proficiency Bonus +3. XP: 6,522 each (Level 6 at 14,000 XP).
@@ -25,7 +25,7 @@ How they act (set 2026-11-08): in the daytime, Karin and Wren always take the pl
 - Age: 55. A cool, very popular older man. The three companions (all adults) adore him
 - Background: Criminal (Specialty: Smuggler)
 - Ability Scores: STR 10 (+0) / DEX 18 (+4) / CON 12 (+1) / INT 9 (−1) / WIS 16 (+3) / CHA 14 (+2) *Level 4 Ability Score Improvement: DEX 16 → 18
-- Hit Point Maximum: 33 / Hit Dice: 5d8 / Speed: 30 / Initiative: +4
+- Hit Point Maximum: 31 / Hit Dice: 5d8 / Speed: 30 / Initiative: +4
 - Saving Throws: Dexterity +7, Intelligence +2
 - Skills: Stealth +11 (Expertise), Sleight of Hand +11 (Expertise), Perception +6, Insight +6, Deception +5, Persuasion +5
 - Passive Perception: 16
@@ -52,7 +52,7 @@ How they act (set 2026-11-08): in the daytime, Karin and Wren always take the pl
 - Personality: Bold and energetic, the youngest at heart. Confident, loves teasing Punya. First to jump into a fight
 - Appearance: Height 163 cm, B87 / W55 / H87, black hair in a ponytail / Lingerie: **D70, black lace** (bought Oct 18 in Greywall) / Body: puffy nipples / Signature move: **Machine-Gun Cowgirl**
 - Ability Scores: STR 12 (+1) / DEX 18 (+4) / CON 14 (+2) / INT 9 (−1) / WIS 16 (+3) / CHA 10 (+0) *Level 4 Ability Score Improvement: DEX 16 → 18
-- Hit Point Maximum: 38 / Hit Dice: 5d8 / Speed: 40
+- Hit Point Maximum: 41 / Hit Dice: 5d8 / Speed: 40
 - Armor Class: 17 (Unarmored Defense = 10 + DEX + WIS, no armor or shield)
 - Saving Throws: Strength +4, Dexterity +7
 - Skills: Acrobatics +7, Athletics +4, Insight +6, Religion +2
@@ -72,7 +72,7 @@ How they act (set 2026-11-08): in the daytime, Karin and Wren always take the pl
 - Personality: Gentle and sweet, a little airheaded. Always worries about everyone's wounds
 - Appearance: Height 149 cm, B90 / W56 / H86, brown wavy hair / Lingerie: **G65, white** (bought Oct 18 in Greywall) / Body: hairless (no pubic hair) / Signature move: **Geyser Squirt**
 - Ability Scores: STR 9 (−1) / DEX 12 (+1) / CON 12 (+1) / INT 12 (+1) / WIS 18 (+4) / CHA 16 (+3) *Level 4 Ability Score Improvement: WIS 16 → 18
-- Hit Point Maximum: 33 / Hit Dice: 5d8 / Speed: 30
+- Hit Point Maximum: 31 / Hit Dice: 5d8 / Speed: 30
 - Armor Class: 15 (Studded leather armor + Wooden shield; bought Nov 1 for 45 gp — the old Leather armor was sold on Nov 2)
 - Saving Throws: Intelligence +4, Wisdom +7
 - Skills: Perception +7, Medicine +7, Animal Handling +7, Survival +7

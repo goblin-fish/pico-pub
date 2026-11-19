@@ -7,9 +7,9 @@ D&D 5e（2014 Basic Rules）/ DM: Pico
 
 | 名前 | クラス | 年齢 | HP | Armor Class | 役割 |
 |---|---|---|---|---|---|
-| Punya | Rogue 5, Thief（Yamamotoのキャラ、リーダー） | 55 | 33 | 16 | 隠密、罠、Sneak Attack |
-| Karin | Monk 5, Way of the Open Hand | 18 | 38 | 17 | 高速前衛、素手と槍 |
-| Wren | Druid 5, Circle of the Land (Forest) | 19 | 33 | 15 | 自然魔法、回復、サポート |
+| Punya | Rogue 5, Thief（Yamamotoのキャラ、リーダー） | 55 | 31 | 16 | 隠密、罠、Sneak Attack |
+| Karin | Monk 5, Way of the Open Hand | 18 | 41 | 17 | 高速前衛、素手と槍 |
+| Wren | Druid 5, Circle of the Land (Forest) | 19 | 31 | 15 | 自然魔法、回復、サポート |
 | Noel | Wizard 5, School of Evocation | 18 | 27 | 11（Mage Armor で14） | 攻撃・便利系の魔法 |
 
 全員 Human、Level 5、Proficiency Bonus +3。XP: 各 6,522（Level 6 は 14,000 XP）。
@@ -25,7 +25,7 @@ D&D 5e（2014 Basic Rules）/ DM: Pico
 - 年齢: 55歳。渋くてモテモテのおじさん。3人の仲間（全員成人）から慕われている
 - Background: Criminal（Specialty: Smuggler）
 - Ability Scores: STR 10 (+0) / DEX 18 (+4) / CON 12 (+1) / INT 9 (−1) / WIS 16 (+3) / CHA 14 (+2)　※Level 4 の Ability Score Improvement で DEX 16 → 18
-- Hit Point Maximum: 33 / Hit Dice: 5d8 / Speed: 30 / Initiative: +4
+- Hit Point Maximum: 31 / Hit Dice: 5d8 / Speed: 30 / Initiative: +4
 - Saving Throws: Dexterity +7、Intelligence +2
 - Skills: Stealth +11（Expertise）、Sleight of Hand +11（Expertise）、Perception +6、Insight +6、Deception +5、Persuasion +5
 - Passive Perception: 16
@@ -52,7 +52,7 @@ D&D 5e（2014 Basic Rules）/ DM: Pico
 - Personality: 大胆で元気な末っ子気質。自信家で、よく Punya をからかう。戦いでは真っ先に飛び込む
 - 外見: 身長 163 cm、B87 / W55 / H87、黒髪のポニーテール / ランジェリー: **D70、黒レース**（10/18 に Greywall で購入） / 体の特徴: パフィーニップル / 得意技: **マシンガン騎乗位**
 - Ability Scores: STR 12 (+1) / DEX 18 (+4) / CON 14 (+2) / INT 9 (−1) / WIS 16 (+3) / CHA 10 (+0)　※Level 4 の Ability Score Improvement で DEX 16 → 18
-- Hit Point Maximum: 38 / Hit Dice: 5d8 / Speed: 40
+- Hit Point Maximum: 41 / Hit Dice: 5d8 / Speed: 40
 - Armor Class: 17（Unarmored Defense = 10 + DEX + WIS、鎧・盾なし）
 - Saving Throws: Strength +4、Dexterity +7
 - Skills: Acrobatics +7、Athletics +4、Insight +6、Religion +2
@@ -72,7 +72,7 @@ D&D 5e（2014 Basic Rules）/ DM: Pico
 - Personality: 優しくて少し天然。みんなの傷をいつも心配している
 - 外見: 身長 149 cm、B90 / W56 / H86、茶色のウェーブ髪 / ランジェリー: **G65、白**（10/18 に Greywall で購入） / 体の特徴: パイパン / 得意技: **ゲイザー潮吹き**
 - Ability Scores: STR 9 (−1) / DEX 12 (+1) / CON 12 (+1) / INT 12 (+1) / WIS 18 (+4) / CHA 16 (+3)　※Level 4 の Ability Score Improvement で WIS 16 → 18
-- Hit Point Maximum: 33 / Hit Dice: 5d8 / Speed: 30
+- Hit Point Maximum: 31 / Hit Dice: 5d8 / Speed: 30
 - Armor Class: 15（Studded leather armor + Wooden shield；11/1 に 45 gp で購入——古い Leather armor は 11/2 に売却済み）
 - Saving Throws: Intelligence +4、Wisdom +7
 - Skills: Perception +7、Medicine +7、Animal Handling +7、Survival +7
