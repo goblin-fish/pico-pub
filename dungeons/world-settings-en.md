@@ -140,11 +140,17 @@ flowchart LR
   - **Garv** (foreman of Wilkes's recovery crew): on Jan 9 he will lead the repair crew (four laborers, a spare wheel, two fresh horses, and a transfer wagon) into the gully to change the wheel and haul the salt out
   - **Ralf (46) and Mabel (44), and their son Hugo (17)**: a sheep farm at Greywall's north edge. The snow-wolf pack took six sheep and their old sheepdog. They sheltered the party free on the night of Jan 2, and Ralf helped salt the winter wolf's white pelt
   - **Jill** (28, a seamstress on the market street): she keeps her small shop-and-room alone. On Jan 7 she was about to be put out over back rent; Punya helped her, and he now keeps a room with her. In her whole life she has had only two partners: her village fiance, and Punya. On Jan 22, Punya asked her to bear his child, and to live together and raise it if she becomes pregnant; Jill agreed. She takes no other customers
+  - **Master Rupert** (a silk merchant): the client of the silk-cart escort (18 gp). On the morning of January 31 the party set out from Greywall for the toll-bridge market (due back February 1)
 
 ### South of Greywall: the Alden road
 
 - **Ned (52) and Tilda (49), and their son Fenn (19) — a hill farm**: 15 miles south of Greywall, on the Alden road; barley and goats. On the afternoon of Dec 28 their son Fenn saw the salt wagon pass and waved — the last sighting of the wagon. That evening a snow squall hit the hills. They sheltered the party free on the night of Jan 4
 - **The salt wagon's gully**: about 9 miles south of Greywall, at a bend past the bent pines. Some 40 ft below the road lies Wilkes's salt wagon, its wheel broken (the salt still aboard). In the rocks across the gully is an **owlbear's** hollow; the dead horse has been eaten to bones. The second horse was led out on Jan 6. The salt recovery is set for Jan 9 (the party guards the crew)
+
+### North of Greywall: the roadside inn and the bandit camp
+
+- **The roadside inn** (8 miles north of Greywall, near the ruined watchtower): a small inn on the north road, run by only three people — the keeper **Master Hale** (in his 50s; not the farmer Hale of Alden), his wife **Edda** (kitchen and rooms), and the stable boy **Nils** (16). On the terms that they deal with the bandits, the party stayed at 3 sp a night for the four, with meals (January 24–27)
+- **The bandit camp** (in a hollow about 2 miles north-east of the inn): a leader and five men, with tents of stolen cloth, salt bags and one cart. Their large scout drank with carters at the inn and asked about cargo and destinations. On the night of January 27 into the pre-dawn, the party downed the 3 watchers drawn by the inn window's "show" (one was taken prisoner) and destroyed the camp in a night raid. The two stamped cash boxes, the cloth, the salt and the cart were returned untouched; the party took only the "bare cash", 62 gp 2 sp
 
 ### North of Greywall: the toll bridge (one day north)
 
@@ -227,6 +233,12 @@ Clues, information, and open hooks from the story, gathered here by place.
 - **In progress**: the missing coachman (12 gp, taken from Marek on Nov 27). On Nov 28 the coach's wreck and all four deaths were confirmed below the ford; the mail box and the offerings box were recovered, and the bodies were hauled onto the high bank and covered with stones and branches. The job closes on the report to Marek in Greywall
 - **On the board now (Nov 27)**: the pay-chest escort to the toll bridge (two days there and back, 10 gp), noises in a widow's house on Tanner's Row (8 gp), a great boar in the south farms (12 gp)
 - **Alden's sheep thief (Nov 22)**: a **manticore** that had taken three sheep from the high pastures was killed in an ambush beside the fold (the village paid 8 gp; Meg offered free repairs and shoeing)
+
+### Greywall work (updated Jan 31)
+
+- **Done**: the bandits on the north road (January 28, 20 gp — the road guild, contact Master Sorn; one prisoner and the recovered goods handed to the authorities)
+- **In progress**: the silk-cart escort (18 gp, Master Rupert; out January 31, due back February 1)
+- **On the board (from January 29)**: #7 skeletons in the cemetery below the castle (15 gp, the temple), #8 a gold box under the ice at the ford on the Brookfield road (12 gp). The will-o'-wisp at the sunken chapel (12 gp, Father Tolan's formal request) is also untouched
 
 ### The west (the West Hills and the Mistmarsh)
 
