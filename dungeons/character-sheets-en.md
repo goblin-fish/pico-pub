@@ -41,7 +41,7 @@ How they act (set 2026-11-08): in the daytime, Karin and Wren always take the pl
   - Bond: I will become the greatest thief that ever lived
   - Flaw: Turns tail and runs when things look bad
   - Feature: Criminal Contact
-- Money: party purse **446 gp 2 sp 2 cp** (shared by all four, held by Punya; as of Jan 21; the four periscope goggles are bought and paid for)
+- Money: party purse **541 gp 7 sp 2 cp** (shared by all four, held by Punya; as of Jan 24; the four periscope goggles are bought and paid for)
 
 ---
 
@@ -177,6 +177,7 @@ How they act (set 2026-11-08): in the daytime, Karin and Wren always take the pl
 - Age 28. A seamstress who lives alone in her small shop-and-room off the market street in Greywall. No husband
 - On Jan 7 she was being put out of her room: two months' back rent, **4 gp**, owed to her landlord **Master Dodd**. Punya would not carry the rent that day — he took her to The Crown & Bell, fed her, and took a room at The Net & Hook. That night they had sex twice (both inside)
 - On Jan 8 they had sex seven times (five finished inside confirmed). Punya paid Dodd the 4 gp of back rent, her things were carried back in, and he now keeps a room with her (9 times in all, 7 inside confirmed)
+- On Jan 22 they had sex once (inside). Punya asked her to bear his child, and they promised that if she becomes pregnant, they will live together and raise it. Jill decided to take no other customers. In her whole life she has had only two partners: her village fiancé, and Punya (10 times in all, 8 inside)
 
 ### Lily (Keeper of The Drunken Eel)
 

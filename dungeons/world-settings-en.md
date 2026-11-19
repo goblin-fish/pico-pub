@@ -122,6 +122,8 @@ flowchart LR
   - **The tax office** (by the castle): where wagon contracts are signed and sealed
   - **The great temple**: its crypt below — a south aisle and a north aisle of stone tombs that join at the far end. A wight and three skeletons held it until Oct 14, when the party cleared it (contract: no taking burial goods)
   - **The market hall counting room and the castle vault**: the goldsmiths count coin at the hall and sleep it in the vault; the dusk walk between them draws street crews
+  - **The alchemist's shop** (by the market): kept by **Master Hess**, an older man. His apprentice is **Robb** (age 14). He made the ointment that undoes petrification from the basilisk's gullet fluid (40 gp; ordered Jan 21, ready Jan 23)
+  - **Aldous's bookshop**: a shop of old and rare books, kept by **Aldous**
 - People:
   - **Halloran** (the tax-master): thin, ink on his fingers, no smile. He hired the party to escort the tax wagons south (24 gp, Oct 1-3, paid in full) and speaks of them with dry respect
   - **Tomas Rask** (a knife-man, dead Oct 13): escaped the castle cells nine days before by cutting a guard; his escape was bought with new silver in a tax-sealed purse; killed by the party in his river-slum shack for the 25 gp castle-gate bounty. Minders: **Pike** (dead with him) and **Fen** (surrendered, taken by the watch)
@@ -137,6 +139,7 @@ flowchart LR
   - **Sten** (a young guard): the guard riding with the salt wagon. He kept Piers alive with frostnipped fingers, and since the rescue he stays with Piers at the temple
   - **Garv** (foreman of Wilkes's recovery crew): on Jan 9 he will lead the repair crew (four laborers, a spare wheel, two fresh horses, and a transfer wagon) into the gully to change the wheel and haul the salt out
   - **Ralf (46) and Mabel (44), and their son Hugo (17)**: a sheep farm at Greywall's north edge. The snow-wolf pack took six sheep and their old sheepdog. They sheltered the party free on the night of Jan 2, and Ralf helped salt the winter wolf's white pelt
+  - **Jill** (28, a seamstress on the market street): she keeps her small shop-and-room alone. On Jan 7 she was about to be put out over back rent; Punya helped her, and he now keeps a room with her. In her whole life she has had only two partners: her village fiance, and Punya. On Jan 22, Punya asked her to bear his child, and to live together and raise it if she becomes pregnant; Jill agreed. She takes no other customers
 
 ### South of Greywall: the Alden road
 
@@ -163,6 +166,8 @@ flowchart LR
 - **Oct 31, before dawn**: Yark was killed in his own deep chamber (the party's knives; Mok's band and the turned wolves in the dens). Mok took Greth's **silver torc** and the seat, uniting both bands (about 30 goblins, plus the five wolves) under an oath sworn to the party: **no more raids on Greywall's farms**, and the quarry left empty
 - People:
   - **Hugh Colley** (quarry owner): posted the 12 gp. "I sell stone. I do not dig goblins."
+  - **Joss** (a stonemason): Colley's man. He was turned to stone by the basilisk at the pit bottom in mid-December, and the ointment brought him back to flesh on Jan 23. His wife **Beth** and their 7-year-old son live in Greywall
+  - **Rudd** (a stonemason): Colley's man, petrified together with Joss and restored on Jan 23. He is single, and lives in Greywall with his widowed mother **Greta**
   - **Mok** (bugbear; chief of both bands from Oct 31): proud and oath-bound — his word is stone. On Nov 5, trusting Punya's word, he took in the last five of Yark's band (Snag, Wort, Old Pess, Tib, Skree) as kneelers (Pess is his cook now)
   - **Yark** (goblin boss, dead Oct 31) and **Greth** (the old chief, dead in the spring)
 
