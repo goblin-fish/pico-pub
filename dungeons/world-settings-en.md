@@ -161,6 +161,8 @@ flowchart LR
   - **Petyr** (the true toll-keeper, old): chained by the ankle in the stable loft for three weeks while Voss ran his bridge. Freed by the party on Oct 16; back at his post, ringing his bell for honest tolls, and holding the recovered named goods for the guild's inspector
   - **Wat** (a cloth merchant of the north road) and **Jory** (his young spearman): lent the party their cart and mare for the bait run at a **40 gp deposit**, hiding with their cloth in the north woods; the cart and mare came back (the mare with a scar), and the deposit was returned in full
   - **The toll house cat** (fat, unnamed): rules the counter, answers to no one
+- **The settlement and the "bridge market" north of the bridge**: a trading settlement at the north end of the bridge (about 180 people): toll staff, market traders, carters, warehouse keepers, a smith, and two inns. The settlement and its market stood here long before the deserters; only the market died during the three weeks the bridge was closed. Salt and silk fetch high prices in the north; furs, timber, and dried river fish come down from it. North of the settlement a road runs on between farmland and forest (the party has not been that way)
+- **The North Bank inn**: an inn facing the market square. The keeper is **Benn** (46, a former carter), his wife **Alis** runs the kitchen and the desk, their daughter **Marit** (21) serves and finishes the guest rooms, and **Sam** (in his 30s) tends the stable. Six guest rooms upstairs. The party stayed here on the night of Jan 31, on the silk-cart escort
 
 ### South-east of Greywall: the old quarry and the South Hills
 
