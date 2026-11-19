@@ -7,32 +7,32 @@ Last update: 2026-11-19
 
 | Name | Class | Age | HP | Armor Class | Role |
 |---|---|---|---|---|---|
-| Punya | Rogue 4, Thief (Yamamoto's character, the leader) | 55 | 27 | 16 | Stealth, traps, Sneak Attack |
-| Karin | Monk 4, Way of the Open Hand | 18 | 31 | 17 | Fast front line, fists and spear |
-| Wren | Druid 4, Circle of the Land (Forest) | 19 | 27 | 15 | Nature magic, healing, support |
-| Noel | Wizard 4, School of Evocation | 18 | 22 | 11 (14 with Mage Armor) | Attack and utility magic |
+| Punya | Rogue 5, Thief (Yamamoto's character, the leader) | 55 | 33 | 16 | Stealth, traps, Sneak Attack |
+| Karin | Monk 5, Way of the Open Hand | 18 | 38 | 17 | Fast front line, fists and spear |
+| Wren | Druid 5, Circle of the Land (Forest) | 19 | 33 | 15 | Nature magic, healing, support |
+| Noel | Wizard 5, School of Evocation | 18 | 27 | 11 (14 with Mage Armor) | Attack and utility magic |
 
-All Human, Level 4, Proficiency Bonus +2. XP: 6,279 each (Level 5 at 6,500 XP).
+All Human, Level 5, Proficiency Bonus +3. XP: 6,522 each (Level 6 at 14,000 XP).
 
 The mood of the party: all three of them love Punya (55) and want him for themselves. But there are three of them, so they keep each other in check and fight over his attention.
 How they act (set 2026-11-08): in the daytime, Karin and Wren always take the places on both sides of Punya — at the table, and walking in town too. Noel only reads her book and looks calm, like she does not care that she cannot sit next to him. At night, Karin and Wren sleep close to Punya, one on each side. But in the morning, Punya always wakes up with his face in Noel's big breasts. Some mornings she gets up early and wakes him with her mouth. Under her calm daytime face, Noel is the most lewd of the three.
 
 ---
 
-## Punya — Human Rogue (Thief), Level 4
+## Punya — Human Rogue (Thief), Level 5
 
-- Player: Yamamoto / Alignment: Chaotic Neutral / XP: 6,279 (Level 5 at 6,500 XP)
+- Player: Yamamoto / Alignment: Chaotic Neutral / XP: 6,522 (Level 6 at 14,000 XP)
 - Age: 55. A cool, very popular older man. The three companions (all adults) adore him
 - Background: Criminal (Specialty: Smuggler)
 - Ability Scores: STR 10 (+0) / DEX 18 (+4) / CON 12 (+1) / INT 9 (−1) / WIS 16 (+3) / CHA 14 (+2) *Level 4 Ability Score Improvement: DEX 16 → 18
-- Hit Point Maximum: 27 / Hit Dice: 4d8 / Speed: 30 / Initiative: +4
-- Saving Throws: Dexterity +6, Intelligence +1
-- Skills: Stealth +8 (Expertise), Sleight of Hand +8 (Expertise), Perception +5, Insight +5, Deception +4, Persuasion +4
-- Passive Perception: 15
-- Class Features: Expertise, Sneak Attack **2d6**, Thieves' Cant, Cunning Action, **Roguish Archetype: Thief** — Fast Hands (Sleight of Hand and Use an Object as a Bonus Action with Cunning Action), Second-Story Work (climbing costs no extra movement; running jump distance +3 ft)
+- Hit Point Maximum: 33 / Hit Dice: 5d8 / Speed: 30 / Initiative: +4
+- Saving Throws: Dexterity +7, Intelligence +2
+- Skills: Stealth +11 (Expertise), Sleight of Hand +11 (Expertise), Perception +6, Insight +6, Deception +5, Persuasion +5
+- Passive Perception: 16
+- Class Features: Expertise, Sneak Attack **3d6**, Thieves' Cant, Cunning Action, **Roguish Archetype: Thief** — Fast Hands (Sleight of Hand and Use an Object as a Bonus Action with Cunning Action), Second-Story Work (climbing costs no extra movement; running jump distance +3 ft), **Uncanny Dodge** (Level 5: use your Reaction to halve the damage of one attack from an attacker you can see)
 - Tool Proficiencies: Thieves' tools, Playing card set, Disguise kit
 - Languages: Common, Undercommon, Thieves' Cant
-- Weapons: Rapier (+7, 1d8+4), Shortbow (+7, 1d6+4, 27 arrows), Light crossbow (+7, 1d8+4; Karin carries it, 38 bolts), Dagger ×2 (+7, 1d4+4), **Silver dagger, antique** (+7, 1d4+4, counts as silver; bought Oct 6 for 30 gp. Punya's only silver weapon — kept off the sell list on Nov 15)
+- Weapons: Rapier (+8, 1d8+4), Shortbow (+8, 1d6+4, 26 arrows), Light crossbow (+8, 1d8+4; Karin carries it, 36 bolts), Dagger ×2 (+8, 1d4+4), **Silver dagger, antique** (+8, 1d4+4, counts as silver; bought Oct 6 for 30 gp. Punya's only silver weapon — kept off the sell list on Nov 15)
 - Equipment: **Breastplate** (AC 16 total; bought Nov 2 for 400 gp. No disadvantage on Stealth. The old Studded Leather was sold), Burglar's pack (ball bearings, string, bell, candles, crowbar, hammer, 10 pitons, hooded lantern, 2 flasks of oil, 5 days of rations, tinderbox, waterskin, 50 feet of hempen rope), crowbar (2 in total), dark hooded clothes, **a flask of holy water** (from the temple, Oct 14), **Potion of Healing ×1** (the Potion of Greater Healing from Yark's hoard was drunk in the lighthouse fight on Dec 19; a regular Potion of Healing was bought on Dec 20), **Mok's wolf-fang token** (from Mok, Nov 1. Show it in the South Hills and the hills listen), the empty purse with the tax seal (evidence), the note from the silver-cart raid (the original), Rowan's broken lantern, **periscope goggles** (four sets, made by Master Renner, picked up Jan 20 — mirror-only sight that blocks a basilisk's gaze)
 - Personality:
   - Trait: Always calm, never raises his voice
@@ -41,55 +41,55 @@ How they act (set 2026-11-08): in the daytime, Karin and Wren always take the pl
   - Bond: I will become the greatest thief that ever lived
   - Flaw: Turns tail and runs when things look bad
   - Feature: Criminal Contact
-- Money: party purse **541 gp 7 sp 2 cp** (shared by all four, held by Punya; as of Jan 24; the four periscope goggles are bought and paid for)
+- Money: party purse **636 gp 8 sp 2 cp** (shared by all four, held by Punya; as of Feb 1; the four periscope goggles are bought and paid for)
 
 ---
 
-## Karin — Human Monk (Way of the Open Hand), Level 4 (age 18)
+## Karin — Human Monk (Way of the Open Hand), Level 5 (age 18)
 
-- XP: 6,279 (Level 5 at 6,500 XP)
+- XP: 6,522 (Level 6 at 14,000 XP)
 - Background: Acolyte (raised in a temple) *decided by the DM, can be changed
 - Personality: Bold and energetic, the youngest at heart. Confident, loves teasing Punya. First to jump into a fight
 - Appearance: Height 163 cm, B87 / W55 / H87, black hair in a ponytail / Lingerie: **D70, black lace** (bought Oct 18 in Greywall) / Body: puffy nipples / Signature move: **Machine-Gun Cowgirl**
 - Ability Scores: STR 12 (+1) / DEX 18 (+4) / CON 14 (+2) / INT 9 (−1) / WIS 16 (+3) / CHA 10 (+0) *Level 4 Ability Score Improvement: DEX 16 → 18
-- Hit Point Maximum: 31 / Hit Dice: 4d8 / Speed: 40
+- Hit Point Maximum: 38 / Hit Dice: 5d8 / Speed: 40
 - Armor Class: 17 (Unarmored Defense = 10 + DEX + WIS, no armor or shield)
-- Saving Throws: Strength +3, Dexterity +6
-- Skills: Acrobatics +6, Athletics +3, Insight +5, Religion +1
-- Passive Perception: 13
-- Class Features: Unarmored Defense, Martial Arts (unarmed strike 1d4+4, shortsword), **Ki (4 points)**: Flurry of Blows, Patient Defense, Step of the Wind; Unarmored Movement (Speed 40); **Deflect Missiles** (Reaction: reduce a missile's damage by 1d10+7; if reduced to 0, catch it and throw it back); **Monastic Tradition: Way of the Open Hand — Open Hand Technique** (Flurry of Blows hits can knock prone (Strength save), push 15 ft, or stop the target's Reactions)
-- Weapons: **Silvered spear** (+6, 1d8+4 two-handed, counts as silver; from King Wulfgar's barrow, Dec 22 — her new main weapon), **Silvered shortsword** (+6, 1d6+4, counts as silver; her pick from Yark's hoard, Oct 31 — now a backup), Shortsword (+6, 1d6+4; kept as a spare), Unarmed strike (+6, 1d4+4), Dart ×9, Punya's **light crossbow** (+6, 1d8+4, 38 bolts; carried since Oct 12), **Potion of Healing ×1** (bought again on Dec 14; the Oct 18 bottle was used on Punya in the troll fight on Dec 10)
+- Saving Throws: Strength +4, Dexterity +7
+- Skills: Acrobatics +7, Athletics +4, Insight +6, Religion +2
+- Passive Perception: 14
+- Class Features: Unarmored Defense, Martial Arts (unarmed strike 1d4+4, shortsword), **Ki (5 points)**: Flurry of Blows, Patient Defense, Step of the Wind; Unarmored Movement (Speed 40); **Deflect Missiles** (Reaction: reduce a missile's damage by 1d10+9; if reduced to 0, catch it and throw it back); **Monastic Tradition: Way of the Open Hand — Open Hand Technique** (Flurry of Blows hits can knock prone (Strength save), push 15 ft, or stop the target's Reactions); **Extra Attack** (Level 5: attack twice with the Attack action); **Stunning Strike** (Level 5: on an unarmed hit, spend 1 Ki to force a Constitution save — on a failure the target is Stunned until the end of her next turn)
+- Weapons: **Silvered spear** (+7, 1d8+4 two-handed, counts as silver; from King Wulfgar's barrow, Dec 22 — her new main weapon), **Silvered shortsword** (+7, 1d6+4, counts as silver; her pick from Yark's hoard, Oct 31 — now a backup), Shortsword (+7, 1d6+4; kept as a spare), Unarmed strike (+7, 1d4+4), Dart ×9, Punya's **light crossbow** (+7, 1d8+4, 36 bolts; carried since Oct 12), **Potion of Healing ×1** (bought again on Dec 14; the Oct 18 bottle was used on Punya in the troll fight on Dec 10)
 - *The silver dagger (new, 45 gp) was sold on Nov 15
 - Tool/Instrument: Flute
 - Languages: Common, plus 3 more not yet chosen (1 extra Human language + 2 from Acolyte)
 
 ---
 
-## Wren — Human Druid (Circle of the Land: Forest), Level 4 (age 19)
+## Wren — Human Druid (Circle of the Land: Forest), Level 5 (age 19)
 
-- XP: 6,279 (Level 5 at 6,500 XP)
+- XP: 6,522 (Level 6 at 14,000 XP)
 - Background: Folk Hero *decided by the DM, can be changed
 - Personality: Gentle and sweet, a little airheaded. Always worries about everyone's wounds
 - Appearance: Height 149 cm, B90 / W56 / H86, brown wavy hair / Lingerie: **G65, white** (bought Oct 18 in Greywall) / Body: hairless (no pubic hair) / Signature move: **Geyser Squirt**
 - Ability Scores: STR 9 (−1) / DEX 12 (+1) / CON 12 (+1) / INT 12 (+1) / WIS 18 (+4) / CHA 16 (+3) *Level 4 Ability Score Improvement: WIS 16 → 18
-- Hit Point Maximum: 27 / Hit Dice: 4d8 / Speed: 30
+- Hit Point Maximum: 33 / Hit Dice: 5d8 / Speed: 30
 - Armor Class: 15 (Studded leather armor + Wooden shield; bought Nov 1 for 45 gp — the old Leather armor was sold on Nov 2)
-- Saving Throws: Intelligence +3, Wisdom +6
-- Skills: Perception +6, Medicine +6, Animal Handling +6, Survival +6
-- Passive Perception: 16
-- Class Features: Druidic, Spellcasting, Wild Shape, **Circle of the Land** (chosen Level 2: Bonus Cantrip, Natural Recovery — after a Short Rest, once per day, recover Spell Slots of up to half her level, rounded up). **Land: Forest (chosen Level 3)** — Circle Spells (always prepared, do not count against her prepared number): Barkskin, Spider Climb
+- Saving Throws: Intelligence +4, Wisdom +7
+- Skills: Perception +7, Medicine +7, Animal Handling +7, Survival +7
+- Passive Perception: 17
+- Class Features: Druidic, Spellcasting, Wild Shape, **Circle of the Land** (chosen Level 2: Bonus Cantrip, Natural Recovery — after a Short Rest, once per day, recover Spell Slots of up to half her level, rounded up). **Land: Forest (chosen Level 3)** — Circle Spells (always prepared, do not count against her prepared number): Barkskin, Spider Climb, Call Lightning, Plant Growth
 - Tool: Herbalism kit
 - Cantrips: Guidance, Produce Flame, Thorn Whip (the Circle of the Land bonus cantrip), **Druidcraft** (gained at Level 4)
-- Circle Spells (always prepared): Barkskin, Spider Climb
-- Prepared Spells (8): Cure Wounds, Healing Word, Entangle, Speak with Animals, Darkvision, Pass without Trace (the other two change day by day)
-- Spell Slots: 1st level ×4, 2nd level ×3 / Spell Save DC: 14 / Spell Attack: +6
+- Circle Spells (always prepared): Barkskin, Spider Climb, **Call Lightning, Plant Growth** (the Forest 3rd-level Circle Spells, added at Level 5)
+- Prepared Spells (9): Cure Wounds, Healing Word, Entangle, Speak with Animals, Darkvision, Pass without Trace (the other three change day by day)
+- Spell Slots: 1st level ×4, 2nd level ×3, 3rd level ×2 / Spell Save DC: 15 / Spell Attack: +7
 - Spell list (short explanations):
   - *Key: **Cantrip = no slot needed** (cast any number of times) / **1st level / 2nd level = uses one Spell Slot** / **Ritual = no slot if cast as a ritual** (but takes +10 minutes)*
 | Spell | Level | Description |
 |---|---|---|
 | Guidance | Cantrip | Touch one creature. It can add 1d4 to one ability check, one time in 1 minute. Concentration |
-| Produce Flame | Cantrip | Make a flame in your hand. It gives light (bright light 10 ft, dim light 10 ft more). You can throw it: range 30 ft, 1d8 fire damage |
-| Thorn Whip | Cantrip | A vine-like whip of thorns, range 30 ft. A spell attack: on a hit, 1d6 piercing damage, and a Large or smaller creature is pulled up to 10 ft closer to you |
+| Produce Flame | Cantrip | Make a flame in your hand. It gives light (bright light 10 ft, dim light 10 ft more). You can throw it: range 30 ft, 2d8 fire damage (up at Level 5) |
+| Thorn Whip | Cantrip | A vine-like whip of thorns, range 30 ft. A spell attack: on a hit, 2d6 piercing damage (up at Level 5), and a Large or smaller creature is pulled up to 10 ft closer to you |
 | Druidcraft | Cantrip | Small nature effects. A sign of the weather up to 24 hours ahead, making a seed sprout or a flower bloom, making leaves or petals fall, small sensory effects, and more |
 | Cure Wounds | 1st level | Touch a creature and heal 1d8 + 4 Hit Points |
 | Healing Word | 1st level | Range 60 ft. You can cast it as a Bonus Action. Heal 1d4 + 4 Hit Points. Good for waking up a friend on the ground, from far away |
@@ -100,34 +100,37 @@ How they act (set 2026-11-08): in the daytime, Karin and Wren always take the pl
 | Darkvision | 2nd level | Touch a creature. For 8 hours it sees in darkness out to 60 ft (the whole party is Human — nobody has darkvision of their own) |
 | Barkskin | 2nd level (Circle Spell) | Touch a creature. Its Armor Class cannot be below 16 while it lasts (up to 1 hour, Concentration) |
 | Spider Climb | 2nd level (Circle Spell) | Touch a creature. For 1 hour it can climb walls and ceilings, hands free (Concentration) |
+| Call Lightning | 3rd level (Circle Spell) | Range 120 ft. Call a storm cloud and strike a chosen point with lightning (a 5 ft radius cylinder; 3d10 lightning damage on a failed Dexterity save). Concentration, up to 10 minutes. Cannot be used indoors or underground |
+| Plant Growth | 3rd level (Circle Spell) | Plants in a 100 ft radius grow thick and wild, making Difficult Terrain (or enrich the land for a year) |
+| Water Breathing | 3rd level (Ritual) | Up to 10 creatures can breathe underwater for 24 hours. The key spell for the sahuagin nest |
 - Weapons: Quarterstaff (it doubles as her druidic focus), Wooden shield
-- Equipment: **Healer's Kit** (bought Oct 18; 9 uses left), **Potion of Healing ×1** (bought Dec 14, hers in the re-sharing)
+- Equipment: **Healer's Kit** (bought Oct 18; 8 uses left), **Potion of Healing ×1** (bought Dec 14, hers in the re-sharing)
 - Languages: Common, Sylvan (learned a little as a child from the elders of Lydford; the key tongue for talking with pixies and lizardfolk), Druidic
 
 ---
 
-## Noel — Human Wizard (School of Evocation), Level 4 (age 18)
+## Noel — Human Wizard (School of Evocation), Level 5 (age 18)
 
-- XP: 6,279 (Level 5 at 6,500 XP)
+- XP: 6,522 (Level 6 at 14,000 XP)
 - Background: Sage *decided by the DM, can be changed
 - Personality: Smart, with glasses. Calm, but sharp-tongued when embarrassed. Always reading a book. But the calm face is an act — in truth, she is the most lecherous of the three. She plans quietly and plays innocent after
 - Appearance: Height 156 cm, B103 / W61 / H94, navy-blue bob (longer in front), glasses / Lingerie: **J70, deep red** (bought Oct 18 in Greywall) / Body: an enlarged clitoris / Signature move: **Tornado Blowjob**
 - Ability Scores: STR 9 (−1) / DEX 12 (+1) / CON 12 (+1) / INT 18 (+4) / WIS 12 (+1) / CHA 16 (+3) *Level 4 Ability Score Improvement: INT 16 → 18
-- Hit Point Maximum: 22 / Hit Dice: 4d6 / Speed: 30
+- Hit Point Maximum: 27 / Hit Dice: 5d6 / Speed: 30
 - Armor Class: 11 (14 with Mage Armor)
-- Saving Throws: Intelligence +6, Wisdom +3
-- Skills: Arcana +6, Investigation +6, History +6, Insight +3
-- Passive Perception: 11
+- Saving Throws: Intelligence +7, Wisdom +4
+- Skills: Arcana +7, Investigation +7, History +7, Insight +4
+- Passive Perception: 12
 - Class Features: Spellcasting, Arcane Recovery, **Arcane Tradition: School of Evocation** (Sculpt Spells: Evocation spells can spare up to 1 + the spell's level creatures of her choice). **Familiar: Cinder**, a rat (a fey spirit, called by Find Familiar on Oct 12) — darkvision 30 ft, she can see through his eyes within 100 ft
 - Cantrips: Fire Bolt, Mage Hand, Prestidigitation, **Minor Illusion** (gained at Level 4)
-- Spellbook: Magic Missile, Mage Armor, Sleep, Shield, Detect Magic, Comprehend Languages, Fog Cloud, Find Familiar, Invisibility, Web, **Misty Step** (copied from a scroll on Nov 15; the scroll cost 150 gp, and the copying cost 100 gp), **Knock, Levitate** (her two free additions at Level 4)
-- Prepared Spells (8): Magic Missile, Mage Armor, Shield, Fog Cloud, Invisibility, Web (the other two change day by day)
-- Spell Slots: 1st level ×4, 2nd level ×3 / Spell Save DC: 14 / Spell Attack: +6
+- Spellbook: Magic Missile, Mage Armor, Sleep, Shield, Detect Magic, Comprehend Languages, Fog Cloud, Find Familiar, Invisibility, Web, **Misty Step** (copied from a scroll on Nov 15; the scroll cost 150 gp, and the copying cost 100 gp), **Knock, Levitate** (her two free additions at Level 4), **Fireball, Counterspell** (her two free additions at Level 5)
+- Prepared Spells (9): Magic Missile, Mage Armor, Shield, Fog Cloud, Invisibility, Web, Fireball (the other two change day by day)
+- Spell Slots: 1st level ×4, 2nd level ×3, 3rd level ×2 / Spell Save DC: 15 / Spell Attack: +7
 - Spell list (short explanations):
   - *Key: **Cantrip = no slot needed** (cast any number of times) / **1st level / 2nd level = uses one Spell Slot** / **Ritual = no slot if cast as a ritual** (but takes +10 minutes)*
 | Spell | Level | Description |
 |---|---|---|
-| Fire Bolt | Cantrip | A spell attack, range 120 ft. On a hit, 1d10 fire damage |
+| Fire Bolt | Cantrip | A spell attack, range 120 ft. On a hit, 2d10 fire damage (up at Level 5) |
 | Mage Hand | Cantrip | Make a magic hand, range 30 ft, for 1 minute. It can move things and open doors. It cannot attack or use magic items |
 | Prestidigitation | Cantrip | Small magic tricks. Light or put out a small fire, clean or dirty a thing, add a taste or a smell, make a small mark, and more |
 | Minor Illusion | Cantrip | Range 30 ft. Make a sound or an image inside a 5 ft cube, for up to 1 minute. An Investigation check can see through it |
@@ -141,6 +144,8 @@ How they act (set 2026-11-08): in the daytime, Karin and Wren always take the pl
 | Web | 2nd level | A 20 ft cube of sticky webs fills the space (Concentration, 1 hour). Creatures in it must make a Dexterity saving throw or be Restrained; the webs burn (2d4 fire to a creature that starts its turn in burning webs) |
 | Misty Step | 2nd level | As a Bonus Action, teleport to an empty space you can see within 30 ft. You take no opportunity attacks |
 | Knock | 2nd level | Open one lock, bar, or magic lock. But it makes a loud sound that can be heard up to **300 ft** away |
+| Fireball | 3rd level | Range 150 ft, a 20 ft radius blast. Creatures inside take 8d6 fire damage on a failed Dexterity save (half on a success). Sculpt Spells can spare her allies |
+| Counterspell | 3rd level | Cast it as a Reaction. Automatically stops a spell of 3rd level or lower being cast within 60 ft (an Intelligence check is needed for higher levels) |
 | Levitate | 2nd level | Float one creature or one loose object (up to 500 lb, about 227 kg) straight up. Concentration, up to 10 minutes. Sideways movement is only by pulling or pushing on fixed things |
 | Detect Magic | 1st level (Ritual) | You can feel magic within 30 ft. If you can see a magic aura, you learn its school of magic too. 10 minutes, Concentration |
 | Comprehend Languages | 1st level (Ritual) | For 1 hour, you understand every language you hear, and you can read writing when you touch the page |

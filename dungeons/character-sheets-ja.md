@@ -7,32 +7,32 @@ D&D 5e（2014 Basic Rules）/ DM: Pico
 
 | 名前 | クラス | 年齢 | HP | Armor Class | 役割 |
 |---|---|---|---|---|---|
-| Punya | Rogue 4, Thief（Yamamotoのキャラ、リーダー） | 55 | 27 | 16 | 隠密、罠、Sneak Attack |
-| Karin | Monk 4, Way of the Open Hand | 18 | 31 | 17 | 高速前衛、素手と槍 |
-| Wren | Druid 4, Circle of the Land (Forest) | 19 | 27 | 15 | 自然魔法、回復、サポート |
-| Noel | Wizard 4, School of Evocation | 18 | 22 | 11（Mage Armor で14） | 攻撃・便利系の魔法 |
+| Punya | Rogue 5, Thief（Yamamotoのキャラ、リーダー） | 55 | 33 | 16 | 隠密、罠、Sneak Attack |
+| Karin | Monk 5, Way of the Open Hand | 18 | 38 | 17 | 高速前衛、素手と槍 |
+| Wren | Druid 5, Circle of the Land (Forest) | 19 | 33 | 15 | 自然魔法、回復、サポート |
+| Noel | Wizard 5, School of Evocation | 18 | 27 | 11（Mage Armor で14） | 攻撃・便利系の魔法 |
 
-全員 Human、Level 4、Proficiency Bonus +2。XP: 各 6,279（Level 5 は 6,500 XP）。
+全員 Human、Level 5、Proficiency Bonus +3。XP: 各 6,522（Level 6 は 14,000 XP）。
 
 パーティの空気: 3人とも Punya（55歳）が好きで、自分のものにしたがっている。ただ3人いるので互いに牽制し合って、Punya の気を引こうと取り合っている真っ最中。
 振る舞いの型（2026-11-08 設定）: 昼間は Karin と Wren がいつも Punya の両隣を占める（テーブルでも、町を歩くときも）。Noel はいつも本を読むだけで平然としていて、隣になれなくても気にしていないように見える。夜は Karin と Wren が Punya を挟んでくっついて寝るのに、なぜか朝になると Punya は Noel の大きな胸に顔をうずめた状態で目覚める。早起きして口で起こしてくれる朝もある。平然とした昼の顔の下で、実は Noel がいちばんエロい。
 
 ---
 
-## Punya — Human Rogue (Thief), Level 4
+## Punya — Human Rogue (Thief), Level 5
 
-- Player: Yamamoto / Alignment: Chaotic Neutral / XP: 6,279（Level 5 は 6,500 XP）
+- Player: Yamamoto / Alignment: Chaotic Neutral / XP: 6,522（Level 6 は 14,000 XP）
 - 年齢: 55歳。渋くてモテモテのおじさん。3人の仲間（全員成人）から慕われている
 - Background: Criminal（Specialty: Smuggler）
 - Ability Scores: STR 10 (+0) / DEX 18 (+4) / CON 12 (+1) / INT 9 (−1) / WIS 16 (+3) / CHA 14 (+2)　※Level 4 の Ability Score Improvement で DEX 16 → 18
-- Hit Point Maximum: 27 / Hit Dice: 4d8 / Speed: 30 / Initiative: +4
-- Saving Throws: Dexterity +6、Intelligence +1
-- Skills: Stealth +8（Expertise）、Sleight of Hand +8（Expertise）、Perception +5、Insight +5、Deception +4、Persuasion +4
-- Passive Perception: 15
-- Class Features: Expertise、Sneak Attack **2d6**、Thieves' Cant、Cunning Action、**Roguish Archetype: Thief** — Fast Hands（Cunning Action の Bonus Action で Sleight of Hand や Use an Object ができる）、Second-Story Work（登攀で追加の移動コストなし、立ち幅跳びの距離 +3 ft）
+- Hit Point Maximum: 33 / Hit Dice: 5d8 / Speed: 30 / Initiative: +4
+- Saving Throws: Dexterity +7、Intelligence +2
+- Skills: Stealth +11（Expertise）、Sleight of Hand +11（Expertise）、Perception +6、Insight +6、Deception +5、Persuasion +5
+- Passive Perception: 16
+- Class Features: Expertise、Sneak Attack **3d6**、Thieves' Cant、Cunning Action、**Roguish Archetype: Thief** — Fast Hands（Cunning Action の Bonus Action で Sleight of Hand や Use an Object ができる）、Second-Story Work（登攀で追加の移動コストなし、立ち幅跳びの距離 +3 ft）、**Uncanny Dodge**（Level 5: 見えている攻撃者からの攻撃ダメージを Reaction で半減）
 - Tool Proficiencies: Thieves' tools、Playing card set、Disguise kit
 - Languages: Common、Undercommon、Thieves' Cant
-- Weapons: Rapier（+7、1d8+4）、Shortbow（+7、1d6+4、矢27本）、Light crossbow（+7、1d8+4；Karin が所持、ボルト38本）、Dagger ×2（+7、1d4+4）、**Silver dagger（アンティーク）**（+7、1d4+4、銀として扱う；10/6 に 30 gp で購入。Punya の唯一の銀武器——11/15 の売却候補から外して保持）
+- Weapons: Rapier（+8、1d8+4）、Shortbow（+8、1d6+4、矢26本）、Light crossbow（+8、1d8+4；Karin が所持、ボルト36本）、Dagger ×2（+8、1d4+4）、**Silver dagger（アンティーク）**（+8、1d4+4、銀として扱う；10/6 に 30 gp で購入。Punya の唯一の銀武器——11/15 の売却候補から外して保持）
 - Equipment: **Breastplate**（AC 合計16；11/2 に 400 gp で購入。Stealth の不利なし。以前の Studded Leather は売却済み）、Burglar's pack（ball bearings、string、bell、candles、crowbar、hammer、piton ×10、hooded lantern、oil ×2、rations 5日分、tinderbox、waterskin、hempen rope 50 ft）、crowbar（合計2本）、黒いフード付きの服、**聖水の小瓶**（10/14 に聖堂から）、**Potion of Healing ×1**（Yark の財宝の Potion of Greater Healing は 12/19 の灯台戦で飲んだ。12/20 に通常の Potion of Healing を買い直した）、**Mok の狼の牙のトークン**（11/1 に Mok から。South Hills で見せれば丘が聞く）、税の封の空財布（証拠品）、銀の荷車の襲撃メモ（原本）、Rowan の壊れたランタン、**潜望鏡ゴーグル**（4人分、Master Renner 製、1/20 受け取り。鏡だけの視界でバジリスクの視線を遮断する）
 - Personality:
   - Trait: 常に冷静で、声を荒らげない
@@ -41,56 +41,56 @@ D&D 5e（2014 Basic Rules）/ DM: Pico
   - Bond: 史上最高の盗賊になる
   - Flaw: 形勢が悪くなると逃げる
   - Feature: Criminal Contact
-- 所持金: パーティ共同財布 **541 gp 7 sp 2 cp**（4人共有、Punya が管理；1/24 時点。潜望鏡ゴーグル4人分は購入済み）
+- 所持金: パーティ共同財布 **636 gp 8 sp 2 cp**（4人共有、Punya が管理；2/1 時点。潜望鏡ゴーグル4人分は購入済み）
 
 ---
 
-## Karin — Human Monk (Way of the Open Hand), Level 4（18歳）
+## Karin — Human Monk (Way of the Open Hand), Level 5（18歳）
 
-- XP: 6,279（Level 5 は 6,500 XP）
+- XP: 6,522（Level 6 は 14,000 XP）
 - Background: Acolyte（寺育ち）※DM決定、変更可
 - Personality: 大胆で元気な末っ子気質。自信家で、よく Punya をからかう。戦いでは真っ先に飛び込む
 - 外見: 身長 163 cm、B87 / W55 / H87、黒髪のポニーテール / ランジェリー: **D70、黒レース**（10/18 に Greywall で購入） / 体の特徴: パフィーニップル / 得意技: **マシンガン騎乗位**
 - Ability Scores: STR 12 (+1) / DEX 18 (+4) / CON 14 (+2) / INT 9 (−1) / WIS 16 (+3) / CHA 10 (+0)　※Level 4 の Ability Score Improvement で DEX 16 → 18
-- Hit Point Maximum: 31 / Hit Dice: 4d8 / Speed: 40
+- Hit Point Maximum: 38 / Hit Dice: 5d8 / Speed: 40
 - Armor Class: 17（Unarmored Defense = 10 + DEX + WIS、鎧・盾なし）
-- Saving Throws: Strength +3、Dexterity +6
-- Skills: Acrobatics +6、Athletics +3、Insight +5、Religion +1
-- Passive Perception: 13
-- Class Features: Unarmored Defense、Martial Arts（素手 1d4+4、Shortsword）、**Ki（4点）**: Flurry of Blows、Patient Defense、Step of the Wind；Unarmored Movement（Speed 40）；**Deflect Missiles**（Reaction: 飛び道具のダメージを 1d10+7 軽減、0 にしたら掴んで投げ返せる）；**Monastic Tradition: Way of the Open Hand — Open Hand Technique**（Flurry の命中ごとに、転倒（Strength セーブ）／15 ft 押し出し／リアクション封じのいずれか）
-- Weapons: **銀メッキの槍**（+6、両手で 1d8+4、銀として扱う；12/22 に Wulfgar 王の古墳から得た。新しい主武器）、**銀メッキの Shortsword**（+6、1d6+4、銀として扱う；10/31 に Yark の財宝から選んだ取り分、予備に回った）、Shortsword（+6、1d6+4；予備として所持）、Unarmed strike（+6、1d4+4）、Dart ×9、Punya の **Light crossbow**（+6、1d8+4、ボルト38本；10/12 から所持）、**Potion of Healing ×1**（12/14 に買い直し。10/18 購入分は 12/10 のトロール戦で Punya に使った）
+- Saving Throws: Strength +4、Dexterity +7
+- Skills: Acrobatics +7、Athletics +4、Insight +6、Religion +2
+- Passive Perception: 14
+- Class Features: Unarmored Defense、Martial Arts（素手 1d4+4、Shortsword）、**Ki（5点）**: Flurry of Blows、Patient Defense、Step of the Wind；Unarmored Movement（Speed 40）；**Deflect Missiles**（Reaction: 飛び道具のダメージを 1d10+9 軽減、0 にしたら掴んで投げ返せる）；**Monastic Tradition: Way of the Open Hand — Open Hand Technique**（Flurry の命中ごとに、転倒（Strength セーブ）／15 ft 押し出し／リアクション封じのいずれか）；**Extra Attack**（Level 5: Attack アクションで2回攻撃）；**Stunning Strike**（Level 5: 素手の命中時に Ki 1点で Constitution セーブを強要し、失敗した相手を次の自分のターン終了まで Stunned にする）
+- Weapons: **銀メッキの槍**（+7、両手で 1d8+4、銀として扱う；12/22 に Wulfgar 王の古墳から得た。新しい主武器）、**銀メッキの Shortsword**（+7、1d6+4、銀として扱う；10/31 に Yark の財宝から選んだ取り分、予備に回った）、Shortsword（+7、1d6+4；予備として所持）、Unarmed strike（+7、1d4+4）、Dart ×9、Punya の **Light crossbow**（+7、1d8+4、ボルト36本；10/12 から所持）、**Potion of Healing ×1**（12/14 に買い直し。10/18 購入分は 12/10 のトロール戦で Punya に使った）
 - ※ Silver dagger（新品、45 gp）は 11/15 に売却済み
 - Tool/Instrument: Flute
 - Languages: Common のほか3つ未選択（Human の追加1つ + Acolyte の2つ）
 
 ---
 
-## Wren — Human Druid (Circle of the Land: Forest), Level 4（19歳）
+## Wren — Human Druid (Circle of the Land: Forest), Level 5（19歳）
 
-- XP: 6,279（Level 5 は 6,500 XP）
+- XP: 6,522（Level 6 は 14,000 XP）
 - Background: Folk Hero ※DM決定、変更可
 - Personality: 優しくて少し天然。みんなの傷をいつも心配している
 - 外見: 身長 149 cm、B90 / W56 / H86、茶色のウェーブ髪 / ランジェリー: **G65、白**（10/18 に Greywall で購入） / 体の特徴: パイパン / 得意技: **ゲイザー潮吹き**
 - Ability Scores: STR 9 (−1) / DEX 12 (+1) / CON 12 (+1) / INT 12 (+1) / WIS 18 (+4) / CHA 16 (+3)　※Level 4 の Ability Score Improvement で WIS 16 → 18
-- Hit Point Maximum: 27 / Hit Dice: 4d8 / Speed: 30
+- Hit Point Maximum: 33 / Hit Dice: 5d8 / Speed: 30
 - Armor Class: 15（Studded leather armor + Wooden shield；11/1 に 45 gp で購入——古い Leather armor は 11/2 に売却済み）
-- Saving Throws: Intelligence +3、Wisdom +6
-- Skills: Perception +6、Medicine +6、Animal Handling +6、Survival +6
-- Passive Perception: 16
-- Class Features: Druidic、Spellcasting、Wild Shape、**Circle of the Land**（Level 2 で選択： Bonus Cantrip、Natural Recovery — Short Rest の後、1日1回、Spell Slots をレベルの半分（切り上げ）まで回復）。**Land: Forest（Level 3 で選択）** — Circle Spells（常時準備、準備数に数えない）: Barkskin、Spider Climb
+- Saving Throws: Intelligence +4、Wisdom +7
+- Skills: Perception +7、Medicine +7、Animal Handling +7、Survival +7
+- Passive Perception: 17
+- Class Features: Druidic、Spellcasting、Wild Shape、**Circle of the Land**（Level 2 で選択： Bonus Cantrip、Natural Recovery — Short Rest の後、1日1回、Spell Slots をレベルの半分（切り上げ）まで回復）。**Land: Forest（Level 3 で選択）** — Circle Spells（常時準備、準備数に数えない）: Barkskin、Spider Climb、Call Lightning、Plant Growth
 - Tool: Herbalism kit
 - Cantrips: Guidance、Produce Flame、Thorn Whip（Circle of the Land の Bonus Cantrip）、**Druidcraft**（Level 4 で取得）
-- Circle Spells（常時準備）: Barkskin、Spider Climb
-- Prepared Spells（8）: Cure Wounds、Healing Word、Entangle、Speak with Animals、Darkvision、Pass without Trace（ほか2つは日替わり）
-- Spell Slots: 1st level ×4、2nd level ×3 / Spell Save DC: 14 / Spell Attack: +6
+- Circle Spells（常時準備）: Barkskin、Spider Climb、**Call Lightning、Plant Growth**（Level 5 で追加された Forest の 3rd level Circle Spells）
+- Prepared Spells（9）: Cure Wounds、Healing Word、Entangle、Speak with Animals、Darkvision、Pass without Trace（ほか3つは日替わり）
+- Spell Slots: 1st level ×4、2nd level ×3、3rd level ×2 / Spell Save DC: 15 / Spell Attack: +7
 - 呪文リスト（簡単な説明）:
   - ※ 表記ルール: **Cantrip = スロット不要**（何度でも唱えられる）/ **1st level・2nd level = Spell Slot を1つ使う** / **Ritual 可 = 儀式として唱えればスロット不要**（その代わり+10分かかる）
 
 | 呪文 | レベル | 説明 |
 |---|---|---|
 | Guidance | Cantrip | 触れた creature 1体は、1分以内に1回だけ ability check に 1d4 を足せる。Concentration |
-| Produce Flame | Cantrip | 手の中に炎を作る。明かりになる（Bright Light 10 ft、Dim Light さらに10 ft）。投げると射程 30 ft で 1d8 Fire damage |
-| Thorn Whip | Cantrip | 棘のある蔓の鞭、射程 30 ft。呪文攻撃: ヒットで 1d6 piercing ダメージ、Large 以下のクリーチャーを最大 10 ft まで自分の方へ引き寄せる |
+| Produce Flame | Cantrip | 手の中に炎を作る。明かりになる（Bright Light 10 ft、Dim Light さらに10 ft）。投げると射程 30 ft で 2d8 Fire damage（Level 5 で増加） |
+| Thorn Whip | Cantrip | 棘のある蔓の鞭、射程 30 ft。呪文攻撃: ヒットで 2d6 piercing ダメージ（Level 5 で増加）、Large 以下のクリーチャーを最大 10 ft まで自分の方へ引き寄せる |
 | Druidcraft | Cantrip | 小さな自然の効果。24時間先までの天気の兆し、種を芽吹かせる・花を咲かせる、葉や花びらを落とす、小さな感覚効果など |
 | Cure Wounds | 1st level | 触れた creature の Hit Points を 1d8 + 4 回復する |
 | Healing Word | 1st level | 射程 60 ft。Bonus Action で唱えられて、Hit Points を 1d4 + 4 回復する。倒れた仲間を遠くから起こせる |
@@ -101,35 +101,38 @@ D&D 5e（2014 Basic Rules）/ DM: Pico
 | Darkvision | 2nd level | 触れた creature は8時間、60 ft 先まで暗闇で見える（このパーティは全員 Human で、素の暗視は誰も持っていない） |
 | Barkskin | 2nd level（Circle Spell） | 触れた creature の Armor Class は持続中（最大1時間、Concentration）16 未満にならない |
 | Spider Climb | 2nd level（Circle Spell） | 触れた creature は1時間（Concentration）、両手フリーで壁や天井を登れる |
+| Call Lightning | 3rd level（Circle Spell） | 射程 120 ft。嵐雲を呼び、選んだ地点に雷を落とす（半径5 ft の円柱内、Dexterity セーブ失敗で 3d10 雷ダメージ）。Concentration、最大10分。屋内や地下では使えない |
+| Plant Growth | 3rd level（Circle Spell） | 半径 100 ft の植物を異常に成長させ、Difficult Terrain にする（1年間土地を豊かにする使い方もある） |
+| Water Breathing | 3rd level（Ritual 可） | 最大10体が24時間、水中で呼吸できる。サハギンの巣の攻略に必須 |
 - Weapons: Quarterstaff（ドルイドの焦点具を兼ねる）、Wooden shield
-- Equipment: **Healer's Kit**（10/18 に購入、残り9回）、**Potion of Healing ×1**（12/14 に購入、再配分で所持）
+- Equipment: **Healer's Kit**（10/18 に購入、残り8回）、**Potion of Healing ×1**（12/14 に購入、再配分で所持）
 - Languages: Common、Sylvan（子供のころ Lydford の古老に少し習った。ピクシーやリザードフォークとの交渉で要になる）、Druidic
 
 ---
 
-## Noel — Human Wizard (School of Evocation), Level 4（18歳）
+## Noel — Human Wizard (School of Evocation), Level 5（18歳）
 
-- XP: 6,279（Level 5 は 6,500 XP）
+- XP: 6,522（Level 6 は 14,000 XP）
 - Background: Sage ※DM決定、変更可
 - Personality: 賢くて眼鏡。落ち着いているが、照れると毒舌。いつも本を読んでいる。ただし冷静なのは見せかけで、実は3人の中でいちばんスケベ。静かに計画を立てて、しらばっくれる
 - 外見: 身長 156 cm、B103 / W61 / H94、紺色の前下がりボブ、眼鏡 / ランジェリー: **J70、深紅**（10/18 に Greywall で購入） / 体の特徴: 陰核肥大 / 得意技: **トルネードフェラチオ**
 - Ability Scores: STR 9 (−1) / DEX 12 (+1) / CON 12 (+1) / INT 18 (+4) / WIS 12 (+1) / CHA 16 (+3)　※Level 4 の Ability Score Improvement で INT 16 → 18
-- Hit Point Maximum: 22 / Hit Dice: 4d6 / Speed: 30
+- Hit Point Maximum: 27 / Hit Dice: 5d6 / Speed: 30
 - Armor Class: 11（Mage Armor で 14）
-- Saving Throws: Intelligence +6、Wisdom +3
-- Skills: Arcana +6、Investigation +6、History +6、Insight +3
-- Passive Perception: 11
+- Saving Throws: Intelligence +7、Wisdom +4
+- Skills: Arcana +7、Investigation +7、History +7、Insight +4
+- Passive Perception: 12
 - Class Features: Spellcasting、Arcane Recovery、**Arcane Tradition: School of Evocation**（Sculpt Spells: Evocation 呪文で、1+呪文レベルの数の creature を巻き添えから外せる）。**使い魔: Cinder**、ネズミ（妖精の精霊。10/12 に Find Familiar で召喚）— Darkvision 30 ft、100 ft 以内なら Noel がその目で見られる
 - Cantrips: Fire Bolt、Mage Hand、Prestidigitation、**Minor Illusion**（Level 4 で取得）
-- Spellbook: Magic Missile、Mage Armor、Sleep、Shield、Detect Magic、Comprehend Languages、Fog Cloud、Find Familiar、Invisibility、Web、**Misty Step**（11/15 に巻物から書き写し。巻物 150 gp + 書き写し費用 100 gp）、**Knock、Levitate**（Level 4 の無料追加2つ）
-- Prepared Spells（8）: Magic Missile、Mage Armor、Shield、Fog Cloud、Invisibility、Web（ほか2つは日替わり）
-- Spell Slots: 1st level ×4、2nd level ×3 / Spell Save DC: 14 / Spell Attack: +6
+- Spellbook: Magic Missile、Mage Armor、Sleep、Shield、Detect Magic、Comprehend Languages、Fog Cloud、Find Familiar、Invisibility、Web、**Misty Step**（11/15 に巻物から書き写し。巻物 150 gp + 書き写し費用 100 gp）、**Knock、Levitate**（Level 4 の無料追加2つ）、**Fireball、Counterspell**（Level 5 の無料追加2つ）
+- Prepared Spells（9）: Magic Missile、Mage Armor、Shield、Fog Cloud、Invisibility、Web、Fireball（ほか2つは日替わり）
+- Spell Slots: 1st level ×4、2nd level ×3、3rd level ×2 / Spell Save DC: 15 / Spell Attack: +7
 - 呪文リスト（簡単な説明）:
   - ※ 表記ルール: **Cantrip = スロット不要**（何度でも唱えられる）/ **1st level・2nd level = Spell Slot を1つ使う** / **Ritual 可 = 儀式として唱えればスロット不要**（その代わり+10分かかる）
 
 | 呪文 | レベル | 説明 |
 |---|---|---|
-| Fire Bolt | Cantrip | 射程 120 ft の spell attack。命中すると 1d10 Fire damage |
+| Fire Bolt | Cantrip | 射程 120 ft の spell attack。命中すると 2d10 Fire damage（Level 5 で増加） |
 | Mage Hand | Cantrip | 射程 30 ft に魔法の手を作る（1分間）。物を動かしたり扉を開けたりできる。攻撃と magic item の起動はできない |
 | Prestidigitation | Cantrip | 小さな魔法の tricks。火をつける・消す、汚れを落とす／つける、味や匂いをつける、印を出すなど |
 | Minor Illusion | Cantrip | 射程 30 ft、5 ft 立方以内の音か像を作る（最大1分）。Investigation チェックで見破れる |
@@ -143,6 +146,8 @@ D&D 5e（2014 Basic Rules）/ DM: Pico
 | Web | 2nd level | 20 ft の立方体に粘つく糸が満ちる（Concentration、1時間）。中の creature は Dexterity セーブに失敗すると Restrained。糸は燃えて、燃えた糸の中でターンを始めた creature に 2d4 Fire damage |
 | Misty Step | 2nd level | Bonus Action で、目に見える 30 ft 以内の空きマスへ瞬間移動する。機会攻撃を受けない |
 | Knock | 2nd level | 錠・閂・魔法の錠を1つ開ける。ただし **300 ft 先まで聞こえる大きな音** がする |
+| Fireball | 3rd level | 射程 150 ft、半径 20 ft の爆発。中の creature は Dexterity セーブに失敗すると 8d6 Fire damage（成功で半減）。Sculpt Spells で味方を巻き添えから外せる |
+| Counterspell | 3rd level | Reaction で唱える。射程 60 ft 内で唱えられた 3rd level 以下の呪文を自動で打ち消す（4th level 以上は Intelligence チェック） |
 | Levitate | 2nd level | creature か固定されていない物体1つ（500 lb = 約227 kg まで）を垂直に浮かせる。Concentration、最大10分。横移動は固定物に手をかけて引く・押すだけ |
 | Detect Magic | 1st level（Ritual 可） | 30 ft 以内の魔法の存在がわかる。見えている魔法の aura からは、その魔法の school もわかる。10分間、Concentration |
 | Comprehend Languages | 1st level（Ritual 可） | 1時間、聞いた言語をすべて理解でき、触れた文字を読める |
