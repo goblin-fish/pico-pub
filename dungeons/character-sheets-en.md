@@ -178,6 +178,7 @@ How they act (set 2026-11-08): in the daytime, Karin and Wren always take the pl
 - On Jan 7 she was being put out of her room: two months' back rent, **4 gp**, owed to her landlord **Master Dodd**. Punya would not carry the rent that day — he took her to The Crown & Bell, fed her, and took a room at The Net & Hook. That night they had sex twice (both inside)
 - On Jan 8 they had sex seven times (five finished inside confirmed). Punya paid Dodd the 4 gp of back rent, her things were carried back in, and he now keeps a room with her (9 times in all, 7 inside confirmed)
 - On Jan 22 they had sex once (inside). Punya asked her to bear his child, and they promised that if she becomes pregnant, they will live together and raise it. Jill decided to take no other customers. In her whole life she has had only two partners: her village fiancé, and Punya (10 times in all, 8 inside)
+- On Jan 30, Punya visited her at midday. Her period is 2–3 days late (it usually comes around the end of the month; about two more weeks will tell). They had sex 3 times (all inside). Punya renewed his promise: he will come as many times as it takes until she is pregnant (13 times in all, 11 inside)
 
 ### Lily (Keeper of The Drunken Eel)
 
@@ -189,4 +190,11 @@ How they act (set 2026-11-08): in the daytime, Karin and Wren always take the pl
 
 - Age 22. The daughter of Garrick and Tessa, who keep The Ferryman's Rest, the cheap inn in Greywall. She serves and cleans the rooms. The inn never closes, so she has no days off, and she had no boyfriend
 - On the evening of Jan 19, Punya came to her while she was cleaning an empty room, and they had sex once (inside). It was her first kiss and her first sex. They told each other "I have always liked you", and parted with a deep kiss (1 time in all)
+- On the afternoon of Jan 29, Punya called her to the party's room, and they had sex twice (both inside). Because her inn work has always covered the party's room and laundry, she has known for a long time that the three companions are Punya's lovers (3 times in all)
+
+### Marit (the Daughter at The North Bank)
+
+- Age 21. The daughter of Benn (46) and Alis, who keep The North Bank, the inn at the settlement on the north side of the toll bridge. She serves and finishes the guest rooms
+- Born and raised in this settlement; she has never even been to Greywall. She has never had a boyfriend, and holding hands with a man was new to her too
+- On the night of Jan 31, she had sex with Punya in an empty room of the inn, where he was staying for the silk-cart escort (once, inside). It was her first kiss and her first sex. Punya promised he would surely come again, and she said she would wait (1 time in all)
 
