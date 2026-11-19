@@ -242,6 +242,13 @@ Clues, information, and open hooks from the story, gathered here by place.
 - **In progress**: the silk-cart escort (18 gp, Master Rupert; out January 31, due back February 1)
 - **On the board (from January 29)**: #7 skeletons in the cemetery below the castle (15 gp, the temple), #8 a gold box under the ice at the ford on the Brookfield road (12 gp). The will-o'-wisp at the sunken chapel (12 gp, Father Tolan's formal request) is also untouched
 
+### Addendum (as of February 12 — the hill resolved; the cemetery job)
+
+- **Meg (Alden's blacksmith)**: 44. On Feb 4 she lent the cart and Anvil free for the rescue (Anvil came home safe). On Feb 7 she melted the stolen Long Barrow crown — stones out, gold cast into a plain ingot of 7 lb — and took no fee. She is also Punya's lover
+- **The cemetery below the castle and the old mausoleum (Greywall)**: the burial ground at the castle's foot. The mausoleum at the back belongs to a family extinct for generations; no burials for decades. On the night of Feb 11 the party destroyed the wight of its dead head, whose death-air had been dragging his kin's and servants' bones out of their graves (six skeletons destroyed too). The gravedigger can work again
+- **Elin (acolyte of the great temple)**: 21, an acolyte at Greywall's great temple (fellow acolyte Falk, 19). She helps with the cemetery's patrol and upkeep. Her magic is small and holy only: Light, a little Cure Wounds, a beginner's Sacred Flame
+- **The Stone Lady (the hag under the hill)**: dead since Feb 6. Her two Stone Hands were killed at dawn on Feb 5, the pixies' fire-cups are free, and the seven sleeping men walked home to Alden. The matter under the hill is resolved
+
 ### The west (the West Hills and the Mistmarsh)
 
 - **Blue lights over the barrows**: at night, blue lights float over the graves — seen again over the Long Barrow on the night of Sep 23, while the robbers dug below. Barrow Hill lore: they are **the old kings, checking their doors**; they walk the barrows only and have **never** come down into the village — no attacks, no one taken
