@@ -81,7 +81,7 @@ D&D 5e（2014 Basic Rules）/ DM: Pico
 - Tool: Herbalism kit
 - Cantrips: Guidance、Produce Flame、Thorn Whip（Circle of the Land の Bonus Cantrip）、**Druidcraft**（Level 4 で取得）
 - Circle Spells（常時準備）: Barkskin、Spider Climb、**Call Lightning、Plant Growth**（Level 5 で追加された Forest の 3rd level Circle Spells）
-- Prepared Spells（9）: Cure Wounds、Healing Word、Entangle、Speak with Animals、Darkvision、Pass without Trace（ほか3つは日替わり）
+- Prepared Spells（9、3月13日現在）: Cure Wounds、Healing Word、Entangle、Speak with Animals、Lesser Restoration、Darkvision、Pass without Trace、Water Breathing、Daylight（毎朝選び直す）
 - Spell Slots: 1st level ×4、2nd level ×3、3rd level ×2 / Spell Save DC: 15 / Spell Attack: +7
 - 呪文リスト（簡単な説明）:
   - ※ 表記ルール: **Cantrip = スロット不要**（何度でも唱えられる）/ **1st level・2nd level = Spell Slot を1つ使う** / **Ritual 可 = 儀式として唱えればスロット不要**（その代わり+10分かかる）
@@ -104,6 +104,7 @@ D&D 5e（2014 Basic Rules）/ DM: Pico
 | Call Lightning | 3rd level（Circle Spell） | 射程 120 ft。嵐雲を呼び、選んだ地点に雷を落とす（半径5 ft の円柱内、Dexterity セーブ失敗で 3d10 雷ダメージ）。Concentration、最大10分。屋内や地下では使えない |
 | Plant Growth | 3rd level（Circle Spell） | 半径 100 ft の植物を異常に成長させ、Difficult Terrain にする（1年間土地を豊かにする使い方もある） |
 | Water Breathing | 3rd level（Ritual 可） | 最大10体が24時間、水中で呼吸できる。サハギンの巣の攻略に必須 |
+| Daylight | 3rd level | 半径 60 ft の明るい光（さらに 60 ft のほのかな光）を1時間作る。Concentration 不要。魔法の光なので水中でも使える |
 - Weapons: Quarterstaff（ドルイドの焦点具を兼ねる）、Wooden shield
 - Equipment: **Healer's Kit**（10/18 に購入、残り8回）、**Potion of Healing ×1**（12/14 に購入、再配分で所持）
 - Languages: Common、Sylvan（子供のころ Lydford の古老に少し習った。ピクシーやリザードフォークとの交渉で要になる）、Druidic
@@ -125,7 +126,7 @@ D&D 5e（2014 Basic Rules）/ DM: Pico
 - Class Features: Spellcasting、Arcane Recovery、**Arcane Tradition: School of Evocation**（Sculpt Spells: Evocation 呪文で、1+呪文レベルの数の creature を巻き添えから外せる）。**使い魔: Cinder**、ネズミ（妖精の精霊。10/12 に Find Familiar で召喚）— Darkvision 30 ft、100 ft 以内なら Noel がその目で見られる
 - Cantrips: Fire Bolt、Mage Hand、Prestidigitation、**Minor Illusion**（Level 4 で取得）
 - Spellbook: Magic Missile、Mage Armor、Sleep、Shield、Detect Magic、Comprehend Languages、Fog Cloud、Find Familiar、Invisibility、Web、**Misty Step**（11/15 に巻物から書き写し。巻物 150 gp + 書き写し費用 100 gp）、**Knock、Levitate**（Level 4 の無料追加2つ）、**Fireball、Counterspell**（Level 5 の無料追加2つ）
-- Prepared Spells（9）: Magic Missile、Mage Armor、Shield、Fog Cloud、Invisibility、Web、Fireball（ほか2つは日替わり）
+- Prepared Spells（9、3月13日現在）: Magic Missile、Mage Armor、Shield、Detect Magic、Invisibility、Web、Misty Step、Fireball、Counterspell（呪文書の15から毎朝9つ選ぶ）
 - Spell Slots: 1st level ×4、2nd level ×3、3rd level ×2 / Spell Save DC: 15 / Spell Attack: +7
 - 呪文リスト（簡単な説明）:
   - ※ 表記ルール: **Cantrip = スロット不要**（何度でも唱えられる）/ **1st level・2nd level = Spell Slot を1つ使う** / **Ritual 可 = 儀式として唱えればスロット不要**（その代わり+10分かかる）

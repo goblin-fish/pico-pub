@@ -81,7 +81,7 @@ How they act (set 2026-11-08): in the daytime, Karin and Wren always take the pl
 - Tool: Herbalism kit
 - Cantrips: Guidance, Produce Flame, Thorn Whip (the Circle of the Land bonus cantrip), **Druidcraft** (gained at Level 4)
 - Circle Spells (always prepared): Barkskin, Spider Climb, **Call Lightning, Plant Growth** (the Forest 3rd-level Circle Spells, added at Level 5)
-- Prepared Spells (9): Cure Wounds, Healing Word, Entangle, Speak with Animals, Darkvision, Pass without Trace (the other three change day by day)
+- Prepared Spells (9, as of Mar 13): Cure Wounds, Healing Word, Entangle, Speak with Animals, Lesser Restoration, Darkvision, Pass without Trace, Water Breathing, Daylight (re-chosen every morning)
 - Spell Slots: 1st level ×4, 2nd level ×3, 3rd level ×2 / Spell Save DC: 15 / Spell Attack: +7
 - Spell list (short explanations):
   - *Key: **Cantrip = no slot needed** (cast any number of times) / **1st level / 2nd level = uses one Spell Slot** / **Ritual = no slot if cast as a ritual** (but takes +10 minutes)*
@@ -103,6 +103,7 @@ How they act (set 2026-11-08): in the daytime, Karin and Wren always take the pl
 | Call Lightning | 3rd level (Circle Spell) | Range 120 ft. Call a storm cloud and strike a chosen point with lightning (a 5 ft radius cylinder; 3d10 lightning damage on a failed Dexterity save). Concentration, up to 10 minutes. Cannot be used indoors or underground |
 | Plant Growth | 3rd level (Circle Spell) | Plants in a 100 ft radius grow thick and wild, making Difficult Terrain (or enrich the land for a year) |
 | Water Breathing | 3rd level (Ritual) | Up to 10 creatures can breathe underwater for 24 hours. The key spell for the sahuagin nest |
+| Daylight | 3rd level | Creates bright light in a 60 ft radius (and dim light for another 60 ft) for 1 hour. No Concentration. Magical light, so it works underwater |
 - Weapons: Quarterstaff (it doubles as her druidic focus), Wooden shield
 - Equipment: **Healer's Kit** (bought Oct 18; 8 uses left), **Potion of Healing ×1** (bought Dec 14, hers in the re-sharing)
 - Languages: Common, Sylvan (learned a little as a child from the elders of Lydford; the key tongue for talking with pixies and lizardfolk), Druidic
@@ -124,7 +125,7 @@ How they act (set 2026-11-08): in the daytime, Karin and Wren always take the pl
 - Class Features: Spellcasting, Arcane Recovery, **Arcane Tradition: School of Evocation** (Sculpt Spells: Evocation spells can spare up to 1 + the spell's level creatures of her choice). **Familiar: Cinder**, a rat (a fey spirit, called by Find Familiar on Oct 12) — darkvision 30 ft, she can see through his eyes within 100 ft
 - Cantrips: Fire Bolt, Mage Hand, Prestidigitation, **Minor Illusion** (gained at Level 4)
 - Spellbook: Magic Missile, Mage Armor, Sleep, Shield, Detect Magic, Comprehend Languages, Fog Cloud, Find Familiar, Invisibility, Web, **Misty Step** (copied from a scroll on Nov 15; the scroll cost 150 gp, and the copying cost 100 gp), **Knock, Levitate** (her two free additions at Level 4), **Fireball, Counterspell** (her two free additions at Level 5)
-- Prepared Spells (9): Magic Missile, Mage Armor, Shield, Fog Cloud, Invisibility, Web, Fireball (the other two change day by day)
+- Prepared Spells (9, as of Mar 13): Magic Missile, Mage Armor, Shield, Detect Magic, Invisibility, Web, Misty Step, Fireball, Counterspell (9 chosen from the 15 in the spellbook every morning)
 - Spell Slots: 1st level ×4, 2nd level ×3, 3rd level ×2 / Spell Save DC: 15 / Spell Attack: +7
 - Spell list (short explanations):
   - *Key: **Cantrip = no slot needed** (cast any number of times) / **1st level / 2nd level = uses one Spell Slot** / **Ritual = no slot if cast as a ritual** (but takes +10 minutes)*
