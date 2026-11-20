@@ -1,7 +1,7 @@
 # Character Sheets (the whole party of four)
 
 D&D 5e (2014 Basic Rules) / DM: Pico
-Last update: 2026-11-20
+Last update: 2026-11-21
 
 ## Party overview
 
@@ -12,7 +12,7 @@ Last update: 2026-11-20
 | Wren | Druid 5, Circle of the Land (Forest) | 19 | 33 | 15 | Nature magic, healing, support |
 | Noel | Wizard 5, School of Evocation | 18 | 27 | 11 (14 with Mage Armor) | Attack and utility magic |
 
-All Human, Level 5, Proficiency Bonus +3. XP: 7,222 each (Level 6 at 14,000 XP).
+All Human, Level 5, Proficiency Bonus +3. XP: 8,609 each (Level 6 at 14,000 XP).
 
 The mood of the party: all three of them love Punya (55) and want him for themselves. But there are three of them, so they keep each other in check and fight over his attention.
 How they act (set 2026-11-08): in the daytime, Karin and Wren always take the places on both sides of Punya — at the table, and walking in town too. Noel only reads her book and looks calm, like she does not care that she cannot sit next to him. At night, Karin and Wren sleep close to Punya, one on each side. But in the morning, Punya always wakes up with his face in Noel's big breasts. Some mornings she gets up early and wakes him with her mouth. Under her calm daytime face, Noel is the most lewd of the three.
@@ -21,7 +21,7 @@ How they act (set 2026-11-08): in the daytime, Karin and Wren always take the pl
 
 ## Punya — Human Rogue (Thief), Level 5
 
-- Player: Yamamoto / Alignment: Chaotic Neutral / XP: 7,222 (Level 6 at 14,000 XP)
+- Player: Yamamoto / Alignment: Chaotic Neutral / XP: 8,609 (Level 6 at 14,000 XP)
 - Age: 55. A cool, very popular older man. The three companions (all adults) adore him
 - Background: Criminal (Specialty: Smuggler)
 - Ability Scores: STR 10 (+0) / DEX 18 (+4) / CON 12 (+1) / INT 9 (−1) / WIS 16 (+3) / CHA 14 (+2) *Level 4 Ability Score Improvement: DEX 16 → 18
@@ -41,13 +41,13 @@ How they act (set 2026-11-08): in the daytime, Karin and Wren always take the pl
   - Bond: I will become the greatest thief that ever lived
   - Flaw: Turns tail and runs when things look bad
   - Feature: Criminal Contact
-- Money: party purse **1,040 gp 6 sp 2 cp** (shared by all four, held by Punya; as of Feb 12; the four periscope goggles are bought and paid for)
+- Money: party purse **1,314 gp 3 sp 2 cp** (shared by all four, held by Punya; as of Mar 23)
 
 ---
 
 ## Karin — Human Monk (Way of the Open Hand), Level 5 (age 18)
 
-- XP: 7,222 (Level 6 at 14,000 XP)
+- XP: 8,609 (Level 6 at 14,000 XP)
 - Background: Acolyte (raised in a temple) *decided by the DM, can be changed
 - Personality: Bold and energetic, the youngest at heart. Confident, loves teasing Punya. First to jump into a fight
 - Appearance: Height 163 cm, B87 / W55 / H87, black hair in a ponytail / Lingerie: **D70, black lace** (bought Oct 18 in Greywall) / Body: puffy nipples / Signature move: **Machine-Gun Cowgirl**
@@ -67,7 +67,7 @@ How they act (set 2026-11-08): in the daytime, Karin and Wren always take the pl
 
 ## Wren — Human Druid (Circle of the Land: Forest), Level 5 (age 19)
 
-- XP: 7,222 (Level 6 at 14,000 XP)
+- XP: 8,609 (Level 6 at 14,000 XP)
 - Background: Folk Hero *decided by the DM, can be changed
 - Personality: Gentle and sweet, a little airheaded. Always worries about everyone's wounds
 - Appearance: Height 149 cm, B90 / W56 / H86, brown wavy hair / Lingerie: **G65, white** (bought Oct 18 in Greywall) / Body: hairless (no pubic hair) / Signature move: **Geyser Squirt**
@@ -105,14 +105,14 @@ How they act (set 2026-11-08): in the daytime, Karin and Wren always take the pl
 | Water Breathing | 3rd level (Ritual) | Up to 10 creatures can breathe underwater for 24 hours. The key spell for the sahuagin nest |
 | Daylight | 3rd level | Creates bright light in a 60 ft radius (and dim light for another 60 ft) for 1 hour. No Concentration. Magical light, so it works underwater |
 - Weapons: Quarterstaff (it doubles as her druidic focus), Wooden shield
-- Equipment: **Healer's Kit** (bought Oct 18; 8 uses left), **Potion of Healing ×1** (bought Dec 14, hers in the re-sharing)
+- Equipment: **Healer's Kit** (bought Oct 18; 7 uses left), **Potion of Healing ×1** (bought Dec 14, hers in the re-sharing)
 - Languages: Common, Sylvan (learned a little as a child from the elders of Lydford; the key tongue for talking with pixies and lizardfolk), Druidic
 
 ---
 
 ## Noel — Human Wizard (School of Evocation), Level 5 (age 18)
 
-- XP: 7,222 (Level 6 at 14,000 XP)
+- XP: 8,609 (Level 6 at 14,000 XP)
 - Background: Sage *decided by the DM, can be changed
 - Personality: Smart, with glasses. Calm, but sharp-tongued when embarrassed. Always reading a book. But the calm face is an act — in truth, she is the most lecherous of the three. She plans quietly and plays innocent after
 - Appearance: Height 156 cm, B103 / W61 / H94, navy-blue bob (longer in front), glasses / Lingerie: **J70, deep red** (bought Oct 18 in Greywall) / Body: an enlarged clitoris / Signature move: **Tornado Blowjob**
@@ -122,7 +122,7 @@ How they act (set 2026-11-08): in the daytime, Karin and Wren always take the pl
 - Saving Throws: Intelligence +7, Wisdom +4
 - Skills: Arcana +7, Investigation +7, History +7, Insight +4
 - Passive Perception: 12
-- Class Features: Spellcasting, Arcane Recovery, **Arcane Tradition: School of Evocation** (Sculpt Spells: Evocation spells can spare up to 1 + the spell's level creatures of her choice). **Familiar: Cinder**, a rat (a fey spirit, called by Find Familiar on Oct 12) — darkvision 30 ft, she can see through his eyes within 100 ft
+- Class Features: Spellcasting, Arcane Recovery, **Arcane Tradition: School of Evocation** (Sculpt Spells: Evocation spells can spare up to 1 + the spell's level creatures of her choice). **Familiar: Cinder**, an octopus (a fey spirit, called by Find Familiar on Oct 12; his shape was changed for sea scouting on Feb 19 — a rat before that) — darkvision 30 ft, she can see through his eyes within 100 ft
 - Cantrips: Fire Bolt, Mage Hand, Prestidigitation, **Minor Illusion** (gained at Level 4)
 - Spellbook: Magic Missile, Mage Armor, Sleep, Shield, Detect Magic, Comprehend Languages, Fog Cloud, Find Familiar, Invisibility, Web, **Misty Step** (copied from a scroll on Nov 15; the scroll cost 150 gp, and the copying cost 100 gp), **Knock, Levitate** (her two free additions at Level 4), **Fireball, Counterspell** (her two free additions at Level 5)
 - Prepared Spells (9, as of Mar 13): Magic Missile, Mage Armor, Shield, Detect Magic, Invisibility, Web, Misty Step, Fireball, Counterspell (9 chosen from the 15 in the spellbook every morning)
@@ -194,6 +194,7 @@ How they act (set 2026-11-08): in the daytime, Karin and Wren always take the pl
 - On the night of Jan 14, Punya visited the inn alone, and they had sex in her room twice (both inside) (2 times in all)
 - On the night of Feb 15 they had sex once. They also had sex on the nights of Feb 17, Feb 22, and Feb 24 (once each) (6 times in all)
 - On the night of Mar 8 they had sex once (inside). They also had sex at noon on Mar 13 (once) (8 times in all)
+- They also had sex on the nights of Mar 14, Mar 15, and Mar 16 (once each) (11 times in all)
 
 ### Nell (the Daughter at The Ferryman's Rest)
 
@@ -228,10 +229,18 @@ How they act (set 2026-11-08): in the daytime, Karin and Wren always take the pl
 - Two years ago she had sex once with a sailor whose ship had called at the port. The man sailed away and never came back
 - On the afternoon of Feb 27, Punya talked her into bed at the inn, and they had sex (twice, inside). Punya promised to take many Brinewick-route jobs so he could come and see her, told her he loved her, and they parted with a deep kiss (2 times in all)
 - On the evening of Mar 4, she met Punya again at the inn when the second escort run called at Brinewick; they talked of love and had sex (once) (3 times in all)
+- On the afternoon of Mar 19, the Dunmore run called at Brinewick. She brought tea to the party's room, Punya talked her into bed, and they had sex (once) (4 times in all)
 
 ### Maud (the Washerwoman of Brinewick)
 
 - Age 42. Gwen's mother. She takes in laundry and mending for the inn and for sailors, and works the salt pans in the busy season. Her husband, a fisherman, died in a storm five years ago, and she has lived with Gwen alone ever since. Men have courted her, but she refused them all for her late husband's sake
 - On the evening of Feb 27, she met Punya on her way home from work (he had gone ahead and made it look like chance), took him into her house, and they had sex (twice). He was her first man in five years. Punya told her he loved her, and they parted with a deep kiss (2 times in all)
 - On the evening of Mar 4, Punya came to meet her at the wash yard; they went home together and had sex (once) (3 times in all)
+- On the evening of Mar 19, Punya waited in front of her house for her work to end; they went in together and had sex (once). Gwen came home in the middle of it, and Punya escaped through the back window with Cunning Action (4 times in all)
 
+
+### Tess (the Serving Girl at The Copper Vat)
+
+- Age 21. She serves at The Copper Vat, the inn of Dunmore. Freckled, and quick to notice things. The innkeeper, Master Bell, is a former wine merchant
+- She has no boyfriend. The boys of the town are childish, and the sailors who court her are rough and gone the next day, so she has never taken any of them up
+- On Mar 22, she told the newly arrived Punya the rumor of the vanishing wine barrels, and got Bell to introduce the party to the merchants' hall. When the case was solved, Punya treated her to wine in thanks; the drink helped, and they had sex in his room at the inn (3 times). Punya promised, "I leave tomorrow, but I will surely come again — wait for me", and they parted with a deep kiss (3 times in all)

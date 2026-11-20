@@ -1,7 +1,7 @@
 # キャラクターシート（パーティ4人分）
 
 D&D 5e（2014 Basic Rules）/ DM: Pico
-最終更新: 2026-11-20
+最終更新: 2026-11-21
 
 ## パーティ一覧
 
@@ -12,7 +12,7 @@ D&D 5e（2014 Basic Rules）/ DM: Pico
 | Wren | Druid 5, Circle of the Land (Forest) | 19 | 33 | 15 | 自然魔法、回復、サポート |
 | Noel | Wizard 5, School of Evocation | 18 | 27 | 11（Mage Armor で14） | 攻撃・便利系の魔法 |
 
-全員 Human、Level 5、Proficiency Bonus +3。XP: 各 7,222（Level 6 は 14,000 XP）。
+全員 Human、Level 5、Proficiency Bonus +3。XP: 各 8,609（Level 6 は 14,000 XP）。
 
 パーティの空気: 3人とも Punya（55歳）が好きで、自分のものにしたがっている。ただ3人いるので互いに牽制し合って、Punya の気を引こうと取り合っている真っ最中。
 振る舞いの型（2026-11-08 設定）: 昼間は Karin と Wren がいつも Punya の両隣を占める（テーブルでも、町を歩くときも）。Noel はいつも本を読むだけで平然としていて、隣になれなくても気にしていないように見える。夜は Karin と Wren が Punya を挟んでくっついて寝るのに、なぜか朝になると Punya は Noel の大きな胸に顔をうずめた状態で目覚める。早起きして口で起こしてくれる朝もある。平然とした昼の顔の下で、実は Noel がいちばんエロい。
@@ -21,7 +21,7 @@ D&D 5e（2014 Basic Rules）/ DM: Pico
 
 ## Punya — Human Rogue (Thief), Level 5
 
-- Player: Yamamoto / Alignment: Chaotic Neutral / XP: 7,222（Level 6 は 14,000 XP）
+- Player: Yamamoto / Alignment: Chaotic Neutral / XP: 8,609（Level 6 は 14,000 XP）
 - 年齢: 55歳。渋くてモテモテのおじさん。3人の仲間（全員成人）から慕われている
 - Background: Criminal（Specialty: Smuggler）
 - Ability Scores: STR 10 (+0) / DEX 18 (+4) / CON 12 (+1) / INT 9 (−1) / WIS 16 (+3) / CHA 14 (+2)　※Level 4 の Ability Score Improvement で DEX 16 → 18
@@ -41,13 +41,13 @@ D&D 5e（2014 Basic Rules）/ DM: Pico
   - Bond: 史上最高の盗賊になる
   - Flaw: 形勢が悪くなると逃げる
   - Feature: Criminal Contact
-- 所持金: パーティ共同財布 **1,040 gp 6 sp 2 cp**（4人共有、Punya が管理；2/12 時点。潜望鏡ゴーグル4人分は購入済み）
+- 所持金: パーティ共同財布 **1,314 gp 3 sp 2 cp**（4人共有、Punya が管理；3/23 時点）
 
 ---
 
 ## Karin — Human Monk (Way of the Open Hand), Level 5（18歳）
 
-- XP: 7,222（Level 6 は 14,000 XP）
+- XP: 8,609（Level 6 は 14,000 XP）
 - Background: Acolyte（寺育ち）※DM決定、変更可
 - Personality: 大胆で元気な末っ子気質。自信家で、よく Punya をからかう。戦いでは真っ先に飛び込む
 - 外見: 身長 163 cm、B87 / W55 / H87、黒髪のポニーテール / ランジェリー: **D70、黒レース**（10/18 に Greywall で購入） / 体の特徴: パフィーニップル / 得意技: **マシンガン騎乗位**
@@ -67,7 +67,7 @@ D&D 5e（2014 Basic Rules）/ DM: Pico
 
 ## Wren — Human Druid (Circle of the Land: Forest), Level 5（19歳）
 
-- XP: 7,222（Level 6 は 14,000 XP）
+- XP: 8,609（Level 6 は 14,000 XP）
 - Background: Folk Hero ※DM決定、変更可
 - Personality: 優しくて少し天然。みんなの傷をいつも心配している
 - 外見: 身長 149 cm、B90 / W56 / H86、茶色のウェーブ髪 / ランジェリー: **G65、白**（10/18 に Greywall で購入） / 体の特徴: パイパン / 得意技: **ゲイザー潮吹き**
@@ -106,14 +106,14 @@ D&D 5e（2014 Basic Rules）/ DM: Pico
 | Water Breathing | 3rd level（Ritual 可） | 最大10体が24時間、水中で呼吸できる。サハギンの巣の攻略に必須 |
 | Daylight | 3rd level | 半径 60 ft の明るい光（さらに 60 ft のほのかな光）を1時間作る。Concentration 不要。魔法の光なので水中でも使える |
 - Weapons: Quarterstaff（ドルイドの焦点具を兼ねる）、Wooden shield
-- Equipment: **Healer's Kit**（10/18 に購入、残り8回）、**Potion of Healing ×1**（12/14 に購入、再配分で所持）
+- Equipment: **Healer's Kit**（10/18 に購入、残り7回）、**Potion of Healing ×1**（12/14 に購入、再配分で所持）
 - Languages: Common、Sylvan（子供のころ Lydford の古老に少し習った。ピクシーやリザードフォークとの交渉で要になる）、Druidic
 
 ---
 
 ## Noel — Human Wizard (School of Evocation), Level 5（18歳）
 
-- XP: 7,222（Level 6 は 14,000 XP）
+- XP: 8,609（Level 6 は 14,000 XP）
 - Background: Sage ※DM決定、変更可
 - Personality: 賢くて眼鏡。落ち着いているが、照れると毒舌。いつも本を読んでいる。ただし冷静なのは見せかけで、実は3人の中でいちばんスケベ。静かに計画を立てて、しらばっくれる
 - 外見: 身長 156 cm、B103 / W61 / H94、紺色の前下がりボブ、眼鏡 / ランジェリー: **J70、深紅**（10/18 に Greywall で購入） / 体の特徴: 陰核肥大 / 得意技: **トルネードフェラチオ**
@@ -123,7 +123,7 @@ D&D 5e（2014 Basic Rules）/ DM: Pico
 - Saving Throws: Intelligence +7、Wisdom +4
 - Skills: Arcana +7、Investigation +7、History +7、Insight +4
 - Passive Perception: 12
-- Class Features: Spellcasting、Arcane Recovery、**Arcane Tradition: School of Evocation**（Sculpt Spells: Evocation 呪文で、1+呪文レベルの数の creature を巻き添えから外せる）。**使い魔: Cinder**、ネズミ（妖精の精霊。10/12 に Find Familiar で召喚）— Darkvision 30 ft、100 ft 以内なら Noel がその目で見られる
+- Class Features: Spellcasting、Arcane Recovery、**Arcane Tradition: School of Evocation**（Sculpt Spells: Evocation 呪文で、1+呪文レベルの数の creature を巻き添えから外せる）。**使い魔: Cinder**、タコ（妖精の精霊。10/12 に Find Familiar で召喚。2/19 に海の偵察用に姿を変更、それまではネズミ）— Darkvision 30 ft、100 ft 以内なら Noel がその目で見られる
 - Cantrips: Fire Bolt、Mage Hand、Prestidigitation、**Minor Illusion**（Level 4 で取得）
 - Spellbook: Magic Missile、Mage Armor、Sleep、Shield、Detect Magic、Comprehend Languages、Fog Cloud、Find Familiar、Invisibility、Web、**Misty Step**（11/15 に巻物から書き写し。巻物 150 gp + 書き写し費用 100 gp）、**Knock、Levitate**（Level 4 の無料追加2つ）、**Fireball、Counterspell**（Level 5 の無料追加2つ）
 - Prepared Spells（9、3月13日現在）: Magic Missile、Mage Armor、Shield、Detect Magic、Invisibility、Web、Misty Step、Fireball、Counterspell（呪文書の15から毎朝9つ選ぶ）
@@ -196,6 +196,7 @@ D&D 5e（2014 Basic Rules）/ DM: Pico
 - 1/14 の夜、Punya が一人で店を訪ね、彼女の部屋で関係を持った（2回、どちらも膣内）（合計2回）
 - 2/15 の夜、関係を持った（1回）。その後も 2/17、2/22、2/24 の夜に関係を持った（各1回）（合計6回）
 - 3/8 の夜、関係を持った（1回、膣内）。3/13 の昼にも関係を持った（1回）（合計8回）
+- 3/14、3/15、3/16 の夜にも関係を持った（各1回）（合計11回）
 
 ### Nell（The Ferryman's Rest の娘）
 
@@ -230,10 +231,18 @@ D&D 5e（2014 Basic Rules）/ DM: Pico
 - 2年前、寄港した船乗りと一度だけ関係を持ったことがある。その男はそのまま船で去った
 - 2/27 の昼過ぎ、宿で Punya に口説かれ、関係を持った（2回、膣内）。Punya は「Brinewick 航路の仕事をたくさん請けて、会いに来る」と約束し、「愛してる」と告げ、ディープキスで別れた（合計2回）
 - 3/4 の夕方、護衛の第2便で寄港した Punya と宿で再会し、愛を語って関係を持った（1回）（合計3回）
+- 3/19 の午後、Dunmore 便の寄港で再会。お茶を持ってきたところを Punya に誘われ、宿の部屋で関係を持った（1回）（合計4回）
 
 ### Maud（Brinewick の洗濯女）
 
 - 42歳。Gwen の母。宿と船乗りの洗濯と繕い物を請け、忙しい時期は塩田にも出る。漁師だった夫は5年前の嵐で死に、以来 Gwen と二人暮らし。言い寄る男はいたが、亡夫への想いから全部断ってきた
 - 2/27 の夕方、仕事帰りに Punya と出会い（Punya が先回りして偶然を装った）、家に招き入れて関係を持った（2回）。5年ぶりの男だった。Punya は「愛しています」と告げ、ディープキスで別れた（合計2回）
 - 3/4 の夕方、Punya が洗濯場まで迎えに来て、一緒に家に帰り、関係を持った（1回）（合計3回）
+- 3/19 の夕方、Punya が家の前で仕事終わりを待ち、一緒に家に入って関係を持った（1回）。途中で Gwen が帰宅し、Punya は Cunning Action で裏の窓から脱出した（合計4回）
 
+
+### Tess（The Copper Vat の給仕）
+
+- 21歳。Dunmore の宿屋 The Copper Vat の給仕。そばかすがあり、気が利く。宿の主人 Master Bell はもとワイン商
+- 彼氏はいない。この町の男の子は子どもっぽく、言い寄る船乗りは乱暴で次の日にはいなくなるからと、相手にしてこなかった
+- 3/22、寄港した Punya に、樽の消失事件の噂と商会への紹介の口利きをした。解決のお礼にワインをおごられ、酔いも手伝って宿の部屋で関係を持った（3回）。Punya は「明日には行くが、また必ず来る。それまで待ってて」と約束し、ディープキスで別れた（合計3回）
