@@ -193,6 +193,7 @@ How they act (set 2026-11-08): in the daytime, Karin and Wren always take the pl
 - She knows Punya from his smuggling days and calls him "the old fox". They were lovers when they were young
 - On the night of Jan 14, Punya visited the inn alone, and they had sex in her room twice (both inside) (2 times in all)
 - On the night of Feb 15 they had sex once. They also had sex on the nights of Feb 17, Feb 22, and Feb 24 (once each) (6 times in all)
+- On the night of Mar 8 they had sex once (inside). They also had sex at noon on Mar 13 (once) (8 times in all)
 
 ### Nell (the Daughter at The Ferryman's Rest)
 
@@ -226,9 +227,11 @@ How they act (set 2026-11-08): in the daytime, Karin and Wren always take the pl
 - Age 20. She serves at The Salt House, the inn of Brinewick. She lives with her mother Maud (42). Her father, a fisherman, died in a storm five years ago
 - Two years ago she had sex once with a sailor whose ship had called at the port. The man sailed away and never came back
 - On the afternoon of Feb 27, Punya talked her into bed at the inn, and they had sex (twice, inside). Punya promised to take many Brinewick-route jobs so he could come and see her, told her he loved her, and they parted with a deep kiss (2 times in all)
+- On the evening of Mar 4, she met Punya again at the inn when the second escort run called at Brinewick; they talked of love and had sex (once) (3 times in all)
 
 ### Maud (the Washerwoman of Brinewick)
 
 - Age 42. Gwen's mother. She takes in laundry and mending for the inn and for sailors, and works the salt pans in the busy season. Her husband, a fisherman, died in a storm five years ago, and she has lived with Gwen alone ever since. Men have courted her, but she refused them all for her late husband's sake
 - On the evening of Feb 27, she met Punya on her way home from work (he had gone ahead and made it look like chance), took him into her house, and they had sex (twice). He was her first man in five years. Punya told her he loved her, and they parted with a deep kiss (2 times in all)
+- On the evening of Mar 4, Punya came to meet her at the wash yard; they went home together and had sex (once) (3 times in all)
 
