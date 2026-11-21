@@ -1453,21 +1453,23 @@ Last update: 2026-11-16
 - In the morning the party reported at the great temple. The temple was glad and paid **15 gp** → **1,040 gp 6 sp 2 cp**. Job XP **+50** → **7,222 / 14,000**. The gravedigger can work again
 - A free day. Punya went to the temple to greet Elin — and the acolyte, who had been made to watch everything the day before, became his: her first sex, twice [Sex: Elin] [Sex: Elin], both inside, in the temple itself. A deep kiss at parting. (Elin's own magic is small and holy only: Light, a little Cure Wounds, a beginner's Sacred Flame)
 - Where the party stands now: Greywall, at the board, choosing the next job
+- The night at The Ferryman's Rest (**−1 gp 3 sp** → **1,039 gp 3 sp 2 cp**). No sex; a long rest
 
 ## February 13 (Day 153) — off with the cloth cart
 
 - Morning at the inn: Punya's mouth for Noel on waking [Cunnilingus: Noel] (oral only) — in front of Wren
 - The party took Tilbury's cloth-cart escort (**14 gp** on delivery). The driver is Wat. They left Greywall for Ravenport and covered about 22 miles in the day
-- Night camp by the road: [Sex: Karin]
+- Night camp by the road: [Sex: Karin], inside
 
 ## February 14 (Day 154) — Alden; Meg's forge
 
 - Morning: Punya's mouth for Noel on waking [Cunnilingus: Noel] (oral only)
 - Evening: Alden. The party stayed at The Golden Sheaf (**−2 gp**). The rescued men are recovering, and the hundred-year-old knight helps at the inn
-- At night Punya went to Meg's forge — eight times [Sex: Meg] [Sex: Meg] [Sex: Meg] [Sex: Meg] [Sex: Meg] [Sex: Meg] [Sex: Meg] [Sex: Meg], all inside. He told her "I love you" and asked her to bear his child; she agreed. At parting he told her no other man is to touch her until he returns, and she promised she is his alone
+- At night Punya went to Meg's forge — seven times [Sex: Meg] [Sex: Meg] [Sex: Meg] [Sex: Meg] [Sex: Meg] [Sex: Meg] [Sex: Meg], all inside. He told her "I love you" and asked her to bear his child; she agreed. At parting he told her no other man is to touch her until he returns, and she promised she is his alone
 
 ## February 15 (Day 155) — Ravenport; the escort done
 
+- Before dawn, once more with Meg [Sex: Meg], inside (eight in all, counting the night before)
 - The cloth cart reached Ravenport safely. The escort fee, **14 gp**, was paid; job XP **+50** → **7,272 / 14,000**
 - The night at The Drunken Eel (**−2 gp**): [Sex: Lily]
 
