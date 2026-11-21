@@ -12,7 +12,7 @@ Last update: 2026-11-21
 | Wren | Druid 5, Circle of the Land (Forest) | 19 | 33 | 15 | Nature magic, healing, support |
 | Noel | Wizard 5, School of Evocation | 18 | 27 | 11 (14 with Mage Armor) | Attack and utility magic |
 
-All Human, Level 5, Proficiency Bonus +3. XP: 8,709 each (Level 6 at 14,000 XP).
+All Human, Level 5, Proficiency Bonus +3. XP: 8,859 each (Level 6 at 14,000 XP).
 
 The mood of the party: all three of them love Punya (55) and want him for themselves. But there are three of them, so they keep each other in check and fight over his attention.
 How they act (set 2026-11-08): in the daytime, Karin and Wren always take the places on both sides of Punya — at the table, and walking in town too. Noel only reads her book and looks calm, like she does not care that she cannot sit next to him. At night, Karin and Wren sleep close to Punya, one on each side. But in the morning, Punya always wakes up with his face in Noel's big breasts. Some mornings she gets up early and wakes him with her mouth. Under her calm daytime face, Noel is the most lewd of the three.
@@ -21,7 +21,7 @@ How they act (set 2026-11-08): in the daytime, Karin and Wren always take the pl
 
 ## Punya — Human Rogue (Thief), Level 5
 
-- Player: Yamamoto / Alignment: Chaotic Neutral / XP: 8,709 (Level 6 at 14,000 XP)
+- Player: Yamamoto / Alignment: Chaotic Neutral / XP: 8,859 (Level 6 at 14,000 XP)
 - Age: 55. A cool, very popular older man. The three companions (all adults) adore him
 - Background: Criminal (Specialty: Smuggler)
 - Ability Scores: STR 10 (+0) / DEX 18 (+4) / CON 12 (+1) / INT 9 (−1) / WIS 16 (+3) / CHA 14 (+2) *Level 4 Ability Score Improvement: DEX 16 → 18
@@ -41,13 +41,13 @@ How they act (set 2026-11-08): in the daytime, Karin and Wren always take the pl
   - Bond: I will become the greatest thief that ever lived
   - Flaw: Turns tail and runs when things look bad
   - Feature: Criminal Contact
-- Money: party purse **1,351 gp 8 sp 2 cp** (shared by all four, held by Punya; as of Apr 2)
+- Money: party purse **1,386 gp 2 sp 2 cp** (shared by all four, held by Punya; as of Apr 7)
 
 ---
 
 ## Karin — Human Monk (Way of the Open Hand), Level 5 (age 18)
 
-- XP: 8,709 (Level 6 at 14,000 XP)
+- XP: 8,859 (Level 6 at 14,000 XP)
 - Background: Acolyte (raised in a temple) *decided by the DM, can be changed
 - Personality: Bold and energetic, the youngest at heart. Confident, loves teasing Punya. First to jump into a fight
 - Appearance: Height 163 cm, B87 / W55 / H87, black hair in a ponytail / Lingerie: **D70, black lace** (bought Oct 18 in Greywall) / Body: puffy nipples / Signature move: **Machine-Gun Cowgirl**
@@ -67,7 +67,7 @@ How they act (set 2026-11-08): in the daytime, Karin and Wren always take the pl
 
 ## Wren — Human Druid (Circle of the Land: Forest), Level 5 (age 19)
 
-- XP: 8,709 (Level 6 at 14,000 XP)
+- XP: 8,859 (Level 6 at 14,000 XP)
 - Background: Folk Hero *decided by the DM, can be changed
 - Personality: Gentle and sweet, a little airheaded. Always worries about everyone's wounds
 - Appearance: Height 149 cm, B90 / W56 / H86, brown wavy hair / Lingerie: **G65, white** (bought Oct 18 in Greywall) / Body: hairless (no pubic hair) / Signature move: **Geyser Squirt**
@@ -112,7 +112,7 @@ How they act (set 2026-11-08): in the daytime, Karin and Wren always take the pl
 
 ## Noel — Human Wizard (School of Evocation), Level 5 (age 18)
 
-- XP: 8,709 (Level 6 at 14,000 XP)
+- XP: 8,859 (Level 6 at 14,000 XP)
 - Background: Sage *decided by the DM, can be changed
 - Personality: Smart, with glasses. Calm, but sharp-tongued when embarrassed. Always reading a book. But the calm face is an act — in truth, she is the most lecherous of the three. She plans quietly and plays innocent after
 - Appearance: Height 156 cm, B103 / W61 / H94, navy-blue bob (longer in front), glasses / Lingerie: **J70, deep red** (bought Oct 18 in Greywall) / Body: an enlarged clitoris / Signature move: **Tornado Blowjob**
@@ -167,6 +167,7 @@ How they act (set 2026-11-08): in the daytime, Karin and Wren always take the pl
 - That afternoon, Punya visited her alone, and they had sex 3 times. She is now Punya's pleasure in Greywall
 - On the afternoon of Jan 6, Punya visited her alone again, and they had sex once (inside). A deep kiss at parting (4 times in all)
 - On the night of Feb 9, Punya visited her alone for the first time in a month, and they had sex 5 times (all inside). The next morning, Feb 10, they had sex 7 more times (all inside), told each other "I love you", and parted with a deep kiss and his promise to come again (16 times in all)
+- On the night of Apr 4, Punya visited her alone for the first time in about two months, and they had sex once. He promised to make up for the long absence, and told her he would come again tomorrow. On the night of Apr 5, he slipped out of the inn after the companions fell asleep, visited her, had gentle sex with her (once), and slept with her until morning, her head on his arm. On the morning of Apr 6 they had sex again (once); Punya joked that he was off to look for work — staying with her forever would make him a NEET — and Mira laughed that he should come back at a rate that does not make him a NEET (19 times in all)
 
 ### Hanna (the Widow of Tanner's Row)
 
@@ -189,6 +190,7 @@ How they act (set 2026-11-08): in the daytime, Karin and Wren always take the pl
 - On Jan 30, Punya visited her at midday. Her period is 2–3 days late (it usually comes around the end of the month; about two more weeks will tell). They had sex 3 times (all inside). Punya renewed his promise: he will come as many times as it takes until she is pregnant (13 times in all, 11 inside)
 - On the night of Mar 30, Punya visited and she opened with "there is something I must tell you": no period for two months, morning sickness, and the temple midwife has confirmed she is **pregnant** (about two months along, conceived around the end of January; the birth is expected around November). Punya was overjoyed and renewed the Jan 22 promise to live together and raise the child. That night they had sex until morning (5 times, all inside)
 - On the morning of Mar 31 they had sex once (inside). Punya raised the idea of her traveling with him, then reversed himself — she is to rest quietly here until the baby is born — and she agreed. The pregnancy is kept from the three companions until it is stable (19 times in all, 17 inside)
+- On the night of Apr 4, Punya visited her. They went over the midwife's guidance (an ordinary life is fine; no strain; the belly will not be noticeable until about the fourth or fifth month; the morning sickness is real), and they had gentle sex (once). He slept holding her until morning, and they parted with a deep kiss (20 times in all, 18 inside)
 
 ### Lily (Keeper of The Drunken Eel)
 
@@ -206,6 +208,7 @@ How they act (set 2026-11-08): in the daytime, Karin and Wren always take the pl
 - On the evening of Jan 19, Punya came to her while she was cleaning an empty room, and they had sex once (inside). It was her first kiss and her first sex. They told each other "I have always liked you", and parted with a deep kiss (1 time in all)
 - On the afternoon of Jan 29, Punya called her to the party's room, and they had sex twice (both inside). Because her inn work has always covered the party's room and laundry, she has known for a long time that the three companions are Punya's lovers (3 times in all)
 - Before noon on Mar 31, she had sex with Punya at the inn, back after two months (3 times). He told her she is his most beloved (6 times in all)
+- On the morning of Apr 6, Punya visited her and they had sex (once). Her mother Tessa — from the soiled laundry she handles and the way she deliberately assigns Nell to the party's floor — almost certainly knows about the two of them, but says nothing; she is watching to see whether Punya is serious. Her father Garrick does not know yet (7 times in all)
 
 ### Marit (the Daughter at The North Bank)
 
@@ -214,6 +217,8 @@ How they act (set 2026-11-08): in the daytime, Karin and Wren always take the pl
 - On the night of Jan 31, she had sex with Punya in an empty room of the inn, where he was staying for the silk-cart escort (once, inside). It was her first kiss and her first sex. Punya promised he would surely come again, and she said she would wait (1 time in all)
 - On the night of Mar 31, Punya came to the settlement tracking the lord's stable horse theft, and they met again after two months; they had sex in her room (twice, both inside). Asked whether she would bear his child, she gladly promised she would
 - On Apr 1–2, they played the publicly acknowledged couple as cover for the tracking. On the evening of Apr 1 they had standing sex behind the inn (once), were glimpsed by villagers, and the gossip fixed them as a couple. On Apr 2 they dated along the river in the morning and had sex in the woods (3 times, all inside), and twice more in the afternoon at other spots. Punya invited her to travel with him; she declined — she cannot leave her parents and the inn — but said she would always wait here (9 times in all)
+- On Apr 3, while the party stayed in the settlement, they had sex (4 times, all inside); one time was beside Garr's house, and Hilde watched through the window (13 times in all)
+- On the morning of Apr 4, they had sex in front of Sam (once). They parted with a deep kiss. Punya promised to come back again and again until she bears his child, and Marit swore to keep the inn thriving and wait for him (14 times in all)
 
 ### Meg (the Blacksmith of Alden)
 
@@ -230,6 +235,7 @@ How they act (set 2026-11-08): in the daytime, Karin and Wren always take the pl
 - She had no boyfriend. Everything she knows about bodies comes from medical books and tending patients
 - On Feb 11, while she guided the party through the burial ground below the castle, Punya made her watch his "sex education" — sex with Karin, up close
 - On the morning of Feb 12, Punya came to greet her, and they had sex in the temple (twice, both inside). It was her first kiss and her first sex (2 times in all)
+- On the evening of Apr 5, Punya visited the temple properly before closing time, and they had sex (once) between her sickroom duties. He told her she is his most beloved (3 times in all)
 
 ### Gwen (the Serving Girl at The Salt House)
 
