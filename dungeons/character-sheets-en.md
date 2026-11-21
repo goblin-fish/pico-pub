@@ -158,6 +158,24 @@ How they act (set 2026-11-08): in the daytime, Karin and Wren always take the pl
 
 ## Sex Partners
 
+### The Toll-Bridge Settlement
+
+#### Marit (the Daughter at The North Bank)
+
+- Age 21. The daughter of Benn (46) and Alis, who keep The North Bank, the inn in the toll-bridge settlement. She serves and finishes the guest rooms
+- Born and raised in this settlement; she has never even been to Greywall. She has never had a boyfriend, and holding hands with a man was new to her too
+- On the night of Jan 31, she had sex with Punya in an empty room of the inn, where he was staying for the silk-cart escort (once, inside). It was her first kiss and her first sex. Punya promised he would surely come again, and she said she would wait (1 time in all)
+- On the night of Mar 31, Punya came to the settlement tracking the lord's stable horse theft, and they met again after two months; they had sex in her room (twice, both inside). Asked whether she would bear his child, she gladly promised she would
+- On Apr 1–2, they played the publicly acknowledged couple as cover for the tracking. On the evening of Apr 1 they had standing sex behind the inn (once), were glimpsed by villagers, and the gossip fixed them as a couple. On Apr 2 they dated along the river in the morning and had sex in the woods (3 times, all inside), and twice more in the afternoon at other spots. Punya invited her to travel with him; she declined — she cannot leave her parents and the inn — but said she would always wait here (9 times in all)
+- On Apr 3, while the party stayed in the settlement, they had sex (4 times, all inside); one time was beside Garr's house, and Hilde watched through the window (13 times in all)
+- On the morning of Apr 4, they had sex in front of Sam (once). They parted with a deep kiss. Punya promised to come back again and again until she bears his child, and Marit swore to keep the inn thriving and wait for him (14 times in all)
+
+#### Hilde (the Ferryman Garr's Wife)
+
+- Age 28. The wife of Garr, the ferryman of the toll-bridge settlement. The horse thief Hesk's younger sister. Married to Garr for six years; no children
+- She knew of her brother Hesk and her husband Garr's horse-theft scheme and kept silent for three days
+- Before dawn on Apr 3, she was captured by Punya at Garr's house. Under threat of being sent to the Greywall prison, she was pressed with "become my woman, and you can go on living in this settlement", and she submitted. They had sex (4 times, all inside). Punya told her he would hold her until he passes her count with Garr (about 800 times), that she might bear his child, and forbade her ever to tell Marit (4 times in all)
+
 ### Greywall
 
 #### Mira (Tam's Widow)
@@ -211,6 +229,16 @@ How they act (set 2026-11-08): in the daytime, Karin and Wren always take the pl
 - On the morning of Feb 12, Punya came to greet her, and they had sex in the temple (twice, both inside). It was her first kiss and her first sex (2 times in all)
 - On the evening of Apr 5, Punya visited the temple properly before closing time, and they had sex (once) between her sickroom duties. He told her she is his most beloved (3 times in all)
 
+### Alden
+
+#### Meg (the Blacksmith of Alden)
+
+- Age 44. The blacksmith of Alden. She keeps the old grey horse Anvil and an old cart, and she promised the cart free for the hill rescue
+- At midday on Feb 4, Punya came to borrow the cart and talked her into bed, and they had sex in the forge (once, inside). Punya promised, "I will come back alive — and we will have sex again and again" (1 time in all)
+- At midday on Feb 7, Punya returned the cart and Anvil safe, and himself alive, and they had sex in the forge (5 times, all inside). On the spot, she melted the stolen Barrow Crown down into a plain gold ingot for him. He promised that on his next visit to Alden he would stay at her place, not The Golden Sheaf (6 times in all)
+- Late on Feb 14, during the escort to Ravenport, Punya slipped out after the three companions fell asleep and visited her house, and as promised they had sex until morning (8 times, all inside). Punya told her he loved her and asked her to bear his child, and she accepted. They parted with a deep kiss (14 times in all)
+- On the night of Mar 28, Punya came back to Alden after six weeks and visited her house; she greeted him with a click of her tongue — "you're late, six weeks" — and they had sex until morning (9 times, all inside) (23 times in all)
+
 ### Ravenport
 
 #### Lily (Keeper of The Drunken Eel)
@@ -222,34 +250,6 @@ How they act (set 2026-11-08): in the daytime, Karin and Wren always take the pl
 - On the night of Mar 8 they had sex once (inside). They also had sex at noon on Mar 13 (once) (8 times in all)
 - They also had sex on the nights of Mar 14, Mar 15, and Mar 16 (once each) (11 times in all)
 - On the afternoon of Mar 27, she had sex with Punya, back from the Dunmore run (once) (12 times in all)
-
-### The Toll-Bridge Settlement
-
-#### Marit (the Daughter at The North Bank)
-
-- Age 21. The daughter of Benn (46) and Alis, who keep The North Bank, the inn in the toll-bridge settlement. She serves and finishes the guest rooms
-- Born and raised in this settlement; she has never even been to Greywall. She has never had a boyfriend, and holding hands with a man was new to her too
-- On the night of Jan 31, she had sex with Punya in an empty room of the inn, where he was staying for the silk-cart escort (once, inside). It was her first kiss and her first sex. Punya promised he would surely come again, and she said she would wait (1 time in all)
-- On the night of Mar 31, Punya came to the settlement tracking the lord's stable horse theft, and they met again after two months; they had sex in her room (twice, both inside). Asked whether she would bear his child, she gladly promised she would
-- On Apr 1–2, they played the publicly acknowledged couple as cover for the tracking. On the evening of Apr 1 they had standing sex behind the inn (once), were glimpsed by villagers, and the gossip fixed them as a couple. On Apr 2 they dated along the river in the morning and had sex in the woods (3 times, all inside), and twice more in the afternoon at other spots. Punya invited her to travel with him; she declined — she cannot leave her parents and the inn — but said she would always wait here (9 times in all)
-- On Apr 3, while the party stayed in the settlement, they had sex (4 times, all inside); one time was beside Garr's house, and Hilde watched through the window (13 times in all)
-- On the morning of Apr 4, they had sex in front of Sam (once). They parted with a deep kiss. Punya promised to come back again and again until she bears his child, and Marit swore to keep the inn thriving and wait for him (14 times in all)
-
-#### Hilde (the Ferryman Garr's Wife)
-
-- Age 28. The wife of Garr, the ferryman of the toll-bridge settlement. The horse thief Hesk's younger sister. Married to Garr for six years; no children
-- She knew of her brother Hesk and her husband Garr's horse-theft scheme and kept silent for three days
-- Before dawn on Apr 3, she was captured by Punya at Garr's house. Under threat of being sent to the Greywall prison, she was pressed with "become my woman, and you can go on living in this settlement", and she submitted. They had sex (4 times, all inside). Punya told her he would hold her until he passes her count with Garr (about 800 times), that she might bear his child, and forbade her ever to tell Marit (4 times in all)
-
-### Alden
-
-#### Meg (the Blacksmith of Alden)
-
-- Age 44. The blacksmith of Alden. She keeps the old grey horse Anvil and an old cart, and she promised the cart free for the hill rescue
-- At midday on Feb 4, Punya came to borrow the cart and talked her into bed, and they had sex in the forge (once, inside). Punya promised, "I will come back alive — and we will have sex again and again" (1 time in all)
-- At midday on Feb 7, Punya returned the cart and Anvil safe, and himself alive, and they had sex in the forge (5 times, all inside). On the spot, she melted the stolen Barrow Crown down into a plain gold ingot for him. He promised that on his next visit to Alden he would stay at her place, not The Golden Sheaf (6 times in all)
-- Late on Feb 14, during the escort to Ravenport, Punya slipped out after the three companions fell asleep and visited her house, and as promised they had sex until morning (8 times, all inside). Punya told her he loved her and asked her to bear his child, and she accepted. They parted with a deep kiss (14 times in all)
-- On the night of Mar 28, Punya came back to Alden after six weeks and visited her house; she greeted him with a click of her tongue — "you're late, six weeks" — and they had sex until morning (9 times, all inside) (23 times in all)
 
 ### Brinewick
 
