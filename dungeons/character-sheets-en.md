@@ -158,7 +158,7 @@ How they act (set 2026-11-08): in the daytime, Karin and Wren always take the pl
 
 ## Sex Partners
 
-### The Toll-Bridge Settlement
+### ■ The Toll-Bridge Settlement
 
 #### Marit (the Daughter at The North Bank)
 
@@ -176,7 +176,7 @@ How they act (set 2026-11-08): in the daytime, Karin and Wren always take the pl
 - She knew of her brother Hesk and her husband Garr's horse-theft scheme and kept silent for three days
 - Before dawn on Apr 3, she was captured by Punya at Garr's house. Under threat of being sent to the Greywall prison, she was pressed with "become my woman, and you can go on living in this settlement", and she submitted. They had sex (4 times, all inside). Punya told her he would hold her until he passes her count with Garr (about 800 times), that she might bear his child, and forbade her ever to tell Marit (4 times in all)
 
-### Greywall
+### ■ Greywall
 
 #### Mira (Tam's Widow)
 
@@ -229,7 +229,7 @@ How they act (set 2026-11-08): in the daytime, Karin and Wren always take the pl
 - On the morning of Feb 12, Punya came to greet her, and they had sex in the temple (twice, both inside). It was her first kiss and her first sex (2 times in all)
 - On the evening of Apr 5, Punya visited the temple properly before closing time, and they had sex (once) between her sickroom duties. He told her she is his most beloved (3 times in all)
 
-### Alden
+### ■ Alden
 
 #### Meg (the Blacksmith of Alden)
 
@@ -239,7 +239,7 @@ How they act (set 2026-11-08): in the daytime, Karin and Wren always take the pl
 - Late on Feb 14, during the escort to Ravenport, Punya slipped out after the three companions fell asleep and visited her house, and as promised they had sex until morning (8 times, all inside). Punya told her he loved her and asked her to bear his child, and she accepted. They parted with a deep kiss (14 times in all)
 - On the night of Mar 28, Punya came back to Alden after six weeks and visited her house; she greeted him with a click of her tongue — "you're late, six weeks" — and they had sex until morning (9 times, all inside) (23 times in all)
 
-### Ravenport
+### ■ Ravenport
 
 #### Lily (Keeper of The Drunken Eel)
 
@@ -251,7 +251,7 @@ How they act (set 2026-11-08): in the daytime, Karin and Wren always take the pl
 - They also had sex on the nights of Mar 14, Mar 15, and Mar 16 (once each) (11 times in all)
 - On the afternoon of Mar 27, she had sex with Punya, back from the Dunmore run (once) (12 times in all)
 
-### Brinewick
+### ■ Brinewick
 
 #### Gwen (the Serving Girl at The Salt House)
 
@@ -270,7 +270,7 @@ How they act (set 2026-11-08): in the daytime, Karin and Wren always take the pl
 - On the evening of Mar 19, Punya waited in front of her house for her work to end; they went in together and had sex (once). Gwen came home in the middle of it, and Punya escaped through the back window with Cunning Action (4 times in all)
 - On the evening of Mar 25, Punya waited in front of her house for her work to end; they went in together and had sex (once). They parted with a deep kiss (5 times in all)
 
-### Dunmore
+### ■ Dunmore
 
 #### Tess (the Serving Girl at The Copper Vat)
 
