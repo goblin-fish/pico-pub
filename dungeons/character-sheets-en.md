@@ -41,7 +41,7 @@ How they act (set 2026-11-08): in the daytime, Karin and Wren always take the pl
   - Bond: I will become the greatest thief that ever lived
   - Flaw: Turns tail and runs when things look bad
   - Feature: Criminal Contact
-- Money: party purse **1,314 gp 3 sp 2 cp** (shared by all four, held by Punya; as of Mar 23)
+- Money: party purse **1,311 gp 0 sp 2 cp** (shared by all four, held by Punya; as of Mar 27)
 
 ---
 
@@ -195,6 +195,7 @@ How they act (set 2026-11-08): in the daytime, Karin and Wren always take the pl
 - On the night of Feb 15 they had sex once. They also had sex on the nights of Feb 17, Feb 22, and Feb 24 (once each) (6 times in all)
 - On the night of Mar 8 they had sex once (inside). They also had sex at noon on Mar 13 (once) (8 times in all)
 - They also had sex on the nights of Mar 14, Mar 15, and Mar 16 (once each) (11 times in all)
+- On the afternoon of Mar 27, she had sex with Punya, back from the Dunmore run (once) (12 times in all)
 
 ### Nell (the Daughter at The Ferryman's Rest)
 
@@ -230,6 +231,7 @@ How they act (set 2026-11-08): in the daytime, Karin and Wren always take the pl
 - On the afternoon of Feb 27, Punya talked her into bed at the inn, and they had sex (twice, inside). Punya promised to take many Brinewick-route jobs so he could come and see her, told her he loved her, and they parted with a deep kiss (2 times in all)
 - On the evening of Mar 4, she met Punya again at the inn when the second escort run called at Brinewick; they talked of love and had sex (once) (3 times in all)
 - On the afternoon of Mar 19, the Dunmore run called at Brinewick. She brought tea to the party's room, Punya talked her into bed, and they had sex (once) (4 times in all)
+- At noon on Mar 25, the Dunmore run called at Brinewick on the way back, and she had sex with Punya at the inn (once) (5 times in all)
 
 ### Maud (the Washerwoman of Brinewick)
 
@@ -237,6 +239,7 @@ How they act (set 2026-11-08): in the daytime, Karin and Wren always take the pl
 - On the evening of Feb 27, she met Punya on her way home from work (he had gone ahead and made it look like chance), took him into her house, and they had sex (twice). He was her first man in five years. Punya told her he loved her, and they parted with a deep kiss (2 times in all)
 - On the evening of Mar 4, Punya came to meet her at the wash yard; they went home together and had sex (once) (3 times in all)
 - On the evening of Mar 19, Punya waited in front of her house for her work to end; they went in together and had sex (once). Gwen came home in the middle of it, and Punya escaped through the back window with Cunning Action (4 times in all)
+- On the evening of Mar 25, Punya waited in front of her house for her work to end; they went in together and had sex (once). They parted with a deep kiss (5 times in all)
 
 
 ### Tess (the Serving Girl at The Copper Vat)
