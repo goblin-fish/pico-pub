@@ -233,7 +233,7 @@ How they act (set 2026-11-08): in the daytime, Karin and Wren always take the pl
 
 #### Meg (the Blacksmith of Alden)
 
-- Age 44. The blacksmith of Alden. She keeps the old grey horse Anvil and an old cart, and she promised the cart free for the hill rescue
+- Age 44. The blacksmith of Alden. She keeps the old grey horse Anvil and an old cart, and she promised the cart free for the hill rescue. She has never married and has no children
 - At midday on Feb 4, Punya came to borrow the cart and talked her into bed, and they had sex in the forge (once, inside). Punya promised, "I will come back alive — and we will have sex again and again" (1 time in all)
 - At midday on Feb 7, Punya returned the cart and Anvil safe, and himself alive, and they had sex in the forge (5 times, all inside). On the spot, she melted the stolen Barrow Crown down into a plain gold ingot for him. He promised that on his next visit to Alden he would stay at her place, not The Golden Sheaf (6 times in all)
 - Late on Feb 14, during the escort to Ravenport, Punya slipped out after the three companions fell asleep and visited her house, and as promised they had sex until morning (8 times, all inside). Punya told her he loved her and asked her to bear his child, and she accepted. They parted with a deep kiss (14 times in all)
