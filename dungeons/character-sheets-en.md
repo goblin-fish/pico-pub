@@ -158,7 +158,9 @@ How they act (set 2026-11-08): in the daytime, Karin and Wren always take the pl
 
 ## Sex Partners
 
-### Mira (Tam's Widow)
+### Greywall
+
+#### Mira (Tam's Widow)
 
 - Age 38. She lives alone in a small house near the south gate of Greywall
 - Appearance: Height 165 cm (about the same as Karin, a little taller)
@@ -169,7 +171,7 @@ How they act (set 2026-11-08): in the daytime, Karin and Wren always take the pl
 - On the night of Feb 9, Punya visited her alone for the first time in a month, and they had sex 5 times (all inside). The next morning, Feb 10, they had sex 7 more times (all inside), told each other "I love you", and parted with a deep kiss and his promise to come again (16 times in all)
 - On the night of Apr 4, Punya visited her alone for the first time in about two months, and they had sex once. He promised to make up for the long absence, and told her he would come again tomorrow. On the night of Apr 5, he slipped out of the inn after the companions fell asleep, visited her, had gentle sex with her (once), and slept with her until morning, her head on his arm. On the morning of Apr 6 they had sex again (once); Punya joked that he was off to look for work — staying with her forever would make him a NEET — and Mira laughed that he should come back at a rate that does not make him a NEET (19 times in all)
 
-### Hanna (the Widow of Tanner's Row)
+#### Hanna (the Widow of Tanner's Row)
 
 - Age 26. She runs her late husband's tannery on Tanner's Row in Greywall, alone
 - Appearance: Height 158 cm (between Noel and Karin). B87 / W60 / H88 — a body just slightly slacker than the 18–19-year-old lovers', as befits a woman who was married. Lingerie size D70
@@ -181,7 +183,7 @@ How they act (set 2026-11-08): in the daytime, Karin and Wren always take the pl
 - On Jan 19, Punya visited her alone at midday, and they had sex twice with her wearing the gifted white lingerie (the first finished inside and he kept thrusting after; the second finished outside over the lingerie). He promised to "come again soon and dirty it again" (10 times in all)
 - On the evening of Mar 30, Punya, back after two months, visited after she closed the shop, and they had sex 4 times. The gifted white lingerie was carefully washed and put away; she offered to change into it, but he stopped her — "that can wait; I can't hold back" — and took her in her work clothes. He told her "I love you most in the world", and they parted with a deep kiss (14 times in all)
 
-### Jill (the Seamstress)
+#### Jill (the Seamstress)
 
 - Age 28. A seamstress who lives alone in her small shop-and-room off the market street in Greywall. No husband
 - On Jan 7 she was being put out of her room: two months' back rent, **4 gp**, owed to her landlord **Master Dodd**. Punya would not carry the rent that day — he took her to The Crown & Bell, fed her, and took a room at The Net & Hook. That night they had sex twice (both inside)
@@ -192,7 +194,26 @@ How they act (set 2026-11-08): in the daytime, Karin and Wren always take the pl
 - On the morning of Mar 31 they had sex once (inside). Punya raised the idea of her traveling with him, then reversed himself — she is to rest quietly here until the baby is born — and she agreed. The pregnancy is kept from the three companions until it is stable (19 times in all, 17 inside)
 - On the night of Apr 4, Punya visited her. They went over the midwife's guidance (an ordinary life is fine; no strain; the belly will not be noticeable until about the fourth or fifth month; the morning sickness is real), and they had gentle sex (once). He slept holding her until morning, and they parted with a deep kiss (20 times in all, 18 inside)
 
-### Lily (Keeper of The Drunken Eel)
+#### Nell (the Daughter at The Ferryman's Rest)
+
+- Age 22. The daughter of Garrick and Tessa, who keep The Ferryman's Rest, the cheap inn in Greywall. She serves and cleans the rooms. The inn never closes, so she has no days off, and she had no boyfriend
+- On the evening of Jan 19, Punya came to her while she was cleaning an empty room, and they had sex once (inside). It was her first kiss and her first sex. They told each other "I have always liked you", and parted with a deep kiss (1 time in all)
+- On the afternoon of Jan 29, Punya called her to the party's room, and they had sex twice (both inside). Because her inn work has always covered the party's room and laundry, she has known for a long time that the three companions are Punya's lovers (3 times in all)
+- Before noon on Mar 31, she had sex with Punya at the inn, back after two months (3 times). He told her she is his most beloved (6 times in all)
+- On the morning of Apr 6, Punya visited her and they had sex (once). Her mother Tessa — from the soiled laundry she handles and the way she deliberately assigns Nell to the party's floor — almost certainly knows about the two of them, but says nothing; she is watching to see whether Punya is serious. Her father Garrick does not know yet (7 times in all)
+
+#### Elin (the Acolyte of the Great Temple)
+
+- Age 21. An acolyte (in training) at the great temple of Greywall. Her fellow acolyte is Falk (19)
+- Her duties: morning-prayer preparation, temple cleaning, helping in the sickroom, funeral assistance, patrol and upkeep of the burial ground, and copying prayer texts. She can cast a few small divine spells (Light, a little Cure Wounds, and the basics of Sacred Flame)
+- She had no boyfriend. Everything she knows about bodies comes from medical books and tending patients
+- On Feb 11, while she guided the party through the burial ground below the castle, Punya made her watch his "sex education" — sex with Karin, up close
+- On the morning of Feb 12, Punya came to greet her, and they had sex in the temple (twice, both inside). It was her first kiss and her first sex (2 times in all)
+- On the evening of Apr 5, Punya visited the temple properly before closing time, and they had sex (once) between her sickroom duties. He told her she is his most beloved (3 times in all)
+
+### Ravenport
+
+#### Lily (Keeper of The Drunken Eel)
 
 - Age 46. She keeps The Drunken Eel, the inn-and-tavern by the Ravenport docks. A fat woman
 - She knows Punya from his smuggling days and calls him "the old fox". They were lovers when they were young
@@ -202,17 +223,11 @@ How they act (set 2026-11-08): in the daytime, Karin and Wren always take the pl
 - They also had sex on the nights of Mar 14, Mar 15, and Mar 16 (once each) (11 times in all)
 - On the afternoon of Mar 27, she had sex with Punya, back from the Dunmore run (once) (12 times in all)
 
-### Nell (the Daughter at The Ferryman's Rest)
+### The Toll-Bridge Settlement
 
-- Age 22. The daughter of Garrick and Tessa, who keep The Ferryman's Rest, the cheap inn in Greywall. She serves and cleans the rooms. The inn never closes, so she has no days off, and she had no boyfriend
-- On the evening of Jan 19, Punya came to her while she was cleaning an empty room, and they had sex once (inside). It was her first kiss and her first sex. They told each other "I have always liked you", and parted with a deep kiss (1 time in all)
-- On the afternoon of Jan 29, Punya called her to the party's room, and they had sex twice (both inside). Because her inn work has always covered the party's room and laundry, she has known for a long time that the three companions are Punya's lovers (3 times in all)
-- Before noon on Mar 31, she had sex with Punya at the inn, back after two months (3 times). He told her she is his most beloved (6 times in all)
-- On the morning of Apr 6, Punya visited her and they had sex (once). Her mother Tessa — from the soiled laundry she handles and the way she deliberately assigns Nell to the party's floor — almost certainly knows about the two of them, but says nothing; she is watching to see whether Punya is serious. Her father Garrick does not know yet (7 times in all)
+#### Marit (the Daughter at The North Bank)
 
-### Marit (the Daughter at The North Bank)
-
-- Age 21. The daughter of Benn (46) and Alis, who keep The North Bank, the inn at the settlement on the north side of the toll bridge. She serves and finishes the guest rooms
+- Age 21. The daughter of Benn (46) and Alis, who keep The North Bank, the inn in the toll-bridge settlement. She serves and finishes the guest rooms
 - Born and raised in this settlement; she has never even been to Greywall. She has never had a boyfriend, and holding hands with a man was new to her too
 - On the night of Jan 31, she had sex with Punya in an empty room of the inn, where he was staying for the silk-cart escort (once, inside). It was her first kiss and her first sex. Punya promised he would surely come again, and she said she would wait (1 time in all)
 - On the night of Mar 31, Punya came to the settlement tracking the lord's stable horse theft, and they met again after two months; they had sex in her room (twice, both inside). Asked whether she would bear his child, she gladly promised she would
@@ -220,7 +235,15 @@ How they act (set 2026-11-08): in the daytime, Karin and Wren always take the pl
 - On Apr 3, while the party stayed in the settlement, they had sex (4 times, all inside); one time was beside Garr's house, and Hilde watched through the window (13 times in all)
 - On the morning of Apr 4, they had sex in front of Sam (once). They parted with a deep kiss. Punya promised to come back again and again until she bears his child, and Marit swore to keep the inn thriving and wait for him (14 times in all)
 
-### Meg (the Blacksmith of Alden)
+#### Hilde (the Ferryman Garr's Wife)
+
+- Age 28. The wife of Garr, the ferryman of the toll-bridge settlement. The horse thief Hesk's younger sister. Married to Garr for six years; no children
+- She knew of her brother Hesk and her husband Garr's horse-theft scheme and kept silent for three days
+- Before dawn on Apr 3, she was captured by Punya at Garr's house. Under threat of being sent to the Greywall prison, she was pressed with "become my woman, and you can go on living in this settlement", and she submitted. They had sex (4 times, all inside). Punya told her he would hold her until he passes her count with Garr (about 800 times), that she might bear his child, and forbade her ever to tell Marit (4 times in all)
+
+### Alden
+
+#### Meg (the Blacksmith of Alden)
 
 - Age 44. The blacksmith of Alden. She keeps the old grey horse Anvil and an old cart, and she promised the cart free for the hill rescue
 - At midday on Feb 4, Punya came to borrow the cart and talked her into bed, and they had sex in the forge (once, inside). Punya promised, "I will come back alive — and we will have sex again and again" (1 time in all)
@@ -228,16 +251,9 @@ How they act (set 2026-11-08): in the daytime, Karin and Wren always take the pl
 - Late on Feb 14, during the escort to Ravenport, Punya slipped out after the three companions fell asleep and visited her house, and as promised they had sex until morning (8 times, all inside). Punya told her he loved her and asked her to bear his child, and she accepted. They parted with a deep kiss (14 times in all)
 - On the night of Mar 28, Punya came back to Alden after six weeks and visited her house; she greeted him with a click of her tongue — "you're late, six weeks" — and they had sex until morning (9 times, all inside) (23 times in all)
 
-### Elin (the Acolyte of the Great Temple)
+### Brinewick
 
-- Age 21. An acolyte (in training) at the great temple of Greywall. Her fellow acolyte is Falk (19)
-- Her duties: morning-prayer preparation, temple cleaning, helping in the sickroom, funeral assistance, patrol and upkeep of the burial ground, and copying prayer texts. She can cast a few small divine spells (Light, a little Cure Wounds, and the basics of Sacred Flame)
-- She had no boyfriend. Everything she knows about bodies comes from medical books and tending patients
-- On Feb 11, while she guided the party through the burial ground below the castle, Punya made her watch his "sex education" — sex with Karin, up close
-- On the morning of Feb 12, Punya came to greet her, and they had sex in the temple (twice, both inside). It was her first kiss and her first sex (2 times in all)
-- On the evening of Apr 5, Punya visited the temple properly before closing time, and they had sex (once) between her sickroom duties. He told her she is his most beloved (3 times in all)
-
-### Gwen (the Serving Girl at The Salt House)
+#### Gwen (the Serving Girl at The Salt House)
 
 - Age 20. She serves at The Salt House, the inn of Brinewick. She lives with her mother Maud (42). Her father, a fisherman, died in a storm five years ago
 - Two years ago she had sex once with a sailor whose ship had called at the port. The man sailed away and never came back
@@ -246,7 +262,7 @@ How they act (set 2026-11-08): in the daytime, Karin and Wren always take the pl
 - On the afternoon of Mar 19, the Dunmore run called at Brinewick. She brought tea to the party's room, Punya talked her into bed, and they had sex (once) (4 times in all)
 - At noon on Mar 25, the Dunmore run called at Brinewick on the way back, and she had sex with Punya at the inn (once) (5 times in all)
 
-### Maud (the Washerwoman of Brinewick)
+#### Maud (the Washerwoman of Brinewick)
 
 - Age 42. Gwen's mother. She takes in laundry and mending for the inn and for sailors, and works the salt pans in the busy season. Her husband, a fisherman, died in a storm five years ago, and she has lived with Gwen alone ever since. Men have courted her, but she refused them all for her late husband's sake
 - On the evening of Feb 27, she met Punya on her way home from work (he had gone ahead and made it look like chance), took him into her house, and they had sex (twice). He was her first man in five years. Punya told her he loved her, and they parted with a deep kiss (2 times in all)
@@ -254,15 +270,10 @@ How they act (set 2026-11-08): in the daytime, Karin and Wren always take the pl
 - On the evening of Mar 19, Punya waited in front of her house for her work to end; they went in together and had sex (once). Gwen came home in the middle of it, and Punya escaped through the back window with Cunning Action (4 times in all)
 - On the evening of Mar 25, Punya waited in front of her house for her work to end; they went in together and had sex (once). They parted with a deep kiss (5 times in all)
 
+### Dunmore
 
-### Tess (the Serving Girl at The Copper Vat)
+#### Tess (the Serving Girl at The Copper Vat)
 
 - Age 21. She serves at The Copper Vat, the inn of Dunmore. Freckled, and quick to notice things. The innkeeper, Master Bell, is a former wine merchant
 - She has no boyfriend. The boys of the town are childish, and the sailors who court her are rough and gone the next day, so she has never taken any of them up
 - On Mar 22, she told the newly arrived Punya the rumor of the vanishing wine barrels, and got Bell to introduce the party to the merchants' hall. When the case was solved, Punya treated her to wine in thanks; the drink helped, and they had sex in his room at the inn (3 times). Punya promised, "I leave tomorrow, but I will surely come again — wait for me", and they parted with a deep kiss (3 times in all)
-
-### Hilde (the Ferryman Garr's Wife)
-
-- Age 28. The wife of Garr, the ferryman of the bridge settlement. The horse thief Hesk's younger sister. Married to Garr for six years; no children
-- She knew of her brother Hesk and her husband Garr's horse-theft scheme and kept silent for three days
-- Before dawn on Apr 3, she was captured by Punya at Garr's house. Under threat of being sent to the Greywall prison, she was pressed with "become my woman, and you can go on living in this settlement", and she submitted. They had sex (4 times, all inside). Punya told her he would hold her until he passes her count with Garr (about 800 times), that she might bear his child, and forbade her ever to tell Marit (4 times in all)
